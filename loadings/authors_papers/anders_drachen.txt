@@ -1,0 +1,194 @@
+Game analytics
+Player modeling using self-organization in Tomb Raider: Underworld
+Correlation between heart rate, electrodermal activity and player experience in first-person shooter games
+Methods for evaluating gameplay experience in a serious gaming context
+Playability and player experience research
+Defining personas in games using metrics
+Towards gameplay analysis via gameplay metrics
+Guns, swords and data: Clustering of player behavior in computer games in the wild
+Predicting player behavior in tomb raider: Underworld
+The game master
+Analyzing spatial user behavior in computer games using geographic information systems
+A comparison of methods for player clustering via behavioral telemetry
+The many faces of role-playing games
+Live action role-playing games: Control, communication, storytelling, and MMORPG similarities
+How players lose interest in playing a game: An empirical study based on distributions of total playing times
+Predicting player churn in the wild
+Game data mining
+Towards a framework of player experience research
+Motivations for play in computer role-playing games
+Role playing games: comparative analysis across two media platforms
+Patterns of Play: Play-Personas in User-Centred Game Development.
+Skill-based differences in spatio-temporal team behaviour in defence of the ancients 2 (dota 2)
+Clustering game behavior data
+Game analytics–the basics
+Arrrgghh!!!: blending quantitative and qualitative methods to detect player frustration
+Evaluating motion: Spatial user behaviour in virtual environments
+Managing emergent character-based narrative
+Cross-format analysis of the gaming experience in multi-player role-playing games.
+Crafting user experience via game metrics analysis
+Game time: modeling and analyzing time in multiplayer and massively multiplayer games
+Predicting purchase decisions in mobile free-to-play games
+The Playtime Principle: Large-scale cross-games interest modeling.
+Communication in multi-player role playing games–The effect of medium
+Abusir I: the mastaba of Ptahshepses: text
+Behavior evolution in tomb raider underworld
+Spatial game analytics
+Archetypal Game Recommender Systems.
+Player-Character Dynamics in Multi-Player Role Playing Games.
+Personalizing the player experience in MMORPGs
+Character play: the use of game characters in multi-player role-playing games across platforms
+An assemblage of the host anemone Heteractis magnifica in the northern Red Sea, and distribution of the resident anemonefish
+Gameplay metrics in game user research: Examples from the trenches
+Visual attention and gaze behavior in games: An object-based approach
+Player talk—the functions of communication in multplayer role-playing games
+Esports Analytics Through Encounter Detection Other Sports
+Beyond heatmaps: Spatio-temporal clustering using behavior-based partitioning of game levels
+Ordovician–Silurian distribution of Orthida (Palaeozoic brachiopoda) in the greater Iapetus Ocean region
+A scientific look at the design of aesthetically and emotionally engaging interactive entertainment experiences
+Game user research
+Group play: determining factors on the gaming experience in multiplayer role-playing games
+Large-scale cross-game player behavior analysis on steam
+Benefits of game analytics: Stakeholders, contexts and domains
+Analyzing user behavior via gameplay metrics
+Predicting retention in sandbox games with tensor factorization-based representation learning
+User studies: a strategy towards a successful industry-academic relationship
+Modeling Game Master-based story facilitation in multi-player Role-Playing Games
+Tales for the many: Process and authorial control in multi-player role-playing games
+Ghost worlds–time and consequence in MMORPGs
+An investigation of player to player character identification via personal pronouns
+Psychophysiological correlations with gameplay experience dimensions
+An overview of training simulation research and systems
+Going Out of Business: Auction House Behavior in the Massively Multi-Player Online Game Glitch
+Game analytics for game user research, Part 1: A workshop review and case study
+Naming virtual identities: patterns and inspirations for character names in world of warcraft
+Introducing archetypal analysis for player classification in games
+Interesting times: Modeling time in multi player and massively multiplayer role playing games
+Integrating and inspecting combined behavioral profiling and social network models in destiny
+Rapid Prediction of Player Retention in Free-to-Play Mobile Games
+Lightweight Games User Research for Indies and Non-Profit Organizations
+Patterns in the distribution of digital games via BitTorrent
+Tropidoleptida (Brachiopoda): devonian hopeful monsters or misplaced orphans
+Profiling in Games: Understanding Behavior from Telemetry
+Games user research
+Predicting player churn in destiny: A Hidden Markov models approach to predicting player departure in a major online game
+The Age of Analytics
+Distribution of digital games via BitTorrent
+Role-Playing Games: The State of Knowledge
+Play with me? Understanding and measuring the social aspect of casual gaming
+Guns and guardians: Comparative cluster analysis and behavioral profiling in destiny.
+Skill-based differences in spatio-temporal team behavior in defence of the ancients 2
+Behavioral telemetry in games user research
+The name in the game: Patterns in character names and gamer tags
+The Personal Experience of Narratives in Role-Playing Games.
+Identifying onboarding heuristics for free-to-play mobile games: a mixed methods approach
+How playstyles evolve: progression analysis and profiling in just cause 2
+Conceptually meaningful metrics: Inferring optimal challenge and mindset from gameplay
+Sampling for game user research
+The Orthida: disparity, diversity and distributional dynamics in a Palaeozoic brachiopod clade
+Analyzing player networks in Destiny
+Online-only friends, real-life friends or strangers? Differential associations with passion and social capital in video game play
+Evaluating the Onboarding Phase of Free-toPlay Mobile Games: A Mixed-Method Approach
+Introducing clustering i: Behavioral profiling for game analytics
+The Orthida: the rise and fall of a great Palaeozoic Brachiopod clade
+Developing methods for evaluation of virtual worlds and multiplayer games: An early report
+Innovations in Character: Personalizing RPGs, Retaining Players
+Managing Emergent Narrative
+Tales for the many: Storytelling in RPGs, LARPs and MMORPGs
+Game Analytics for Game User Research
+Controlling the crucible: a novel PvP recommender systems framework for destiny
+Win Prediction in Esports: Mixed-Rank Match Prediction in Multi-player Online Battle Arena Games
+Exploring the relationship between video game expertise and fluid intelligence
+Exploration and skill acquisition in a major online game
+Stylized facts for mobile game analytics
+21 Gaming on environmental issues
+Introducing clustering ii: Clustering algorithms
+Analyzing User Behavior in Digital Games
+Only the good... get pirated: game piracy activity vs. metacritic score
+Only the Good... Get Pirated: Game Piracy Activity vs. Product Features
+Piracy Activity vs. Product Features in Digital Games
+Game Metrics
+Playability and Player Experience Research
+Towards Data-Driven Drama Management: Issues in Data Collection and Annotation.
+Modeling the Story Facilitation of Game Masters in Multi-Player Role-Playing Games.
+Game format effects on communication in multi-player games
+Player Talk–The functions of communication in multi-player Role Playing Games–Players and Media
+Making Magic! Enhancing PnP RPGs With Computing Technology
+Control and Communication in Live Role Playing Games-review and implications for MMORPGs
+Inside the Group: Investigating Social Structures in Player Groups and Their Influence on Activity
+Narrative Bytes: Data-Driven Content Production in Esports
+What Moves Players?: Visual Data Exploration of Twitter and Gameplay Data
+Social Aspects of the Game Development Process in the Global Gam Jam
+Player retention in league of legends: a study using survival analysis
+To be or not to be... social: incorporating simple social features in mobile game customer lifetime value predictions
+Predicting skill learning outcomes in a large, longitudinal MOBA dataset
+Addition and subtraction by human infants
+eSport vs irlSport
+Curiously Motivated: Profiling Curiosity with Self-Reports and Behaviour Metrics in the Game Destiny
+Predicting Victory in a Hybrid Online Competitive Game: The Case of Destiny
+Predicting Victory in a Hybrid Online Competitive Game: The Case of Destiny
+Going Out of Business: Auction House Behavior in the Massively Multi-Player Online Game
+A Factor-Based Exploration of Players Continuation Desire in Free-to-Play Mobile Games
+The Age of Analytics
+Introducing Clustering IV: The Case of Tera Online
+Introducing Clustering III: Challenges and Pitfalls
+Analysing Auctions: The Case of Glitch
+Economic Research on MMORPGs: A Very Quick Overview
+Visualizing Dynamic Behavior Flow
+Predicting Purchase Decisions in Mobile Free-To-Play Games
+The Playtime Principle: Mining 5 Billion Hours of Play on Steam
+Entertainment Computing
+Games User Research and Analytics
+Introduction: Changing the Game
+What’s in a World of Warcraft character’s name
+An Investigation of World of Warcraft Names
+Introduction to User Analytics
+Telemetry Sampling in Game Development
+Sound Settlements: an interdisciplinary and transnational approach to sustainable housing
+An Investigation of Player to Player Character Identification via Personal Pronouns (Pre-print)
+Beyond the Heatmap
+CHI-GUR (Game User Research): Exploring Methodologies
+Analyzing player communication in multi-player games
+Chapter I2: Game Analytics–The Basics
+Player Experience and Game User Research Workshop
+Introducing Archetypal Analysis for Player Classification in Games
+Evaluating Player Experience in Games
+Digital game piracy
+Towards a Framework of Player Experience Research
+UX-Track. Game Metrics for the Danish Industry
+Evaluating Motion: Spatial User Behaviour in Virtual Environments MindTrek 2009//Everyday Life in the Ubiquitous Era//Ambient Media+ Social Media+ Games
+User Studies: A Strategy Towards a Successful Industry-Academic Relationship
+Game Time Modeling and Analyzing Time in Multiplayer and Massively Multiplayer Games (vol 4, pg 170, 2008)
+Copyright and Disclaimer
+Analyzing User Behavior via Gameplay Metrics
+Game Metrics and Biometrics: The Future of Player Experience Research
+Shaping Character-Based Narrative
+Patterns of Play: Play-Personas in User-Centered Game Development
+The Personal Experience of Narratives in Role-Playing Games
+Verbal communication of story facilitators in multi-player role-playing games
+Managing emergent character-based narrative
+Analyzing player communication in online games
+The Many Faces of Role-Playing Games
+Play Story. Communication, Character and Cross-Platform Gaming Experiences in Multi-Player Role-Playing Games
+Damselfish metabolic adaptation to changes in temperature
+A 20/20 View Of The Future
+Enhancing MMOG world design with believability: Utilizing natural science principles and methods in MMOGs
+I know your game–games and artificial intelligence
+The Diabetes Controversy
+Making Magic! The effects of enhancing PnP RPGs with computing technology
+Reefworld. Education, Entertainment and Research in a Virtual Reef Environment
+An Overview of Training Simulation Research and Systems
+An Overview of Training Simulation Research and Systems
+Ordovician-Silurian distribution of the Orthida: Comparing the faunal history and interactions of plate systems around the Greater Iapetus Ocean
+Conodont-, graptolite-, and chitinozoa-based Silurian composite developed using graphic correlation aids new calibration of current Silurian chronostratigraphy
+The Orthida: Disparity, diversity and distributional dynamics in a Palaeozoic brachiopod clade
+An assemblage of the host anemone Heteractis magnifica in the northern Red Sea
+The Deep Blue
+The Anemone City of Sinai
+De dybe blå
+Cnidae-Naturens eksplosive raketbatterier
+" Offizielle" elektronische Version der Publikation (entsprechend ihrem Digital Object Identifier-DOI)
+The Name in the Game: Patterns in Character Names and Gamer Tags
+Fuzzy Cognitive Maps in Interactive Storytelling/5 Yundong Cai, Chunyan Miao, Ah-Hwee Tan, Zhiqi Shen Seismic Semantic Federation: The View from Machu Picchu/12 Beth Cardier …
+Chapter X: Gaming on Environmental Issues
+Analyzing User Behavior in Digital Games [PRE-PRINT]

@@ -1,0 +1,999 @@
+The genetics of Caenorhabditis elegans
+Approximate Bayesian computation in population genetics
+A proposal for a uniform nomenclature in bacterial genetics
+Genetics of natural populations. V. Relations between mutation rate and accumulation of lethals in populations of Drosophila pseudoobscura
+The population genetics of speciation: the evolution of hybrid incompatibilities.
+A spatial statistical model for landscape genetics
+Soft sweeps: molecular population genetics of adaptation from standing genetic variation
+Population bottlenecks and nonequilibrium models in population genetics. II. Number of alleles in a small population that was formed by a recent bottleneck
+Compensatory mutations, antibiotic resistance and the population genetics of adaptive evolution in bacteria
+Genetics of natural populations. X. Dispersion rates in Drosophila pseudoobscura
+Genetics of life history in Drosophila melanogaster. II. Exploratory selection experiments
+Progress and promise of genome-wide association studies for human complex trait genetics
+Molecular genetics of growth and development in populus. IV. Mapping QTLs with large effects on growth, form, and phenology traits in a forest tree.
+Population genetics of polymorphism and divergence.
+Principles of population genetics
+Genetics of life history in Drosophila melanogaster. I. Sib analysis of adult females
+The genetics of feeding in Caenorhabditis elegans.
+Genetics of natural populations. XII. Experimental reproduction of some of the changes caused by natural selection in certain populations of Drosophila …
+Arlequin (version 3.0): an integrated software package for population genetics data analysis
+The population genetics of clonal and partially clonal diploids
+MEGA2: molecular evolutionary genetics analysis software
+Molecular evolutionary genetics
+Genetics and analysis of quantitative traits
+A model for the genetics of handedness
+The population genetics of the origin and divergence of the Drosophila simulans complex species
+Analysis of conditional genetic effects and variance components in developmental genetics.
+Genetics of natural populations. XIII. Recombination and variability in populations of Drosophila pseudoobscura
+The contribution of ecological genetics to evolutionary theory: detecting the direct effects of natural selection on particular polymorphic loci.
+Dominance, epistasis and the genetics of postzygotic isolation
+Genetics of natural populations. XIX. Origin of heterosis through natural selection in populations of Drosophila pseudoobscura
+Association genetics in Pinus taeda LI Wood property traits
+Estimation of average heterozygosity and genetic distance from a small number of individuals
+Bayesian clustering using hidden Markov random fields in spatial population genetics
+MEGA3: integrated software for molecular evolutionary genetics analysis and sequence alignment
+Comparative genetics of disease resistance within the Solanaceae
+MEGA6: molecular evolutionary genetics analysis version 6.0
+MEGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0
+Mitochondrial genetics IX: a model for recombination and segregation of mitochondrial genomes in Saccharomyces cerevisiae
+The genetics of levamisole resistance in the nematode Caenorhabditis elegans
+Genetics of somatic mammalian cells. IV. Properties of Chinese hamster cell mutants with respect to the requirement for proline
+An introduction to population genetics theory.
+Comparative genetics of nucleotide binding site-leucine rich repeat resistance gene homologues in the genomes of two dicotyledons: tomato and Arabidopsis
+Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows
+Molecular and comparative genetics of mental retardation
+MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods
+Statistical method for testing the neutral mutation hypothesis by DNA polymorphism.
+Multilevel selection 1: quantitative genetics of inheritance and response to selection
+Quantitative trait locus mapping based on resampling in a vast maize testcross experiment and its relevance to quantitative genetics for complex traits
+Pathology and genetics of tumours of the digestive system
+Introduction to quantitative genetics
+Dobzhansky, Bateson, and the genetics of speciation
+Developmental quantitative genetics, conditional epigenetic variability and growth in mice
+Genetics of natural populations IX. Temporal changes in the composition of populations of Drosophila pseudoobscura
+The genetics of a viviparous top-minnow Platypoecilus; the inheritance of two kinds of melanophores
+Pathology and genetics of tumours of the nervous system
+DnaSP version 3: an integrated program for molecular population genetics and molecular evolution analysis.
+Evolution and the genetics of populations, volume 3: experimental results and evolutionary deductions
+Genetics of resistance to radiation in Escherichia coli
+Theory of population genetics and evolutionary ecology: an introduction.
+Molecular population genetics of the alcohol dehydrogenase gene region of Drosophila melanogaster
+Twenty-five years ago in Genetics: electrophoresis in the development of evolutionary genetics: milestone or millstone?
+Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data.
+Genetics and the Origin of Species
+Developmental genetics of the Drosophila egg I. Identification of 59 sex-linked cistrons with maternal effects on embryonic development
+Molecular population genetics of mtDNA size variation in crickets.
+Differential fertility in population genetics models
+Arlequin: a software for population genetics data analysis
+Transmission genetics of chromatin from a synthetic amphidiploid to cultivated peanut (Arachis hypogaea L.): broadening the gene pool of a monophyletic polyploid …
+NCBI GEO: archive for functional genomics data sets—update
+Schizophrenia and genetics. A twin study vantage point
+Genetics of natural populations. XVI. Altitudinal and seasonal changes produced by natural selection in certain populations of Drosophila pseudoobscura and …
+Genetics of acetylcholinesterase in Drosophila melanogaster
+Molecular population genetics and evolution.
+Genetic applications of an inverse polymerase chain reaction.
+BIOSYS-1: a FORTRAN program for the comprehensive analysis of electrophoretic data in population genetics and systematics
+Association genetics of coastal Douglas fir (Pseudotsuga menziesii var. menziesii, Pinaceae). I. Cold-hardiness related traits
+Embryo banks in the future of developmental genetics
+Frankenstein's footsteps: science, genetics and popular culture
+Inference of population structure using multilocus genotype data
+Genetics of the left arm of the chromosome of bacteriophage lambda
+Genetics of natural populations. XVIII. Experiments on chromosomes of Drosophila pseudoobscura from different geographic regions
+Jeffrey H. Miller, A Short Course in Bacterial Genetics–A Laboratory Manual and Handbook for Escherichia coli and Related Bacteria. Cold Spring Harbor 1992. Cold …
+MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets
+Genetics of hybrid sterility and hybrid breakdown in an intersubspecific rice (Oryza sativa L.) population
+Molecular population genetics of male accessory gland proteins in Drosophila
+Mammalian cell genetics I. Selection and characterization of mutations auxotrophic for L-glutamine or resistant to 8-azaguanine in Chinese hamster cells in vitro
+Introduction to conservation genetics
+Emery and Rimoin's principles and practice of medical genetics
+The genetics of vivipary in maize
+A measure of population subdivision based on microsatellite allele frequencies.
+Manual of quantitative genetics.
+Development and evaluation of a genetics literacy assessment instrument for undergraduates
+The genetics of an esterase in Drosophila melanogaster
+Behavioral genetics
+Statistical tests of neutrality of mutations against population growth, hitchhiking and background selection
+Demographic genetics of brown trout (Salmo trutta) and estimation of effective population size from temporal change of allele frequencies
+The molecular genetics and evolution of red and green color vision in vertebrates
+Intraspecific phylogeography: the mitochondrial DNA bridge between population genetics and systematics
+Pathology and genetics of tumours of the breast and female genital organs
+Molecular population genetics of the distal portion of the X chromosome in Drosophila: evidence for genetic hitchhiking of the yellow-achaete region.
+Pathology and genetics of head and neck tumours
+Methods in yeast genetics
+A microsatellite map of wheat
+Pathology and genetics of tumours of the urinary system and male genital organs
+The genetics of Schizophyllum commune
+The principles of human biochemical genetics
+Evolutionary genetics.
+Genetics and experience: The interplay between nature and nurture.
+Empirical threshold values for quantitative trait mapping.
+Mapping mendelian factors underlying quantitative traits using RFLP linkage maps.
+Genetics and demography in biological conservation
+The effect of change in population size on DNA polymorphism.
+Targeting DNA double-strand breaks with TAL effector nucleases
+The impact of next-generation sequencing technology on genetics
+Statistics in Human Genetics (Arnold Applications of Statistics Series)
+Biometrical genetics: The study of continuous variation
+Evolutionary genetics and environmental stress
+All about albumin: biochemistry, genetics, and medical applications
+The genetics of human populations
+Genetic differentiation and estimation of gene flow from F-statistics under isolation by distance
+Laboratory course manual for methods in yeast genetics
+Narcolepsy in orexin knockout mice: molecular genetics of sleep regulation
+Ecological genetics
+Pathology and genetics of tumours of haematopoietic and lymphoid tissues
+Evolution in Mendelian populations
+A system of shuttle vectors and yeast host strains designed for efficient manipulation of DNA in Saccharomyces cerevisiae.
+Guide to yeast genetics and molecular and cell Biology: Part C
+The genetics of Aspergillus nidulans
+The shared epitope hypothesis. An approach to understanding the molecular genetics of susceptibility to rheumatoid arthritis
+Genetics of plant isozymes
+The number of alleles that can be maintained in a finite population
+The mathematical theory of quantitative genetics.
+In the name of eugenics: Genetics and the uses of human heredity
+A new statistic for detecting genetic differentiation
+Genetics of the evolutionary process
+Genetics of bacteriocins produced by lactic acid bacteria
+Computational genetics: computational analysis of microarray data
+Landscape genetics: combining landscape ecology and population genetics
+Inference of population structure using multilocus genotype data: linked loci and correlated allele frequencies
+Isolation by distance
+Mathematical population genetics 1: theoretical introduction
+… and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the …
+Microbial biofilms: from ecology to molecular genetics
+On the probability of fixation of mutant genes in a population
+Controlling the false discovery rate in behavior genetics research
+DNA hypermethylation in tumorigenesis: epigenetics joins genetics
+Genetics of populations
+MEGA: molecular evolutionary genetics analysis software for microcomputers
+The new genetics and clinical practice
+Flavonoid biosynthesis. A colorful model for genetics, biochemistry, cell biology, and biotechnology
+The mitochondrial genome of the honeybee Apis mellifera: complete sequence and genome organization.
+Evolutionary relationship of DNA sequences in finite populations
+Atherosclerosis: basic mechanisms: oxidation, inflammation, and genetics
+Description and power analysis of two tests for detecting recent population bottlenecks from allele frequency data
+Evolutionary parasitologythe integrated study of infections, immunology, ecology, and genetics
+Molecular genetics of attention-deficit/hyperactivity disorder
+Genetics: from genes to genomes
+The molecular genetics of cancer
+Advances in autism genetics: on the threshold of a new neurobiology
+Apoptosis: a link between cancer genetics and chemotherapy
+A generic estimation of population subdivision using distances between alleles with special reference for microsatellite loci
+Population genetics.
+Vogel and Motulsky's Human Genetics: Problems and Approaches
+Genetics, natural history, tumor spectrum, and pathology of hereditary nonpolyposis colorectal cancer: an updated review
+Mouse genetics: concepts and applications.
+Arlequin: a software for population genetics data analysis, version 2.000
+On a matching problem arising in genetics
+ABC of breast diseases: breast cancer—epidemiology, risk factors, and genetics
+Pathology and genetics of tumours of endocrine organs
+Genetics of gene expression surveyed in maize, mouse and man
+Updates on the cytogenetics and molecular genetics of bone and soft tissue tumors: osteosarcoma and related tumors
+Mitochondrial DNA and two perspectives on evolutionary genetics
+Interpreting DNA evidence: statistical genetics for forensic scientists
+A primer of population genetics.
+The Masterpiece of Nature:: The Evolution and Genetics of Sexuality
+Statistical tests of neutrality of mutations.
+Genetics of wheat storage proteins and the effect of allelic variation on bread-making quality
+Systems of mating. II. The effects of inbreeding on the genetic composition of a population
+Evolutionary genetics of invasive species
+Precision mapping of quantitative trait loci.
+MEGA: molecular evolutionary genetics analysis, version 1.02
+Mutations of bacteria from virus sensitivity to virus resistance
+Nature and nurture: An introduction to human behavioral genetics.
+Elements of evolutionary genetics
+Genetics of leucine aminopeptidase isozymes in maize
+Thompson & Thompson Genetics in Medicine E-Book
+Methods of multilocus enzyme electrophoresis for bacterial population genetics and systematics.
+Genetics and pathogenesis of inflammatory bowel disease
+Prediction of total genetic value using genome-wide dense marker maps
+A genetic map of the mouse suitable for typing intraspecific crosses.
+Estimation of the coancestry coefficient: basis for a short-term genetic distance
+Malignant astrocytic glioma: genetics, biology, and paths to treatment
+A genetic linkage map for cattle.
+Genetics and biochemistry of anthocyanin biosynthesis.
+Mitochondrial genetics: a paradigm for aging and degenerative diseases?
+PCR‐amplified microsatellites as markers in plant genetics
+Likelihood models for detecting positively selected amino acid sites and applications to the HIV-1 envelope gene
+Preservation of duplicate genes by complementary, degenerative mutations
+Hitchhiking under positive Darwinian selection
+The genetics of aldehyde oxidase in Drosophila melanogaster
+Genetics of mouse behavior: interactions with laboratory environment
+The genetics of ageing
+Conservation genetics
+Genetics and extinction
+Genetics of cortisone-induced cleft palate in the mouse—embryonic and maternal effects
+Population genetics of Caenorhabditis elegans: the paradox of low polymorphism in a widespread species
+Genetics and education.
+The stepping stone model of population structure and the decrease of genetic correlation with distance
+Conservation and the genetics of populations
+Pathogenesis and genetics of pre-eclampsia
+[10] 5-Fluoroorotic acid as a selective agent in yeast molecular genetics
+Pathology and genetics of tumours of soft tissue and bone
+HLA types in celiac disease patients not carrying the DQA1* 05-DQB1* 02 (DQ2) heterodimer: results from the European Genetics Cluster on Celiac Disease
+Pragmatics and statistics in psychiatric genetics
+A test of neutral molecular evolution based on nucleotide data
+Population genetics of haplodiploid insects
+The average number of generations until fixation of a mutant gene in a finite population
+Pairwise comparisons of mitochondrial DNA sequences in stable and exponentially growing populations.
+The genetics of bacteria and their viruses. Studies in basic genetics and molecular biology.
+Molecular genetics of human color vision: the genes encoding blue, green, and red pigments
+Evolutionary quantitative genetics
+Methods in Yeast Genetics: A Cold Spring Harbor Laboratory Course Manual, 2005 Edition (Cold Spring)
+Genetics and evolution of phenotypic plasticity
+Quantitative genetics of sperm precedence in Drosophila melanogaster
+From DNA to diversity: molecular genetics and the evolution of animal design
+A computer program for the analysis of allelic variation in genetics
+Beyond Bonferroni: less conservative analyses for conservation genetics
+Genetics of mental disorders: A guide for students, clinicians, and researchers.
+A review of the molecular genetics of the human alpha-globin gene cluster
+A molecular approach to the study of genic heterozygosity in natural populations. II. Amount of variation and degree of heterozygosity in natural populations of …
+Estimation of levels of gene flow from DNA sequence data.
+Multidimensional nonlinear diffusion arising in population genetics
+Microbial genetics: evolution experiments with microorganisms: the dynamics and genetic bases of adaptation
+Testing differentiation in diploid populations
+An introduction to medical genetics
+Medical genetics: a marker for Stevens–Johnson syndrome
+Biometrical Genetics-The Study Of Continous Variation
+The genetics of autism
+Methodology in medical genetics: an introduction to statistical methods
+Fusarium mycotoxins: chemistry, genetics, and biology.
+Genetics: analysis and principles
+Sampling variances of heterozygosity and genetic distance
+Evolution and the genetics of populations: Vol. 2. The theory of gene frequencies
+How to track and assess genotyping errors in population genetics studies
+Genetics of colonizing species, proceedings
+Mathematical structures in population genetics. Biomathematics
+Comparing evolvability and variability of quantitative traits.
+Molecular genetics of human blood pressure variation
+The genetic basis for constructing selection indexes
+GENELAND: a computer package for landscape genetics
+Pathogen population genetics, evolutionary potential, and durable resistance
+Genetics and ophthalmology
+The genetics of mammalian circadian order and disorder: implications for physiology and disease
+Serology, chemistry, and genetics of O and K antigens of Escherichia coli.
+Molecular genetics of the LDL receptor gene in familial hypercholesterolemia
+DNA barcoding: how it complements taxonomy, molecular phylogenetics and population genetics
+Psychobiology and molecular genetics of resilience
+A method for gene disruption that allows repeated use of URA3 selection in the construction of multiply disrupted yeast strains
+Estimation of past demographic parameters from the distribution of pairwise differences when the mutation rates vary among sites: application to human mitochondrial …
+Time zones: a comparative genetics of circadian clocks
+Concepts of genetics.
+Nonlinear diffusion in population genetics, combustion, and nerve pulse propagation
+The Neolithic transition and the genetics of populations in Europe
+Applications of single nucleotide polymorphisms in crop genetics
+A cladistic analysis of phenotypic associations with haplotypes inferred from restriction endonuclease mapping and DNA sequence data. III. Cladogram estimation.
+Fostering students' knowledge and argumentation skills through dilemmas in human genetics
+Genes: a software package for analysis in experimental statistics and quantitative genetics
+The genetics of mood disorders.
+Genetics of gene expression and its effect on disease
+Genetic structure and diversity in Oryza sativa L.
+The molecular genetics of Philadelphia chromosome–positive leukemias
+Sustainability of transgenic insecticidal cultivars: integrating pest genetics and ecology
+Genetics of austim: complex aetiology for a heterogeneous disorder
+Molecular genetics of aminoglycoside resistance genes and familial relationships of the aminoglycoside-modifying enzymes.
+Isozymes in plant genetics and breeding
+Codon-substitution models for heterogeneous selection pressure at amino acid sites
+Genomic libraries and a host strain designed for highly efficient two-hybrid selection in yeast
+Quantitative genetics in maize breeding
+" Doing the lesson" or" doing science": Argument in high school genetics
+Physical maps of the six smallest chromosomes of Saccharomyces cerevisiae at a resolution of 2.6 kilobase pairs.
+Identification and characterization of 22 genes that affect the vulval cell lineages of the nematode Caenorhabditis elegans
+Genetics of somatic mammalian cells: III. Long-term cultivation of euploid cells from human and animal subjects
+Genealogy of principal strains of the yeast genetic stock center
+The association of size differences with seed-coat pattern and pigmentation in Phaseolus vulgaris
+Malignant glioma: genetics and biology of a grave matter
+Biochemistry and genetics of von Willebrand factor
+From chance to choice: Genetics and justice
+A review on SNP and other types of molecular markers and their use in animal genetics
+Genetics and the Social Behavior of the Dog
+Statistical properties of the number of recombination events in the history of a sample of DNA sequences
+Genetics of sexuality in higher fungi.
+Qualitative genetics
+Comparative genetics in the grasses
+A stable genomic source of P element transposase in Drosophila melanogaster.
+Population genetics—making sense out of sequence
+Integration within the Felsenstein equation for improved Markov chain Monte Carlo methods in population genetics
+Pancreatic cancer biology and genetics
+Estimate of the mutation rate per nucleotide in humans
+The variant call format and VCFtools
+The genetics of inbreeding depression
+Molecular genetics of plant disease resistance
+Multilocus methods for estimating population sizes, migration rates and divergence time, with applications to the divergence of Drosophila pseudoobscura …
+A tightly regulated inducible expression system for conditional gene knock-outs and dominant-negative genetics in Trypanosoma brucei
+The genetics and regulation of heat-shock proteins
+Highly expressed genes in yeast evolve slowly
+The genetics of schizophrenia.
+Genetics: Influence of TOR kinase on lifespan in C. elegans
+Genetics of body-weight regulation
+Population genetics, demographic connectivity, and the design of marine reserves
+The genetics of mental disorders.
+An evaluation of genetic distances for use with microsatellite loci.
+Calcitonin gene-related peptide and its receptors: molecular genetics, physiology, pathophysiology, and therapeutic potentials
+Principles of human genetics
+Plant transposable elements: where genetics meets genomics
+Sexuality and the genetics of bacteria.
+A high-density rice genetic linkage map with 2275 markers using a single F2 population
+The molecular genetics of crop domestication
+The new mouse genetics: altering the genome by gene targeting
+Introduction to theoretical population genetics
+The enzymes, regulation, and genetics of bile acid synthesis
+On the universality of human nature and the uniqueness of the individual: The role of genetics and adaptation
+Genetics and mechanisms of glycopeptide resistance in enterococci.
+RNA regulation: a new genetics?
+Chromosomal genetics of Pseudomonas.
+Maximum likelihood estimation of population growth rates based on the coalescent
+Comparative genetics of coat colour in mammals.
+Testing heterozygote excess and deficiency.
+The molecular genetics of embryonic pattern formation in Drosophila
+Practical isozyme genetics.
+Ecological genetics of insecticide and acaricide resistance
+New methods employing multilocus genotypes to select or exclude populations as origins of individuals
+Mycobacterium tuberculosis complex genetic diversity: mining the fourth international spoligotyping database (SpolDB4) for classification, population genetics …
+The theory and analysis of diallel crosses
+A Review of its Symptomatology, Natural History, Pathologic Features, Genetics And Relationship to the Natural Aging Process
+A primer of ecological genetics.
+The genetics of quantitative traits: challenges and prospects
+Epidemiology and genetics of rheumatoid arthritis
+Multifactorial genetics: Mapping and analysis of quantitative trait loci in experimental populations
+Bayesian analysis of genetic differentiation between populations
+Genetics and speciation
+The genetics of addictions: uncovering the genes
+Genetic distances and reconstruction of phylogenetic trees from microsatellite DNA
+A high-throughput Arabidopsis reverse genetics system
+Hairpin-tail: a case of post-reductional gene action in the mouse egg?
+First course in population genetics.
+DNA marker technologies and their applications in aquaculture genetics
+Genetics in geographically structured populations: defining, estimating and interpreting FST
+The origins of theoretical population genetics: with a new afterword
+Bridging cognition, the brain and molecular genetics: evidence from Williams syndrome
+pegas: an R package for population genetics with an integrated–modular approach
+Construction of transgenic Drosophila by using the site-specific integrase from phage φC31
+The developmental genetics of congenital heart disease
+Molecular genetics of colorectal cancer
+Efficiency of marker-assisted selection in the improvement of quantitative traits.
+Experiments in microbial genetics
+High density molecular linkage maps of the tomato and potato genomes.
+The effect of deleterious mutations on neutral molecular variation.
+Molecular biology of amyotrophic lateral sclerosis: insights from genetics
+Three laws of behavior genetics and what they mean
+Amyloid β-protein and the genetics of Alzheimer's disease
+Distinguishing migration from isolation: a Markov chain Monte Carlo approach
+Problems on quantitative genetics.
+Random processes in genetics
+A HapMap harvest of insights into the genetics of common disease
+Genetics of quantitative characters in relation to plant breeding
+The developmental role of serotonin: news from mouse molecular genetics
+Molecular genetics of polyketides and its comparison to fatty acid biosynthesis
+Fast forward genetics based on virus-induced gene silencing
+The genetics of caloric restriction in Caenorhabditis elegans
+The genetics and genomics of cancer
+Isogenic strain construction and gene mapping in Candida albicans.
+A framework for community and ecosystem genetics: from genes to ecosystems
+The genetics of the silkworm
+Function and genetics of dystrophin and dystrophin-related proteins in muscle
+Epidemiology, Genetics, and Ecology of ToxigenicVibrio cholerae
+Stochastic kinetic analysis of developmental pathway bifurcation in phage λ-infected Escherichia coli cells
+The neurobiology of sleep: genetics, cellular physiology and subcortical networks
+Cytology and cyto-genetics.
+The probability of duplicate gene preservation by subfunctionalization
+The origin of the domestic pig: independent domestication and subsequent introgression
+WOMBAT—A tool for mixed model analyses in quantitative genetics by restricted maximum likelihood (REML)
+C. Genetics of Man Enzyme polymorphisms in man
+Highly efficient genome modifications mediated by CRISPR/Cas9 in Drosophila
+Gorlin's Syndromes of the Head and Neck (Oxford Monographs on Medical Genetics)
+On measures of gametic disequilibrium.
+Genetics and biology of vitamin D receptor polymorphisms
+Genetics of host-parasite interaction.
+Biochemistry and Genetics of Insect Resistance to B acillus thuringiensis
+High resolution of quantitative traits into multiple loci via interval mapping.
+Innate social aptitudes of man: an approach from evolutionary genetics
+Maximum-likelihood estimation of migration rates and effective population numbers in two populations using a coalescent approach
+Autosomal dominant cerebellar ataxias: clinical features, genetics, and pathogenesis
+GENETICS OF DERMAL RIDGES: BILATERAL ASYMMETRY IN FINGER RIDGE‐COUNTS
+The genetics of depression: a review
+Medical genetics: principles and practice
+Asthma genetics 2006: the long and winding road to gene discovery
+The minimum number of genes contributing to quantitative variation between and within populations
+The genetics of human obesity
+Chemical genetics strategy identifies an HCV NS5A inhibitor with a potent clinical effect
+Rates of spontaneous mutation
+… -Fox Experiment: Foxes bred for tamability in a 40-year experiment exhibit remarkable transformations that suggest an interplay between behavioral genetics …
+Altered fidelity of mitotic chromosome transmission in cell cycle mutants of S. cerevisiae
+The number of heterozygous nucleotide sites maintained in a finite population due to steady flux of mutations
+Relationship of genetics, age, and physical fitness to daily energy expenditure and fuel utilization
+How malaria has affected the human genome and what human genetics can teach us about malaria
+Techniques for research in quantitative animal genetics
+Lords of the fly: Drosophila genetics and the experimental life
+Multifactorial genetics: The use of molecular genetics in the improvement of agricultural populations
+A simple sequence repeat-based linkage map of barley
+The new genetics and the public's health
+New patterns in genetics and development.
+Rat gene mapping using PCR-analyzed microsatellites.
+Genetics of somatic mammalian cells, VII. Induction and isolation of nutritional mutants in Chinese hamster cells
+Microsatellite marker development, mapping and applications in rice genetics and breeding
+Bayesian inference of recent migration rates using multilocus genotypes
+DNA polymorphism detectable by restriction endonucleases
+Genetics and biology of pancreatic ductal adenocarcinoma
+EASYPOP (version 1.7): a computer program for population genetics simulations
+Genetics of Parkinson disease: paradigm shifts and future prospects
+… challenge of improving nitrogen use efficiency in crop plants: towards a more central role for genetic variability and quantitative genetics within integrated approaches
+Epidemiology and genetics in the coevolution of parasites and hosts
+Biochemistry and genetics of the ABO, Lewis, and P blood group systems
+Plant resistance to herbivores and pathogens: ecology, evolution, and genetics
+Molecular genetics of prostate cancer
+Gametic disequilibrium measures: proceed with caution
+Likelihood, Bayesian, and MCMC methods in quantitative genetics
+Human genetics
+Genetics for fish hatchery managers.
+Putting the 'landscape'in landscape genetics
+Genomics and the future of conservation genetics
+Parallel genetic algorithms, population genetics and combinatorial optimization
+RFLP maps based on a common set of clones reveal modes of chromosomal evolution in potato and tomato.
+Genetics and the search for modern human origins
+Genetics, pathogenesis and clinical interventions in type 1 diabetes
+Homoplasy and mutation model at microsatellite loci and their consequences for population genetics analysis
+Multifactorial genetics: understanding quantitative genetic variation
+The genetics and immunopathogenesis of inflammatory bowel disease
+How culture shaped the human genome: bringing genetics and the human sciences together
+Genome engineering of Drosophila with the CRISPR RNA-guided Cas9 nuclease
+What do genetics and ecology tell us about the design of nature reserves?
+Forensic DNA typing: biology, technology, and genetics of STR markers
+Genetics of retinoblastoma
+Evolutionary quantitative genetics: how little do we know?
+Association mapping of kernel size and milling quality in wheat (Triticum aestivum L.) cultivars
+The genetics and biochemistry of floral pigments
+Transcriptome genetics using second generation sequencing in a Caucasian population
+The impact of genetic relationship information on genome-assisted breeding values
+The genetics of corn
+Genetics of rheumatoid arthritis contributes to biology and drug discovery
+Trichothecene biosynthesis in Fusarium species: chemistry, genetics, and significance.
+Physicians' knowledge of genetics and genetic tests.
+Prokaryotic osmoregulation: genetics and physiology
+The Ribosomal Database Project: improved alignments and new tools for rRNA analysis
+Cytochrome P450 2D6: overview and update on pharmacology, genetics, biochemistry
+Impaired attention, genetics, and the pathophysiology of schizophrenia.
+The locus of evolution: evo devo and the genetics of adaptation
+A genome-scan method to identify selected loci appropriate for both dominant and codominant markers: a Bayesian perspective
+The GeneMANIA prediction server: biological network integration for gene prioritization and predicting gene function
+An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics
+The genetics and pathology of oxidative phosphorylation
+Population genetics: a concise guide
+The molecular-genetics of nitrogen assimilation into amino acids in higher plants
+Review of the Lynch syndrome: history, molecular genetics, screening, differential diagnosis, and medicolegal ramifications
+The molecular genetics of the T-cell antigen receptor and T-cell antigen recognition
+Heredity in health and mental disorder; principles of psychiatric genetics in the light of comparative twin studies.
+Some aspects of normal and abnormal cell surface genetics
+Molecular genetics of inherited variation in human color vision
+Efficient control of population structure in model organism association mapping
+Principles of genetics.
+Genetics for the animal sciences
+The genetics of schizophrenia and bipolar disorder: dissecting psychosis
+Molecular genetics and epidemiology of the NAT1 and NAT2 acetylation polymorphisms
+Identification of trait-improving quantitative trait loci alleles from a wild rice relative, Oryza rufipogon
+Toward a saturated linkage map in tomato based on isozymes and random cDNA sequences
+The evolution and genetics of innate immunity
+Genetics of human cell lines: III. Incorporation of 5-bromo-and 5-Iododeoxyhridine into the deoxyribonucleic acid of human cells and its effect on radiation sensitivity
+Theoretical aspects of population genetics
+Plant comparative genetics after 10 years
+Targeted chromosomal cleavage and mutagenesis in Drosophila using zinc-finger nucleases
+Genetics of human cell lines, IV. DNA-mediated heritable transformation of a biochemical trait
+BRCA1 and BRCA2 and the genetics of breast and ovarian cancer
+Human evolutionary genetics: origins, peoples & disease
+The new look of behavioral genetics in developmental psychopathology: gene-environment interplay in antisocial behaviors.
+Population genetics of BRCA1 and BRCA2.
+Separating population structure from population history: a cladistic analysis of the geographical distribution of mitochondrial DNA haplotypes in the tiger salamander …
+The AH-receptor: genetics, structure and function.
+Genetics and mental retardation syndromes: A new look at behavior and interventions.
+Removing the genetics from the standard genetic algorithm
+Biochemistry and genetics of eukaryotic mismatch repair.
+The Genetics of Schizophrenia: A Current, Genetic-Epidemioiogic Perspective.
+Development, genetics, and psychology
+dCAPS, a simple technique for the genetic analysis of single nucleotide polymorphisms: experimental applications in Arabidopsis thaliana genetics
+Prefrontal neurons and the genetics of schizophrenia
+Simple methods for testing the molecular evolutionary clock hypothesis.
+Genetics and cytogenetics of multiple myeloma: a workshop report
+The population genetics of adaptation: the distribution of factors fixed during adaptive evolution
+Basic concepts in population, quantitative, and evolutionary genetics.
+Next-generation sequencing technologies and their implications for crop genetics and breeding
+The genetics of autistic disorders and its clinical relevance: a review of the literature
+Quantitative genetics in sheep breeding.
+Mammalian cell genetics. II. Chemical induction of specific locus mutations in Chinese hamster cells in vitro
+An approach to population and evolutionary genetic theory for genes in mitochondria and chloroplasts, and some results
+Permutation tests for multiple loci affecting a quantitative character
+MOLECULAR GENETICS OF SPORULATION IN BACILLUS SUBTILIS
+Molecular genetics of bacteria
+Thirty years of Alzheimer's disease genetics: the implications of systematic meta-analyses
+Cancer genetics
+Parametric statistical change point analysis: with applications to genetics, medicine, and finance
+Enzyme variability in the Drosophila willistoni group. IV. Genic variation in natural populations of Drosophila willistoni
+Genetics and geography of wild cereal domestication in the Near East
+The genetics of Alzheimer disease: back to the future
+Identification of genetic factors contributing to heterosis in a hybrid from two elite maize inbred lines using molecular markers.
+The genetic covariance between characters maintained by pleiotropic mutations
+Introduction to forest genetics
+Genetics versus environment in inflammatory bowel disease: results of a British twin study
+Epistasis and its contribution to genetic variance components.
+Creation of low-copy integrated transgenic lines in Caenorhabditis elegans
+Dementia of the Alzheimer type: clinical genetics, natural history, and associated conditions
+The theoretical population genetics of variable selection and migration
+Behavioral genetics in the postgenomic era.
+Application of inter simple sequence repeat (ISSR) markers to plant genetics
+A low mutation rate for chloroplast microsatellites
+Interval mapping of multiple quantitative trait loci.
+Multiple interval mapping for quantitative trait loci
+The evolutionary advantage of recombination
+New frontiers in Alzheimer's disease genetics
+Equilibrium values of measures of population subdivision for stepwise mutation processes
+Genetics and assembly line enzymology of siderophore biosynthesis in bacteria
+Population structure in Daphnia obtusa: quantitative genetic and allozymic variation.
+Comparative gene expression profiles following UV exposure in wild-type and SOS-deficient Escherichia coli
+The role of double-strand break repair—insights from human genetics
+Genomewide screen and identification of gene-gene interactions for asthma-susceptibility loci in three US populations: collaborative study on the genetics of …
+State of play in amyotrophic lateral sclerosis genetics
+The genetics of the mouse
+Analysis of families in the multiple autoimmune disease genetics consortium (MADGC) collection: the PTPN22 620W allele associates with multiple …
+The sequence alignment/map format and SAMtools
+Genetic linkage maps of Eucalyptus grandis and Eucalyptus urophylla using a pseudo-testcross: mapping strategy and RAPD markers.
+Behavior genetics
+Hybrid dysgenesis in Drosophila melanogaster: a syndrome of aberrant traits including mutation, sterility and male recombination
+Introduction to quantitative genetics (4th edn)
+Genetics of global gene expression
+Genetics of emotional regulation: the role of the serotonin transporter in neural function
+Empirical tests of some predictions from coalescent theory with applications to intraspecific phylogeny reconstruction.
+Genetics of poliovirus
+Consanguinity and its relevance to clinical genetics
+Genetic engineering in vivo using translocatable drug-resistance elements: new methods in bacterial genetics
+Genome sequence, comparative analysis, and population genetics of the domestic horse
+Quantitative genetics and developmental constraints on evolution by selection
+Measwring and testing genetic differentiation with ordered versus unordered alleles
+Genetics of convulsive disorders II. Genetic and electroencephalographic studies in centrencephalic epilepsy
+An introgression line population of Lycopersicon pennellii in the cultivated tomato enables the identification and fine mapping of yield-associated QTL.
+Molecular genetics of the bithorax complex in Drosophila melanogaster
+The hemoglobins in genetics and evolution.
+Genetics meets metabolomics: a genome-wide association study of metabolite profiles in human serum
+Human genetics shape the gut microbiome
+Data withholding in academic genetics: evidence from a national survey
+Genetics of osteoporosis.
+A model for three-point analysis of random general transduction
+Gene loss, silencing and activation in a newly synthesized wheat allotetraploid
+What we do and don't know about'race','ethnicity', genetics and health at the dawn of the genome era.
+Hirschsprung disease, associated syndromes and genetics: a review
+A short history of genetics: the development of some of the main lines of thought: 1864-1939.
+A molecular approach to the study of genic heterozygosity in natural populations. I. The number of alleles at different loci in Drosophila pseudoobscura
+Somatic crossing over and segregation in Drosophila melanogaster
+Genetics of aging
+Ecology, genetics, and evolution of metapopulations
+Biotechnics & society: The rise of industrial genetics
+Wheat storage proteins: their genetics and their potential for manipulation by plant breeding
+The physiology, genetics and molecular biology of plant aluminum resistance and toxicity
+Chemical genetics: ligand-based discovery of gene function
+Domestic-animal genomics: deciphering the genetics of complex traits
+MELAS: clinical features, biochemistry, and molecular genetics
+Peroxisome biogenesis disorders: genetics and cell biology
+The Bayesian revolution in genetics
+Spontaneous abortion risks in man: data from reproductive histories collected in a medical genetics unit
+Manual of procedures in quantitative genetics.
+The genetics of plant metabolism
+The major histocompatibility complex—genetics and biology
+Recent advances in genetics, diagnosis, localization, and treatment of pheochromocytoma
+Cancer genetics and epigenetics: two sides of the same coin?
+Conservation genetics: where are we now?
+The genetics of human adaptation: hard sweeps, soft sweeps, and polygenic adaptation
+The genetics of cleft lip and cleft palate.
+Genetics of multiple sclerosis
+Genetics of programmed cell death in C. elegans: past, present and future
+Quantitative genetics
+Systems genetics of complex traits in Drosophila melanogaster
+Diffusion models in population genetics
+Heterosis as a major cause of heterozygosity in nature
+The origin, emergence and evolutionary genetics of dengue virus
+Origins of the coalescent: 1974-1982
+Array-based technology and recommendations for utilization in medical genetics practice for detection of chromosomal abnormalities
+Genetics and conservation; a reference for managing wild animals and plant populations
+The genetics of Paramecium aurelia.
+A note on effective population size with overlapping generations
+Genetics of myeloid leukemias
+The mitochondrial genomes of two nematodes, Caenorhabditis elegans and Ascaris suum.
+Mammalian mitochondrial genetics: heredity, heteroplasmy and disease
+Emery's Elements of Medical Genetics E-Book
+Genetics of human cancer
+Molecular genetics of the P-450 superfamily
+The biochemistry and genetics of capsular polysaccharide production in bacteria
+Molecular genetics of prostate cancer: new prospects for old challenges
+Genetics: what is a gene?
+The role of DNA methylation in cancer genetics and epigenetics
+Distribution of gene frequency as a test of the theory of the selective neutrality of polymorphisms
+Molecular genetics and diagnosis of thyroid cancer
+The" hitchhiking effect" revisited.
+Genetics and developmental psychopathology: 2. The main effects of genes and environment on behavioral problems in the Virginia Twin Study of Adolescent …
+Alcoholism and genetics
+Genetics of adeno-associated virus: isolation and preliminary characterization of adeno-associated virus type 2 mutants.
+The molecular genetics of Marfan syndrome and related microfibrillopathies
+Gene flow by pollen: implications for plant conservation genetics
+GC-content evolution in mammalian genomes: the biased gene conversion hypothesis
+Diffusion processes in genetics
+Genetics of susceptibitlity to human infectious disease
+Saturated molecular map of the rice genome based on an interspecific backcross population.
+Molecular genetics of polyamine synthesis in eukaryotic cells
+A coalescent-based method for detecting and estimating recombination from gene sequences
+Genetics of the Fowl: The Classic Guide to Chicken Genetics and Poultry Breeding
+Genetics and the specificity of the aging process
+Reverse genetics by chemical mutagenesis in Caenorhabditis elegans
+Genetics: junk DNA as an evolutionary force
+Counseling and DNA testing for individuals perceived to be genetically predisposed to melanoma: a consensus statement of the Melanoma Genetics …
+Genetics of HUS: the impact of MCP, CFH, and IF mutations on clinical presentation, response to treatment, and outcome
+Mendelian factors underlying quantitative traits in tomato: comparison across species, generations, and environments.
+Principles ofhuman genetics
+GENEPOP: Population genetics software for exact tests and ecumenism. Vers. 1.2
+Evolution, genetics, and man.
+The pathophysiology and genetics of congenital lipoid adrenal hyperplasia
+Genes, genetics, and epigenetics: a correspondence
+Molecular genetics of retinitis pigmentosa.
+Drug reactions, enzymes, and biochemical genetics
+Molecular genetics and the stock concept in fisheries
+Population genetics
+Methods in the general biology and genetics of Paramecium aurelia
+Positive and negative selection on the human genome
+Genetics of Asthma and Hay Fever in Australian Twins1-3
+Estimating mutation parameters, population history and genealogy simultaneously from temporally spaced sequence data
+Genetics of somatic mammalian cells: II. Chromosomal constitution of cells in tissue culture
+A generalized approach for estimating effective population size from temporal changes in allele frequency.
+Cystic fibrosis population carrier screening: 2004 revision of American College of Medical Genetics mutation panel
+Crafting science: A sociohistory of the quest for the genetics of cancer
+Developmental genetics of the mechanosensory neurons of Caenorhabditis elegans
+Genetics of fitness and physical performance
+The population genetics of dN/dS
+Genetic variation in natural populations of five Drosophila species and the hypothesis of the selective neutrality of protein polymorphisms
+Community and ecosystem genetics: a consequence of the extended phenotype
+Molecular genetics of the RNA polymerase II general transcriptional machinery
+Probability models and statistical methods in genetics.
+The homozygosity test of neutrality
+The genetics of inflammatory bowel disease
+Principles of plant genetics and breeding
+KORA-gen-resource for population genetics, controls and a broad spectrum of disease phenotypes
+Analysis of the inheritance, selection and evolution of growth trajectories.
+Length polymorphisms of simple sequence repeat DNA in soybean.
+The genetics of Drosophila melanogaster
+The population genetics of commensal Escherichia coli
+Genetics, cytology, and evolution of Gossypium
+Genetic mapping in Saccharomyces
+The evolutionary genetics of speciation
+Acute promyelocytic leukemia: from genetics to treatment
+Naturally occurring variation in Arabidopsis: an underexploited resource for plant genetics
+Identification of novel genes in Arabidopsis involved in secondary cell wall formation using expression profiling and reverse genetics
+Genotype-environment interactions and the maintenance of polygenic variation.
+DNA Commission of the International Society of Forensic Genetics (ISFG): an update of the recommendations on the use of Y-STRs in forensic analysis
+Mathematical Theories of Populations: Deomgraphics, Genetics, and Epidemics
+Association genetics of complex traits in conifers
+Quantitative genetics and fitness: lessons from Drosophila
+Parenting and its effects on children: On reading and misreading behavior genetics
+Genetics and genomics of core short tandem repeat loci used in human identity testing
+Variability within and among natural populationsEvolution and the genetics of populations: A Treatise in Four Volumes
+Genetics of common disorders
+Allele frequencies at microsatellite loci: the stepwise mutation model revisited.
+Chemical genetics resulting from a passion for synthetic organic chemistry
+Modern genetics
+Dominance is the major genetic basis of heterosis in rice as revealed by QTL analysis using molecular markers.
+Gene mapping with recombinant inbreds in maize.
+The genetics of speciation at the diploid level
+Line-of-descent and genealogical processes, and their applications in population genetics models
+A simple and robust statistical test for detecting the presence of recombination
+Genetics of lactase persistence and lactose intolerance
+The polymerase chain reaction: a new method of using molecular genetics for medical diagnosis
+Rapid subfunctionalization accompanied by prolonged and substantial neofunctionalization in duplicate gene evolution
+History of genetics
+Detecting shared pathogenesis from the shared genetics of immune-related diseases
+The molecular basis of dominance
+The evolutionary genetics of personality
+Genetics of lipopolysaccharide biosynthesis in enteric bacteria.
+Combining population genomics and quantitative genetics: finding the genes underlying ecologically important traits
+Systematic gain-of-function genetics in Drosophila
+The epidemiology and genetics of atopic allergy
+The genetics of autism spectrum disorders and related neuropsychiatric disorders in childhood
+Genetic design and statistical power of nested association mapping in maize
+Genetics society of canada award of excellence lecture an induced mutant with homoeologous pairing in common wheat
+Genetics in obstetrics and gynecology
+Mitochondrial DNA and the evolutionary genetics of higher animals
+Physiology and genetics of procalcitonin
+The emergence of bacterial genetics
+Genetics of phosphate solubilization and its potential applications for improving plant growth-promoting bacteria
+Genetics and breeding
+Genetics of natural resistance to herpesvirus infections in mice
+Genetics and early development of zebrafish
+Evolution and the genetics of populations. Vol. 1. Genetic and biométrie foundations.
+Genetics of Aux/IAA and ARF action in plant growth and development
+ApoE-4 and age at onset of Alzheimer's disease the NIMH genetics initiative
+Genetics and conservation of rare plants
+Stochastic gene expression in fluctuating environments
+Genetics and the fitness of hybrids
+Genetics and pathogenesis of polycystic kidney disease
+Accuracy and power of statistical methods for detecting adaptive evolution in protein coding sequences and for identifying positively selected sites
+A mutation in the age-1 gene in Caenorhabditis elegans lengthens life and reduces hermaphrodite fertility.
+Genomewide nonadditive gene regulation in Arabidopsis allotetraploids
+RFLP mapping in soybean: association between marker loci and variation in quantitative traits.
+Forest genetics
+Fine mapping of quantitative trait loci using selected overlapping recombinant chromosomes, in an interspecies cross of tomato.
+The analysis of continuous variation in a diallel cross of Nicotiana rustica varieties
+Molecular-marker-facilitated investigations of quantitative-trait loci in maize. I. Numbers, genomic distribution and types of gene action
+Pathology and genetics of skin tumours
+Genome engineering with zinc-finger nucleases
+Cortical thickness or grey matter volume? The importance of selecting the phenotype for imaging genetics studies
+Pedigree analysis in human genetics
+Genetics and probability in animal breeding experiments.
+A genetic linkage map of a cichlid fish, the tilapia (Oreochromis niloticus)
+The population genetics of fungi: tools and techniques
+COSMIC: High‐resolution cancer genetics using the catalogue of somatic mutations in cancer
+Genetics of actin-related sequences in tomato
+Advanced intercross lines, an experimental population for fine genetic mapping.
+Paraoxonase: biochemistry, genetics and relationship to plasma lipoproteins.
+Genetics of obesity in humans
+Chemical genetics of Plasmodium falciparum
+Will genetics revolutionize medicine?
+Saposins: structure, function, distribution, and molecular genetics.
+Genetics, evolution, and man
+ATP-dependent chromatin remodeling: genetics, genomics and mechanisms
+Breast cancer genetics: what we know and what we need
+Mapping quantitative trait loci controlling milk production in dairy cattle by exploiting progeny testing.
+Comprehensive research synopsis and systematic meta-analyses in Parkinson's disease genetics: The PDGene database
+Quantitative genetics and selection in plant breeding
+Breeding, selection, and the genetics of salt tolerance
+The genetics of pigmentation: from fancy genes to complex traits
+The genetics and molecular biology of the synaptonemal complex
+A role for molecular genetics in the recognition and conservation of endangered species
+Genetic analysis of ethylene signal transduction in Arabidopsis thaliana: five novel mutant loci integrated into a stress response pathway.
+Developmental genetics of the lactate dehydrogenase isozymes of fish
+The genetics of alcohol metabolism: role of alcohol dehydrogenase and aldehyde dehydrogenase variants
+1 The population genetics of the haemoglobinopathies
+Leptospira: the dawn of the molecular genetics era for an emerging zoonotic pathogen
+Bacterial persistence: a model of survival in changing environments
+Estimating levels of gene flow in natural populations
+Multiple sclerosis: geoepidemiology, genetics and the environment
+Clinical and molecular genetics of patients with the Carney–Stratakis syndrome and germline mutations of the genes coding for the succinate dehydrogenase subunits …
+Genetics and genetic improvement of drought resistance in crop plants
+Hirschsprung disease, associated syndromes, and genetics: a review
+Physiology and molecular genetics of poly (β‐hydroxyalkanoic acid) synthesis in Alcaligenes eutrophus
+CNVs: harbingers of a rare variant revolution in psychiatric genetics
+Genetics and intelligence: A review
+Evolutionary genetics of genome merger and doubling in plants
+Organelle gene diversity under migration, mutation, and drift: equilibrium expectations, approach to equilibrium, effects of heteroplasmic cells, and comparison to …
+Genetics and American Society; a historical approach
+Biochemical genetics of glutathione-S-transferase in man.
+Synonymous codon usage in Drosophila melanogaster: natural selection and translational accuracy.
+A second-generation genetic linkage map of tilapia (Oreochromis spp.)
+Effect of recombination on the accuracy of the likelihood method for detecting positive selection at amino acid sites
+Metapopulation dynamics and genetics
+What can genetics tell us about population connectivity?
+The genetics and pathology of Rhizoctonia solani
+Comparative quantitative genetics: evolution of the G matrix
+Molecular genetics. An introductory narrative.
+RFLP mapping of genes conferring complete and partial resistance to blast in a durably resistant rice cultivar.
+Genetics and the Races of Man
+The structure, function, and molecular genetics of the gamma/delta T cell receptor
+Estimation of the components of heterosis
+Molecular genetics of acute lymphoblastic leukemia
+Clinical genetics of amyotrophic lateral sclerosis: what do we really know?
+A TILLING reverse genetics tool and a web-accessible collection of mutants of the legume Lotus japonicus
+Psychiatric genetics: search for phenotypes
+Population genetics in animal breeding.
+Molecular genetics of circadian rhythms in mammals
+The stability of broken ends of chromosomes in Zea mays
+Ecological genetics: design, analysis, and application
+Liquid biopsy: monitoring cancer-genetics in the blood
+Autism and genetics: a decade of research
+Psychiatric genetics: progress amid controversy
+Bacterial genetics by flow cytometry: rapid isolation of Salmonella typhimurium acid‐inducible promoters by differential fluorescence induction
+Genetics, physiology, and evolutionary relationships of the genus Buchnera: intracellular symbionts of aphids
+Behavioral genetics and personality
+The role of selection in the evolution of human mitochondrial genomes
+A dictionary of genetics
+Biological functions of the small leucine-rich proteoglycans: from genetics to signal transduction
+A nonparametric approach for mapping quantitative trait loci.
+The genetics of maize evolution
+Genetics of insect resistance to chemicals
+An extension of the concept of partitioning hereditary variance for analysis of covariances among relatives when epistasis is present
+Some problems of stochastic processes in genetics
+Fitness and its role in evolutionary genetics
+Molecular genetics of the most endangered canid: the Ethiopian wolf Canis simensis
+Analysis of GABAA Receptor Function and Dissection of the Pharmacology of Benzodiazepines and General Anesthetics Through Mouse Genetics
+Prevalence of carriers of premutation-size alleles of the FMRI gene--and implications for the population genetics of the fragile X syndrome.
+Shiga toxin: biochemistry, genetics, mode of action, and role in pathogenesis
+Elements of genetics
+Population and evolutionary genetics: a primer.
+Genetic analysis of tissue aging in Caenorhabditis elegans: a role for heat-shock factor and bacterial proliferation
+Isolation by distance under diverse systems of mating
+The miR-17/92 cluster: a comprehensive update on its genomics, genetics, functions and increasingly important and numerous roles in health and disease
+New IBD genetics: common pathways with other diseases
+Genetics of heterosis for earliness in the tomato
+A detailed linkage map of medaka, Oryzias latipes: comparative genomics and genome evolution
+The molecular genetics of Usher syndrome
+Genomewide rapid association using mixed model and regression: a fast and simple method for genomewide pedigree-based quantitative trait loci association …
+Interactions between gut microbiota, host genetics and diet relevant to development of metabolic syndromes in mice
+The neurobiology and genetics of suicide and attempted suicide: a focus on the serotonergic system
+High-efficiency transformation of Chlamydomonas reinhardtii by electroporation
+Inference of bacterial microevolution using multilocus sequence data
+Clinical and molecular genetics of Stickler syndrome
+The population genetics of synthetic lethals
+PGDSpider: an automated data conversion tool for connecting population genetics and genomics programs
+Allelic genealogy under overdominant and frequency-dependent selection and polymorphism of major histocompatibility complex loci.
+Pharmacogenomics knowledge for personalized medicine
+Non-disjunction as proof of the chromosome theory of heredity (concluded)
+World Health Organization classification of tumours. Pathology and genetics of head and neck tumours
+Genetics of craniofacial development and malformation
+The genetics of RNA silencing
+Genetics of Alzheimer disease
+Inferring weak selection from patterns of polymorphism and divergence at" silent" sites in Drosophila DNA.
+Assessing the molecular genetics of attention networks
+Molecular biology and genetics of tubulin
+Inbreeding and linkage
+Laboratory protocols: CIMMYT applied molecular genetics laboratory
+… silencing of cytoplasmic genes using sequence-specific double-stranded short interfering RNA and its application in the reverse genetics of wild type …
+Genetics of red cells and susceptibility to malaria
+Recent advances in the genetics of Paramecium and Euplotes
+NIMH genetics initiative millennium schizophrenia consortium: Linkage analysis of African‐American pedigrees
+Chemical-and irradiation-induced mutants of indica rice IR64 for forward and reverse genetics
+Testing for heterogeneity of recombination fraction values in human genetics
+A molecular approach to the study of genic heterozygosity in natural populations IV. Patterns of genic variation in central, marginal and isolated populations of …
+Comparative genetics of hybrid incompatibility: sterility in two Solanum species crosses
+The expansion of conservation genetics
+Genetics of autism spectrum disorders
+DNA Commission of the International Society of Forensic Genetics: recommendations on forensic analysis using Y-chromosome short tandem repeats
+Ecology, physiology, and genetics of fimbriae and pili
+Verbal declarative memory dysfunction in schizophrenia: from clinical assessment to genetics and brain mechanisms
+Documenting domestication: the intersection of genetics and archaeology
+Are eukaryotic microorganisms clonal or sexual? A population genetics vantage.
+Zebrafish genetics and vertebrate heart formation
+Neuregulin 1 and schizophrenia: genetics, gene expression, and neurobiology
+Adrenoleukodystrophy: phenotype, genetics, pathogenesis and therapy.
+Epigenetic inheritance and the missing heritability problem
+Experience from clinical genetics in hypertrophic cardiomyopathy: proposal for new diagnostic criteria in adult members of affected families.
+How flies get their size: genetics meets physiology
+Archaeal genetics—the third way
+Principles of genetics
+Genetics, development and evolution of adaptive pigmentation in vertebrates
+Population genetics and evolution.
+Physiology and genetics of the dimorphic fungus Yarrowia lipolytica
+Origin, evolution, population genetics and resources for breeding of wild barley, Hordeum spontaneum, in the Fertile Crescent.
+Molecular genetics of multiple endocrine neoplasia types 1 and 2
+Troponin T: genetics, properties and function
+The theory of speciation via the founder principle
+Selfish DNA: a sexually-transmitted nuclear parasite
+Phenotypic characterization of individuals with 30–40 CAG repeats in the Huntington disease (HD) gene reveals HD cases with 36 repeats and apparently normal …
+The genetics of variation in gene expression
+The genetics of behavior.
+Detecting marker-QTL linkage and estimating QTL gene effect and map location using a saturated genetic map.
+Analysing georeferenced population genetics data with Geneland: a new algorithm to deal with null alleles and a friendly graphical user interface
+Genetics, law, and social policy
+Amyotrophic lateral sclerosis: recent insights from genetics and transgenic mice
+Analysis of flanking sequences from dissociation insertion lines: a database for reverse genetics in Arabidopsis
+Single nucleotide polymorphisms as tools in human genetics
+Genetics of flowering plants
+Homologous recombination in Escherichia coli: dependence on substrate length and homology
+A microsatellite linkage map of rainbow trout (Oncorhynchus mykiss) characterized by large sex-specific differences in recombination rates
+The genetics revolution and the assault on rheumatoid arthritis
+Quantitative genetics and the evolution of reaction norms
+Deconstructing the relationship between genetics and race
+Mutants of yeast defective in mutation induced by ultraviolet light
+Veterinary genetics.
+Review and hypotheses: somatic mosaicism: observations related to clinical genetics.
+Isozymic gene linkage map of the tomato: applications in genetics and breeding
+Epistasis for three grain yield components in rice (Oryxa sativa L.)
+The role of population genetics in resistance research and management
+Genetics of Crohn disease, an archetypal inflammatory barrier disease
+RADSeq: next-generation population genetics
+Optimization models, quantitative genetics, and mutation
+Genetics of type 1 diabetes mellitus
+Prader-Willi syndrome: advances in genetics, pathophysiology and treatment
+Cell genetics and hereditary symbiosis
+Science & society: Educating health-care professionals about genetics and genomics
+Molecular genetics of heat tolerance and heat shock proteins in cereals
+Historical genetics: the parentage of Chardonnay, Gamay, and other wine grapes of northeastern France
+Mitochondrial DNA polymorphism and a connection between genetics and demography of relevance to conservation
+Cross‐cultural estimation of the human generation interval for use in genetics‐based population divergence studies
+Genetics of plant virus resistance
+Host movement and the genetic structure of populations of parasitic nematodes.
+Linkage disequilibrium and persistence of phase in Holstein–Friesian, Jersey and Angus cattle
+Genetics of chronic lymphocytic leukemia: genomic aberrations and VVH gene mutation status in pathogenesis and clinical course
+Mannose-binding lectin: structure, function, genetics and disease associations.
+Finely orchestrated movements: evolution of the ribosomal RNA genes
+Human genetics and disease: Beyond Mendel: an evolving view of human genetic disease transmission
+Intelligence: genetics, genes, and genomics.
+Rethinking behavior genetics
+The genetics of ivermectin resistance in Caenorhabditis elegans
+Population genetics
+Bacterial iron transport: mechanisms, genetics, and regulation
+The development of the vertebrate limb: an approach through experiment, genetics, and evolution
+Research review: the neurobiology and genetics of maltreatment and adversity
+Genetic drift and estimation of effective population size
+Initial heritability analyses of endophenotypic measures for schizophrenia: the consortium on the genetics of schizophrenia
+Carotenoids 2: Genetics and molecular biology of carotenoid pigment biosynthesis.
+Genetics of growth and meat production in chickens
+An introduction to modern genetics
+Genetics, paleontology, and macroevolution
+Genetics of soybean agronomic traits: I. Comparison of three related recombinant inbred populations
+Using allele frequencies and geographic subdivision to reconstruct gene trees within a species: molecular variance parsimony.
+QTL analysis of transgressive segregation in an interspecific tomato cross.
+Molecular characterization of the major wheat domestication gene Q
+Enzymology, genetics, and regulation of membrane phospholipid synthesis in Escherichia coli.
+Essential medical genetics
+Quantitative trait locus (QTL) mapping using different testers and independent population samples in maize reveals low power of QTL detection and large bias in …
+Genetics and conservation biology
+Prediction of genetic values of quantitative traits in plant breeding using pedigree and molecular markers
+Developmental genetics of vertebrate glial–cell specification
+Theory and practice in quantitative genetics
+Biology and genetics of reproduction
+Functional dissection of the Tol2 transposable element identified the minimal cis-sequence and a highly repetitive sequence in the subterminal region essential for …
+The quantitative genetics of transcription
+The significance of content knowledge for informal reasoning regarding socioscientific issues: Applying genetics knowledge to genetic engineering issues
+Pattern of nucleotide substitution and rate heterogeneity in the hypervariable regions I and II of human mtDNA
+Recent insights into the genetics of inflammatory bowel disease
+Formal reasoning ability and misconceptions concerning genetics and natural selection
+The amount of DNA polymorphism maintained in a finite population when the neutral mutation rate varies among sites
+Genetics of autism: overview and new directions
+Molecular genetics of attention deficit hyperactivity disorder
+An investigation of high school biology textbooks as sources of misconceptions and difficulties in genetics and some suggestions for teaching genetics
+Host and viral genetics and risk of cervical cancer: a review
+The molecular genetics of human hemoglobins
+Beyond the gene: Cytoplasmic inheritance and the struggle for authority in genetics
+Chromosome identification and nomenclature of Sorghum bicolor
+Evaluation of a genetically modified reassortant H5N1 influenza A virus vaccine candidate generated by plasmid-based reverse genetics
+Maximum‐likelihood approaches applied to quantitative genetics of natural populations
+Molecular biology of human male infertility: links with aging, mitochondrial genetics, and oxidative stress?
+Prenatal diagnosis of autosomal recessive polycystic kidney disease (ARPKD): molecular genetics, clinical experience, and fetal morphology
+Seascape genetics: a coupled oceanographic-genetic model predicts population structure of Caribbean corals
+Genetics of Parkinson's disease and parkinsonism
+The Finland–United States investigation of non–insulin-dependent diabetes mellitus genetics (FUSION) study. I. An autosomal genome scan for genes that …
+Extreme population-dependent linkage disequilibrium detected in an inbreeding plant species, Hordeum vulgare
+Serial SimCoal: a population genetics model for data from multiple populations and points in time
+Genetics and pathophysiology of mental retardation
+Genetics of polyploid Xenopus
+Genetics and physiology of starch development
+Determining the source of individuals: multilocus genotyping in nonequilibrium population genetics
+The evolutionary genetics and emergence of avian influenza viruses in wild birds
+Conservation genetics in the management of desert fishes
+Mapping 245 SSR markers on the Vitis vinifera genome: a tool for grape genetics
+Cancer genetics and drug discovery in the zebrafish
+The genetics of resistance and resilience to Haemonchus contortus infection in young Merino sheep
+Neuronal systems underlying behaviors related to nicotine addiction: neural circuits and molecular genetics
+Genetics of alkane oxidation byPseudomonas oleovorans
+Overview of natural history, pathology, molecular genetics and management of HNPCC (Lynch syndrome)
+Female sterile mutations on the second chromosome of Drosophila melanogaster. II. Mutations blocking oogenesis or altering egg morphology.
+Mosquito molecular genetics: the hands that feed bite back
+The genetics of venous thromboembolism
+Method in yeast genetics
+Genetics and metabolism
+Evolution and the Genetics of Populations: A Treatise; Experimental Results and Evolutionary Deduction
+Human behavior genetics
+Genetics and the evolution of Muellerian mimicry in Heliconius butterflies
+Medakafish as a model system for vertebrate developmental genetics
+Parentage and sibship inference from multilocus genotype data under polygamy
+An update on the genetics of paraganglioma, pheochromocytoma, and associated hereditary syndromes
+Towards defining the urinary proteome using liquid chromatography‐tandem mass spectrometry I. Profiling an unfractionated tryptic digest
+Biochemistry, physiology, and genetics of GPAT, AGPAT, and lipin enzymes in triglyceride synthesis
+Behavioral genetics in transition.
+Human molecular genetics
+Genetics of anencephaly
+Practical streptomyces genetics
+Methods in yeast genetics-a laboratory course manual
+Advanced bacterial genetics: a manual for genetic engineering
+Conservation genetics: case histories from nature.
+Metapopulation biology: ecology, genetics, and evolution
+Methods in yeast genetics
+Methods of yeast genetics
+Host-parasite interactions in flax rust-its genetics and other implications
+Developmental genetics of oogenesis
+The genetics of hand malformations
+Conservation genetics of endemic plant species
+Genetics of meat and carcass traits
+Conservation and genetics of salmonid fishes
+Genetics and fishery management
+Foundations of behavior genetics
+Pathology and Genetics
+An introduction to genetics statistics
+Mitochondrial genetics and functions
+The mussel Mytilus: ecology, physiology, genetics and culture
+The genetics of sex determination in Nasonia vitripennis
+PHYLIP (phylogenetic inference package) version 3.6. Department of Genetics, University of Washington
+Pathology and genetics of skin tumors
+MEGA2: molecular evolutionary genetics analysis software, Arizona State University, Tempe, Arizona, USA
+Pathological and Genetics Head and Neck Tumours

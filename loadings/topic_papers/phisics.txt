@@ -1,0 +1,148 @@
+Changes in corneal asphericity after laser in situ keratomileusis1
+Note. Visual and instrumental color evaluation in red wines
+Suprathreshold color‐difference ellipsoids for surface colors
+Effect on laser-ablation algorithms of reflection losses and nonnormal incidence on the anterior cornea
+Changes in corneal asphericity after laser refractive surgery, including reflection losses and nonnormal incidence upon the anterior cornea
+Interocular differences in higher-order aberrations on binocular visual performance
+Investigating a novel nanostructured fibrin–agarose biomaterial for human cornea tissue engineering: Rheological properties
+Correction factor for ablation algorithms used in corneal refractive surgery with gaussian-profile beams
+CIELAB color parameters and their relationship to soil characteristics in Mediterranean red soils
+Variations in corneal sensitivity with hydrogel contact lenses
+Algunas reflexiones y recientes recomendaciones internacionales sobre evaluación de diferencias de color.
+Are we able to distinguish color attributes?
+Optimization of color reproduction on CRT‐color monitors
+Some classical color differences calculated with new formulas
+Temporal aspects of color discrimination
+Color discrimination results from a CRT device: Influence of luminance
+Evaluation of color-discrimination ellipsoids in two-color spaces
+Influence of interocular differences in the Strehl ratio on binocular summation
+Influence of the luminance and opponent chromatic channels on stereopsis with randomdot stereograms
+Changes in stereoscopic depth perception caused by decentration of spectacle lenses
+Towards a colorimetric characterization of the human iris
+Uniformity of some recent color metrics tested with an accurate color-difference tolerance dataset
+Upper disparity limit after LASIK
+Sensitivity differences in chroma, hue, and lightness from several classical threshold datasets
+Color‐Discrimination Thresholds Translated from the CIE (x, y, Y) Space to the CIE 1976 (L*,a*,b*)
+Reliability of the bromthymol blue method for color in virgin olive oils
+Discomfort glare indices: a comparative study
+Influence of laser polarization on ocular refractive parameters after refractive surgery
+A comparative study of successive and simultaneous methods in colour discrimination
+Influence of random-dot textures on perception of suprathreshold color differences
+Contribution to the experimental review of the colorimetric standard observer
+Scalar curvature of color space as a source of information of new uniformity aspects concerning color representation systems
+Optimizing the constant-channel chromaticity and color gamut of CRT color displays by control of brightness and contrast levels
+Differential color thresholds from metameric matches: experimental results concerning failures of colorimetric additivity
+Simple reaction time to chromatic changes along L&M‐constant and S‐constant cone axes
+Mathematical determination of the numerical data corresponding to the color‐matching functions of three real observers using the RGB CIE‐1931 primary system and a new system of …
+Measuring the whiteness of human teeth
+Visual performance after LASIK for a Q-optimized and a standard ablation algorithm
+Precision and accuracy in the color specification of virgin olive oils from the bromthymol blue method
+UV absorbance of a bioengineered corneal stroma substitute in the 240-400 nm range
+Correlation between image quality and visual performance
+Babinet’s principle in scalar theory of diffraction
+Predicting changes in corneal asphericity after hyperopic LASIK
+Reproducibility of the bromthymol blue standards used for color specification of virgin olive oil
+Usefulness of cathode ray tube color displays in chromaticity-discrimination experiments
+Fast single-mode characterization of optical fiber by finite-difference time-domain method
+Visual system’s adjustments to illuminant changes: heuristic-based model revisited
+The weighting function for lightness in the CIE94 color‐difference model
+Optimizing the constant-channel chromaticity and color gamut of CRT color displays by control of brightness and contrast level
+Optical properties of supra-nano spherical filled resin composites compared to nanofilled, nano-hybrid and micro-hybrid composites
+Proposal of a uniform color scale for virgin olive oils
+Color differences under illuminants D65 and A
+Chromaticity-discrimination thresholds with aperture and object colors: experimental results and predictions of some recent color-difference formulas
+Corino-Andrade disease (familial amyloidotic polineuropathy type I) in Spain: urological and andrological disorders.
+Mathematical reconstruction of color-matching functions
+Problemas de aprendizaje derivados de la visión defectiva del color: un ejemplo práctico
+Avances y tendencias recientes en colorimetría.
+Wünderlich syndrome. Review of its diagnosis and therapy. Report of 7 cases
+Improved formula for evaluating color-differential thresholds
+Influence of colour-matching functions on threshold and large colour differencesInfluence des fonctions colorimétriques au seuil de discrimination et pour les grandes …
+A 2° Standard Deviate Observer from the 1955 Stiles-Burch datasetUn 2° Observateur Dévié Standard à partir des experiments de Stiles et Burch de 1955
+Analysis of colour-vision mechanisms in the chromatic-frequency domain
+Influence of color-matching functions on chromatic discrimination thresholds and observer metamerism with small-size fields
+Color difference formulas tested by use with chromatic discrimination data and new formulas
+Spatial and chromatic dependencies on visual reaction time
+New deviate observer (JF‐DO) obtained from experimental color‐matching functions for small fields of real observers
+Color-prediction discrepancies and differential chromaticity thresholds with photopigment bleaching
+Influence of Some Factors on Not-Typical Responses to Three Tests of Color Vision in Children
+Colorimetric implications of the standard observer in metameric matches
+Eosinophilic cystitis: a single anatomopathologic entity and three different presentation forms. Proposed classification
+Differential color thresholds and new results on failures of chromaticity and luminance prediction
+Performance of two color scales for virgin olive oils: Influence of ripeness, variety, and harvest season
+Investigation of simulated texture effect on perceived color differences
+Optical measurement of cardiac rhythm using PC with telediagnosis possibilities
+Assessment of the visual effectiveness of chromatic signals for CRT colour monitor stimuli
+Comparative analysis of colour discrimination data obtained with aperture-colours and surface-colours
+A correction factor for ablation algorithms assuming deviations of Lambert-Beer’s law with a Gaussian-profile beam
+A Comparison Between the Rotation Terms Proposed by Recent CIELAB-Based Color-Difference Formulas
+Calculation of the field-intensity pattern in optical planar waveguide by the finite-differences time-domain method
+Inguinal bladder hernia. Report of 4 cases
+Visual reaction time measurements with background provided by colour monitors
+The influence of chromatic adaptation upon successive colour discrimination
+Chromaticity differential thresholds and general metamerism indexes
+Descriptive study of bladder tumors in the district of Levante-Alto Almanzora
+Performance of a color indicator in a disinfecting solution for the maintenance of soft contact lenses.
+Recientes análisis sobre la fórmula de diferencia de color CIE94
+An original device for the automatic measurement of the luminance distribution in an observer's visual field
+Tear lysozyme activity in wearers of contact lenses
+Leydig cell tumor. Comments on 5 cases
+Metric coefficients for chromatic discrimination of surface colors
+Caracterización del color en los elementos básicos de identidad corporativa de la Universidad de Granada
+Transverse chromatic aberration after corneal refractive surgery
+Influence of Tristimulus Values Correlation and Reference White in Error Propagation to CIELUV and CIELAB Color Parameters
+Error in CIELAB and CIELUV color coordinates for Munsell samples under different light sources
+The adverse effects of the water-soluble iodinated contrast media used in excretory urography in the canine species
+Simple reaction time and spatial summation in the L/M-constant and S-constant cone axes
+Bladder tumor. Presentation of 2 patients with soft tissue involvement
+Primary retroperitoneal tumors. Comments on 22 cases.
+Local anesthesia in inguinoscrotal pathology
+Extraction from water and purification of organo‐phosphate pesticides
+Flicker techniques in the determination of visual latency
+Study of Weber's law. Two experiments in physiological optics
+Influence of two alcohol intake on night vision
+Investigación en el Laboratorio de Ciencias de la Visión y Aplicaciones de la Universidad de Granada: avances en el período 2006-2009
+Interocular Differences in Strehl Ratio Diminish Binocular Visual Performance
+Maximum Disparity After Lasik
+Research in the Laboratory of Vision Sciences and Applications at the University of Granada
+Investigación en óptica fisiológica y cirugía refractiva
+Colorimetric study of Transitions Look lenses
+Self-evaluation in a Geometrical Optics laboratory with a large number of students
+Medical Optics and Biotechnology-Changes in corneal asphericity after laser refractive surgery, including reflection losses and nonnormal incidence upon the anterior cornea
+LA AUTOEVALUACIÓN COMO PROCEDIMIENTO DIDÁCTICO EN
+Binocular processing models for luminance and colour at isoluminance variations
+Colorimetric study of Transitions Look lenses [4829-379]
+R. Soc. Lond. R. Soc. Lond. 186, L100, 1946
+Effect of potassium citrate in the prophylaxis of urinary lithiasis
+Binocular luminence interactions due to near responses at suprathreshold conditions: psychophysical evidence
+Binocular luminance interactions due to near responses at suprathreshold conditions: psychophysical evidence [4419-415]
+Error in CIELAB and CIELUV color coordinates for Munsell samples under different light sources [4419-416]
+Sertoli cell tumor of the testis
+Analysis of discrimination threshold on the tritan axis
+Journal of Optical Communications
+Bromocriptine monotherapy of a prolactinoma causing erectile dysfunction
+Estudio estadístico de los parámetros oculares del ojo humano.
+Algunos conceptos básicos de acústica musical
+Cirugía refractiva para la correción de ametropías.
+Tear Lysozyme Activity in Wearers of Contact Lenses
+Discriminación cromática (II). Análisis de datos experimentales y contribuciones específicas
+Discriminación cromática (I). Consideraciones generales y revisión bibliográfica
+Influence of the luminance signal and of the red-green and yellow-blue opponent chromatic signals on random-dot-stereogram stereopsis
+Variations in corneal sensitivity with hydrogel contact lenses
+Activité du lysozyme lacrymal chez le porteur de lentilles de contact
+La evaluación de diferencias de color
+Malignant fibrohistiocytoma coexisting with papillary tumor of the kidney pelvis: report of a case
+COLOR-DISCRIMINATION THRESHOLDS TRANSLATED FROM THE CIE (X, Y, Y) SPACE TO THE CIE 1976 (L-ASTERISK, A-ASTERISK, B-ASTERISK)(VOL 19, PG 10, 1994)
+Chromaticity-Discrimination Ellipses Translated from CIE 1964 (x, y) Diagram to CIE 1976 (a?, b?)
+Spherical aberration of a schematic eye with a GRIN crystalline ions in several accommodation states
+Aberración esférica asociada a un modelo de ojo esquemático
+Influencia del tamaño del campo en el umbral de discriminación de color.
+Appearance of color matchings under various chromatic adaptation conditions.
+La detección de las discromatopsias
+Color-prediction discrepancies and differential chromaticity
+EXPERIMENTAL-STUDY OF REACTION-TIME AS A FUNCTION OF SIZE AND CHROMATICITY OF THE STIMULUS
+Relationship between individual factors and the mistakes on pseudoisochromatic tests for color vision deficiencies.
+Codificación cromática en el aprendizaje de la sintaxis
+INFLUENCE OF FIELD SIZE ON THE COLOR DISCRÏMÏNATION THRESHOLD
+Behavior of the deviate observers SDO-CIE-1989, Poza-SDO, and JF-DO in relation to color objects
+TEC-06 MEDIDA DEL COLOR DE ACEITES DE OLIVA VÍRGENES: MÉTODO VIGENTE Y NUEVAS PERSPECTIVAS

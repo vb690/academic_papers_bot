@@ -1,0 +1,940 @@
+Artificial intelligence: a modern approach
+Argumentation in artificial intelligence
+Intelligence without representation
+Artificial intelligence—a personal view
+Creativity and artificial intelligence
+Determining optical flow
+Problem-solving methods in
+A modern approach
+Open information systems semantics for distributed artificial intelligence
+STRIPS: A new approach to the application of theorem proving to problem solving
+Interactions between philosophy and artificial intelligence: The role of intuition and non-logical reasoning in intelligence
+The plan recognition problem: An intersection of psychology and artificial intelligence
+Machine learning: An artificial intelligence approach
+Multi-agent systems: an introduction to distributed artificial intelligence
+Machines who think: A personal inquiry into the history and prospects of artificial intelligence
+Adaptation in natural and artificial systems: an introductory analysis with applications to biology, control, and artificial intelligence
+Some philosophical problems from the standpoint of artificial intelligence
+The computational complexity of probabilistic inference using Bayesian belief networks
+Artificial intelligence through simulated evolution
+Logic and artificial intelligence
+Principles of artificial intelligence
+Adaptation in natural and artificial systems: an introductory analysis with applications to biology, control, and artificial intelligence
+Future paths for integer programming and links to artificial intelligence
+Tensor product variable binding and the representation of symbolic structures in connectionist systems
+Decision theory and artificial intelligence: I. A semantics-based region analyzer
+Multiagent systems: a modern approach to distributed artificial intelligence
+The structure of ill structured problems
+Phase transitions in artificial intelligence systems
+Reaching agreements through argumentation: a logical model and implementation
+Depth-first iterative-deepening: An optimal admissible tree search
+Artificial intelligence and robotics
+Enactive artificial intelligence: Investigating the systemic organization of life and mind
+On agent-based software engineering
+The handbook of artificial intelligence
+Reasoning about change: time and causation from the standpoint of artificial intelligence
+Minimizing conflicts: a heuristic repair method for constraint satisfaction and scheduling problems
+Planning in a hierarchy of abstraction spaces
+What computers can't do: The limits of artificial intelligence
+Propositional knowledge base revision and minimal change
+Recursive distributed representations
+Artificial intelligence: an empirical science
+Bayesian artificial intelligence
+Three-dimensional computer vision: a geometric viewpoint
+Arc and path consistency revisited
+Fast planning through planning graph analysis
+Artificial intelligence: a guide to intelligent systems
+Experiences with an interactive museum tour-guide robot
+Foundations of distributed artificial intelligence
+Artificial intelligence: structures and strategies for complex problem solving
+Electrorheological fluids: modeling and mathematical theory
+Artificial intelligence and natural man
+Protocol analysis as a task for artificial intelligence
+Probabilistic logic
+Artificial intelligence and tutoring systems: computational and cognitive approaches to the communication of knowledge
+Society of Mind: a response to four reviews
+Artificial intelligence in geography
+Multivalued logics: A uniform approach to reasoning in artificial intelligence
+Ensembling neural networks: many could be better than all
+Search and reasoning in problem solving
+Heuristic reasoning about uncertainty: an artificial intelligence approach
+Prolog programming for artificial intelligence
+Steps toward artificial intelligence
+On social laws for artificial agent societies: off-line design
+Top-down induction of first-order logical decision trees
+Introduction to artificial intelligence
+Neural networks in finance and investing: Using artificial intelligence to improve real world performance
+Session 8 formalisms for artificial intelligence a universal modular actor formalism for artificial intelligence
+Selection of relevant features and examples in machine learning
+BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network
+The complexity of some polynomial network consistency algorithms for constraint satisfaction problems
+Artificial intelligence: a new synthesis
+On the acceptability of arguments and its fundamental role in nonmonotonic reasoning, logic programming and n-person games
+Soar: An architecture for general intelligence
+Scene analysis using regions
+Elements of Artificial Intelligence
+Collaboratively built semi-structured content and Artificial Intelligence: The story so far
+Viewing control structures as patterns of passing messages
+Knowledge-Based Systems in Artificial Intelligence: 2 Case Studies
+A logical framework for default reasoning
+Readings in distributed artificial intelligence
+Argumentation in artificial intelligence
+AI in CAI: An artificial-intelligence approach to computer-assisted instruction
+On conceptual modelling: Perspectives from artificial intelligence, databases, and programming languages
+Approximating probabilistic inference in Bayesian belief networks is NP-hard
+A mobile automaton: An application of artificial intelligence techniques
+Theoretical issues in reading comprehension: Perspectives from cognitive psychology, linguistics, artificial intelligence and education
+Evolving artificial intelligence
+Empirical methods for artificial intelligence
+Tractable reasoning via approximation
+Knowledge-based artificial neural networks
+Expert systems and applied artificial intelligence
+Planning and acting in partially observable stochastic domains
+Knowledge representation
+A proposal for the dartmouth summer research project on artificial intelligence, august 31, 1955
+Non-monotonic logic I
+An assumption-based TMS
+Artificial intelligence: The very idea
+Tell me a story: A new look at real and artificial memory.
+The art of artificial intelligence. 1. Themes and case studies of knowledge engineering
+A robust technique for matching two uncalibrated images through the recovery of the unknown epipolar geometry
+Logics for artificial intelligence
+Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control and Artificial Intelligence
+AI: the tumultuous history of the search for artificial intelligence
+Rigor mortis: a response to Nilsson's “Logic and artificial intelligence”
+The cognitive computer on language, learning, and artificial intelligence
+Towards a general theory of action and time
+Wrappers for feature subset selection
+The emotion machine: Commonsense thinking, artificial intelligence, and the future of the human mind
+Tree clustering for constraint networks
+Handbook of Logic in Artificial Intelligence and Logic Programming: Volume 5: Logic Programming
+Preface to the special issue on connectionist symbol processing
+Games, computers, and artificial intelligence
+Applications of circumscription to formalizing common-sense knowledge
+Diagnosing multiple faults
+A theory of diagnosis from first principles
+Artificial intelligence and mobile robots: case studies of successful robot systems
+Inferring surfaces from images
+Solving the multiple instance problem with axis-parallel rectangles
+How to reason defeasibly
+Possible worlds, artificial intelligence, and narrative theory
+An artificial intelligence approach to language instruction
+Epistemological problems of artificial intelligence
+Some experiments in machine learning using vector evaluated genetic algorithms (artificial intelligence, optimization, adaptation, pattern recognition)
+Consistency-based search in feature selection
+Artificial intelligence and the design of expert systems
+Finding MAPs for belief networks is NP-hard
+Fril-fuzzy and evidential reasoning in artificial intelligence
+Artificial intelligence and automatic programming in CAI
+Description and recognition of curved objects
+Ambient intelligence—the next step for artificial intelligence
+Artificial life: An overview
+Deep machine learning-a new frontier in artificial intelligence research [research frontier]
+Heuristics: intelligent search strategies for computer problem solving
+The artificial life route to artificial intelligence: Building embodied, situated agents
+Interpreting pictures of polyhedral scenes
+Sensorless vector and direct torque control
+Markov logic: An interface layer for artificial intelligence
+Simulation and evaluation of chemical synthesis—SECS: an application of artificial intelligence techniques
+Robust Monte Carlo localization for mobile robots
+An interpreter for a language for describing assemblies
+Decision theory in expert systems and artificial intelligence
+Semantical considerations on nonmonotonic logic
+Neural networks and artificial intelligence for biomedical engineering
+Planning with constraints (MOLGEN: Part 1)
+Answer set programming and plan generation
+Achieving Artificial Intelligence through Building Robots.
+Coordination techniques for distributed artificial intelligence
+Handbook of satisfiability
+Artificial intelligence: the heuristic programming approach
+Safe and sound: artificial intelligence in hazardous applications
+The artificial life roots of artificial intelligence
+Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning
+Interactive drama, art and artificial intelligence
+Artificial intelligence approach to structure-activity studies. Computer automated structure evaluation of biological activity of organic molecules
+Decomposing constraint satisfaction problems using database techniques
+The knowledge level
+Conceptual structures: information processing in mind and machine
+Heuristic search viewed as path finding in a graph
+Mind design II: philosophy, psychology, artificial intelligence
+Embodied artificial intelligence
+Learning and inferring transportation routines
+Negotiation and cooperation in multi-agent environments
+Terminological reasoning is inherently intractable
+The Oxford companion to the mind.
+Artificial intelligence for games
+On the relative expressiveness of description logics and predicate logics
+Pitch accent in context predicting intonational prominence from text
+Evidential reasoning rule for evidence combination
+Evidential reasoning using stochastic simulation of causal models
+Summarization beyond sentence extraction: A probabilistic approach to sentence compression
+Artificial paranoia
+Gene expression programming: mathematical modeling by an artificial intelligence
+From natural to artificial swarm intelligence
+An analysis of alpha-beta pruning
+Generality in artificial intelligence
+Attributive concept descriptions with complements
+Learning and Teaching with Computers: The Artificial Intelligence Revolution
+Artificial intelligence with uncertainty
+An artificial intelligence approach to legal reasoning
+Grid coding: A preprocessing technique for robot and machine vision
+Artificial intelligence—Where are we?
+Active, A Tool for Building Intelligent User Interfaces
+Algorithm portfolios
+GUS, a frame-driven dialog system
+Encyclopedia of artificial intelligence second edition
+Fault diagnosis: models, artificial intelligence, applications
+Algorithm runtime prediction: Methods & evaluation
+Qualitative reasoning about physical systems: an introduction
+Inferring the positions of bodies from specified spatial relationships
+The philosophy of artificial life
+Computational intelligence: a logical approach
+Planning as heuristic search
+A logic for default reasoning
+Information retrieval and artificial intelligence
+Deep blue
+On seeing things
+Artificial Intelligence Through Simulated Evolution: By Lawrence J. Fogel Et Al
+Agent-oriented programming
+Theories for mutagenicity: A study in first-order and feature-based induction
+Alchemy and artificial intelligence
+Theories, Methods, and Technologies
+Connectionist architectures for artificial intelligence
+Nature's way of optimizing
+Rationality and intelligence
+A preferential, pattern-seeking, semantics for natural language inference
+Neural assemblies: An alternative approach to artificial intelligence
+The logic of constraint satisfaction
+Learning boolean concepts in the presence of many irrelevant features
+Knowledge management and its link to artificial intelligence
+Qualitative simulation
+A polymorphic type system for Prolog
+Artificial-intelligence-based electrical machines and drives: application of fuzzy, neural, fuzzy-neural, and genetic-algorithm-based techniques
+Probability judgment in artificial intelligence and expert systems
+Artificial intelligence and statistics
+Assessing bank efficiency and performance with operational research and artificial intelligence techniques: A survey
+A language and a program for stating and solving combinatorial problems
+A mechanical solution of Schubert's steamroller by many-sorted resolution
+Knowledge warehouse: an architectural integration of knowledge management, decision support, artificial intelligence and data warehousing
+Introduction to artificial intelligence and expert systems
+Modeling a dynamic environment using a Bayesian multiple hypothesis approach
+A cognitive architecture for artificial vision
+Applications of Artificial Intelligence Chem Oxcp 11
+Made-up minds: a constructivist approach to artificial intelligence
+New approaches for heuristic search: A bilateral linkage with artificial intelligence
+Fast and optimal decoding for machine translation
+Verifiable implementations of geometric algorithms using finite precision arithmetic
+Universal artificial intelligence: Sequential decisions based on algorithmic probability
+A correction to the algorithm in Reiter's theory of diagnosis
+Foundational issues in artificial intelligence and cognitive science: Impasse and solution
+Serial intraoperative magnetic resonance imaging of brain shift
+Artificial intelligence meets natural stupidity
+Virtual-intelligence applications in petroleum engineering: Part 1—Artificial neural networks
+Artificial intelligence and scientific method
+Introduction: Paradigms for machine learning
+Shifting viewpoints: Artificial intelligence and human–computer interaction
+Coalition structure generation with worst case guarantees
+Animate vision
+On evidential reasoning in a hierarchy of hypotheses
+A comparison of performance of several artificial intelligence methods for forecasting monthly discharge time series
+Discovery, analysis, and presentation of strong rules
+Neural networks in artificial intelligence
+Fusion, propagation, and structuring in belief networks
+Production rules as a representation for a knowledge-based consultation program
+ASSAT: Computing answer sets of a logic program by SAT solvers
+Readings in medical artificial intelligence: the first decade
+Decentralized artificial intelligence
+ADOPT: Asynchronous distributed constraint optimization with quality guarantees
+Generating hard satisfiability problems
+Modelling social action for AI agents
+High-level perception, representation, and analogy: A critique of artificial intelligence methodology
+Artificial intelligence and intrusion detection: Current and future directions
+Putting the'smarts' into the smart grid: a grand challenge for artificial intelligence
+Artificial intelligence with uncertainty
+An artificial intelligence perspective on autonomic computing policies
+Decision Support and Business Intelligence Systems (required)
+Real-time heuristic search
+Quantitative results concerning the utility of explanation-based learning
+Interpreting perspective images
+Phase transitions and the search problem
+The Handbook of Artificial Intelligence, Volume 1
+Modeling visual attention via selective tuning
+Complexity, decidability and undecidability results for domain-independent planning
+Bio-inspired artificial intelligence: theories, methods, and technologies
+Intention is choice with commitment
+Network-based heuristics for constraint-satisfaction problems
+Univariate and multivariate forecasting of hourly solar radiation with artificial intelligence techniques
+Improved methods of estimating shape from shading using the light source coordinate system
+Artificial intelligence and soft computing: behavioral and cognitive modeling of the human brain
+Field review: Metacognition in computation: A selected research review
+The Mind\'s I: Fantasies and Reflections on Self & Soul
+Applications of distributed artificial intelligence in industry
+Artificial intelligence in design'91
+Artificial intelligence as craftwork.
+Mathematical methods in artificial intelligence
+Searching for solutions in games and artificial intelligence
+Artificial intelligence programming
+Discovering causal structure: Artificial intelligence, philosophy of science, and statistical modeling
+Trends in distributed artificial intelligence
+The computational complexity of propositional STRIPS planning
+On knowledge base management systems: integrating artificial intelligence and database technologies
+Temporal logics in AI: Semantical and ontological considerations
+Arc-consistency and arc-consistency again
+Three-dimensional object recognition from single two-dimensional images
+Artificial intelligence techniques for photovoltaic applications: A review
+Probabilistic logic revisited
+Constraints, consistency and closure
+Easy problems are sometimes hard
+On calibrating computer controlled cameras for perceiving 3-D scenes
+Cooperative responses from a portable natural language query system
+A survey of motion planning and related geometric algorithms
+A truth maintenance system
+Applications of artificial intelligence for organic chemistry: the DENDRAL project
+Artificial life and the animat approach to artificial intelligence
+On abstract intelligence: Toward a unifying theory of natural, artificial, machinable, and computational intelligence
+From the Semantic Web to social machines: A research challenge for AI on the World Wide Web
+Hidden semi-Markov models
+Methods for task allocation via agent coalition formation
+Constraints on deformable models: Recovering 3D shape and nonrigid motion
+Essentials of artificial intelligence
+Uncertainty measures of rough set prediction
+An optimal k-consistency algorithm
+Artificial intelligence and instruction: Applications and methods
+Multiagent learning using a variable learning rate
+Theory and algorithms for plan merging
+Making a mind versus modelling the brain: artificial intelligence back at the branchpoint
+Using crude probability estimates to guide diagnosis
+Comments on Mohr and Henderson's path consistency algorithm
+Towards adaptive web sites: Conceptual framework and case study
+Linear resolution with selection function
+Comments on C. Hewitt, viewing control structures as patterns of passing messages, Artificial Intelligence 8 (1977) 323–364
+If multi-agent learning is the answer, what is the question?
+Problem solving with the ATMS
+Parsing and type inference for natural and computer languages
+Machine reading, proceedings of the 21st national conference on Artificial intelligence
+Survey of model-based image analysis systems
+Principles of artificial intelligence and expert systems development
+Nonmonotonic reasoning, preferential models and cumulative logics
+Model construction operators
+Rough computational methods for information systems
+Semantic networks in artificial intelligence
+The essence of artificial intelligence
+Artificial intelligence in short term electric load forecasting: a state-of-the-art survey for the researcher
+Analyzing intention in utterances
+Artificial intelligence techniques for sizing photovoltaic systems: A review
+Reinforcement learning: An introduction
+Generating and generalizing models of visual objects
+Artificial intelligence for the modeling and control of combustion processes: a review
+Artificial intelligence and advanced mathematical tools for power quality applications: a survey
+Remote monitoring of high-risk patients using artificial intelligence
+Paradigms of artificial intelligence programming: case studies in Common LISP
+On the hardness of approximate reasoning
+On logical foundations of artificial intelligence: A response to the reviews by S. Smoliar and J. Sowa
+Planning with incomplete information as heuristic search in belief space
+On the parallel complexity of discrete relaxation in constraint satisfaction networks
+Search in artificial intelligence
+Proof by consistency
+The consensus operator for combining beliefs
+Computational complexity of terminological reasoning in BACK
+The artificial intelligence debate
+Hyperbolic Systems of Conservation Laws: The theory of classical and nonclassical shock waves
+Analyzing the degree of conflict among belief functions
+The hardest constraint problems: A double phase transition
+The structure of ill-structured solutions: heterogeneous problem-solving, boundary objects and distributed artificial intelligence
+Closed-world databases and circumscription
+What is Artificial Intelligence?
+Handbook of satisfiability. Frontiers in Artificial Intelligence and Applications, vol. 185
+The intelligent use of space
+New programming languages for artificial intelligence research
+Recovering surface shape and orientation from texture
+Introduction to reinforcement learning
+Understanding the difficulty of training deep feedforward neural networks
+The transferable belief model
+First-order jk-clausal theories are PAC-learnable
+Artificial Intelligence in Engineering Design: Volume III: Knowledge Acquisition, Commercial Systems, And Integrated Environments
+A survey on temporal reasoning in artificial intelligence
+On the logic of iterated belief revision
+Experimental results on the crossover point in random 3-SAT
+An overview of distributed artificial intelligence
+Tractable constraints on ordered domains
+Mathematical methods for artificial intelligence and autonomous systems
+Artificial intelligence and human learning: intelligent computer-aided instruction
+Theory of problem solving: an approach to artificial intelligence
+Learning to track the visual motion of contours
+Increasing tree search efficiency for constraint satisfaction problems
+Case systems for natural language
+The cult of information: A neo-Luddite treatise on high-tech, artificial intelligence, and the true art of thinking
+Nonconvex economic dispatch by integrated artificial intelligence
+Views into the Chinese room: New essays on Searle and artificial intelligence
+Generating project networks
+Bayesian networks and decision graphs
+Learning metric-topological maps for indoor mobile robot navigation
+What is artificial intelligence?
+Artificial intelligence techniques in power systems
+Positive approximation: an accelerator for attribute reduction in rough set theory
+An open-source toolkit for mining Wikipedia
+An interactive system for finding complementary literatures: a stimulus to scientific discovery
+On the complexity of admissible search algorithms
+An architecture for adaptive intelligent systems
+Proving properties of states in the situation calculus
+Cambrian intelligence: The early history of the new AI
+Explorations in engagement for humans and robots
+Artificial intelligence and intelligent systems
+Artificial intelligence in medicine
+Cooperative behavior acquisition for mobile robots in dynamically changing real worlds via vision-based reinforcement learning and development
+Artificial Intelligence through Prolog by Neil C. Rowe
+Artificial intelligence: A philosophical introduction
+Numerical shape from shading and occluding boundaries
+Artificial intelligence: fast hands-free writing by gaze direction
+CONSTRAINTS—A language for expressing almost-hierarchical descriptions
+Arc-consistency for continuous variables
+Optimal problem-solving search: All-or-none solutions
+Applications of artificial intelligence for chemical inference. I. Number of possible organic compounds. Acyclic structures containing carbon, hydrogen, oxygen, and …
+An experimental program transformation and synthesis system
+Artificial general intelligence
+Unsupervised named-entity extraction from the web: An experimental study
+The uses of plans
+Social conceptions of knowledge and action: DAI foundations and open systems semantics
+Heuristic classification
+The origins of syntax in visually grounded robotic agents
+Geometric reasoning about mechanical assembly
+Artificial intelligence as philosophy and as psychology
+An abstract, argumentation-theoretic approach to default reasoning
+A dynamical systems perspective on agent-environment interaction
+An introduction to artificial intelligence: Can computers think?
+O-Plan: the open planning architecture
+Computer vision and artificial intelligence in mammography.
+The TSP phase transition
+A theory of the origins of human knowledge
+Temporal constraint networks
+Artificial intelligence illuminated
+Nonmonotonic reasoning, conditional objects and possibility theory
+Experiments in interpretation-guided segmentation
+Drift analysis and average time complexity of evolutionary algorithms
+Artificial intelligence in medical diagnosis
+The frame problem and related problems in artificial intelligence
+Disjoint pattern database heuristics
+Synaptotagmin: a calcium sensor on the synaptic vesicle surface
+Uncertainty in artificial intelligence
+An artificial intelligence program to advise physicians regarding antimicrobial therapy
+On the optimality of A∗
+Artificial intelligence and creativity: An interdisciplinary approach
+A preliminary analysis of the Soar architecture as a basis for general intelligence
+Artificial intelligence: A modern approach: Stuart Russell and Peter Norvig,(Prentice Hall, Englewood Cliffs, NJ, 1995); xxviii+ 932 pages
+Using similarity criteria to make issue trade-offs in automated negotiations
+Label ranking by learning pairwise preferences
+The integration of CAD and CAM by application of artificial-intelligence techniques
+A model-based method for computer-aided medical decision-making
+Embodied cognition: A field guide
+A Bayesian model of plan recognition
+Artificial intelligence and tutoring system: Computational and Cognitive Approaches to the Communication of Knowledge
+Generalized arc consistency for global cardinality constraint
+Real brains and artificial intelligence
+Efficient learning of deep Boltzmann machines
+Reasoning with qualitative models
+Applying artificial intelligence to virtual reality: Intelligent virtual environments
+Dynamic across-time measurement interpretation
+LAO∗: A heuristic search algorithm that finds solutions with loops
+Artificial argument assistants for defeasible argumentation
+Robust combinatorial auction protocol against false-name bids
+On the relationship between circumscription and negation as failure
+The spatial semantic hierarchy
+Logical settings for concept-learning
+Chimerge: Discretization of numeric attributes
+A linguistic ontology of space for natural language processing
+Economic principles of multi-agent systems
+Finding explanations of inconsistency in multi-context systems
+AM: An artificial intelligence approach to discovery in mathematics as heuristic search
+Approximations for efficient computation in the theory of evidence
+Task decomposition, dynamic role assignment, and low-bandwidth communication for real-time strategic teamwork
+BLADES: An artificial intelligence approach to analog circuit design
+Artificial intelligence for computer games: an introduction
+Artificial Intelligence Engine
+EMG pattern recognition based on artificial intelligence techniques
+Towards mobile intelligence: Learning from GPS history data for collaborative recommendation
+Behaviorist intelligence and the scaling problem
+Artificial neural systems: foundations, paradigms, applications, and implementations
+What Computers Can't Do: The Limits of Artificial Intelligence, revised edition
+Artificial intelligence and literary creativity: Inside the mind of brutus, a storytelling machine
+A model for temporal references and its application in a question answering program
+Extending the ATMS
+Recognition of gestures in Arabic sign language using neuro-fuzzy systems
+The Frame Problem in Artificial Intelligence: Proceedings of the 1987 Workshop
+Artificial intelligence and grids: Workflow planning and beyond
+An optimal coarse-grained arc consistency algorithm
+Introduction: Progress in formal commonsense reasoning
+Artificial intelligence and virtual organizations
+Local search with constraint propagation and conflict-based heuristics
+Wrapper induction: Efficiency and expressiveness
+Artificial intelligence, simulation & modeling
+Anytime coalition structure generation in multi-agent systems with positive or negative externalities
+Handbook of human intelligence
+A logic-based theory of deductive arguments☆
+Assumptions, beliefs and probabilities
+Singular extensions: Adding selectivity to brute-force searching
+Why AM and EURISKO appear to work
+An automobile with artificial intelligence
+Locating the phase transition in binary constraint satisfaction problems
+War in the age of intelligent machines
+Coherence in finite argument systems
+The complexity of manipulative attacks in nearly single-peaked electorates
+Fuzzy logic: intelligence, control, and information
+AIPS 2000 planning competition: The fifth international conference on artificial intelligence planning and scheduling systems
+Human-level artificial general intelligence and the possibility of a technological singularity: A reaction to Ray Kurzweil's The Singularity Is Near, and McDermott's …
+Artificial intelligence
+Remote agent: To boldly go where no AI system has gone before
+A survey of artificial intelligence for prognostics
+Modeling Decisions for Artificial Intelligence: Second International Conference, MDAI 2005, Tsukuba, Japan, July 25-27, 2005, Proceedings
+Recognition of a hidden mineral deposit by an artificial intelligence program
+Frames in the space of situations
+The Roles of Artificial Intelligence in Education: Current Progress and Future Prospects.
+Categorical and probabilistic reasoning in medical diagnosis
+Artificial Intelligence
+Locational marginal price forecasting in deregulated electricity markets using artificial intelligence
+Lessons from a failure: Generating tailored smoking cessation letters
+The impact of Bayesian models on artificial intelligence
+Development of the CODER system: A testbed for artificial intelligence methods in information retrieval
+AIDR: Artificial intelligence for disaster response
+Local Models Semantics, or contextual reasoning= locality+ compatibility☆
+Algorithm for optimal winner determination in combinatorial auctions
+Artificial intelligence as a positive and negative factor in global risk
+Bucket elimination: A unifying framework for reasoning
+Natural language syntax and first-order inference
+A survey of artificial intelligence for cognitive radios
+Artificial minds
+Complex systems: Network thinking
+Three perspectives of data mining
+Artificial intelligence in medicine.
+What Computer Still Can't Do: A Critique of Artificial Reason
+Notes on “Epistemology of a rule-based expert system”
+Learning Bayesian networks from data: an information-theory based approach
+Probabilistic machine learning and artificial intelligence
+Artificial intelligence and environmental decision support systems
+A (very) brief history of artificial intelligence
+Artificial Intelligence in Medicine Where Do We Stand?
+Text understanding in LILOG: integrating computational linguistics and artificial intelligence: final report on the IBM Germany LILOG-Project
+Refutation graphs
+The epistemology of a rule-based expert system—a framework for explanation
+Augmented transition networks as psychological models of sentence comprehension
+Reflections on TAXMAN: An experiment in artificial intelligence and legal reasoning
+Critical behavior in the computational cost of satisfiability testing
+Feature subset selection by Bayesian network-based optimization
+Construction of engineering ontologies for knowledge sharing and reuse
+Lexical knowledge representation and natural language processing
+Implicit parallelism in genetic algorithms
+Evaluating evolutionary algorithms
+On the estimation of optical flow: Relations between different approaches and some new results
+Programming backgammon using self-teaching neural nets
+Ethical issues in advanced artificial intelligence
+Erratum to: Drift analysis and average time complexity of evolutionary algorithms:[Artificial Intelligence 127 (2001) 57–85]
+Stephen Hawking warns artificial intelligence could end mankind
+The coming of age of artificial intelligence in medicine
+Coalitions among computationally bounded agents
+Maintaining reversible DAC for Max-CSP
+Emergence of social conventions in complex networks
+Human problem solving
+Finding a collective set of items: From proportional multirepresentation to group recommendation
+Mindware: An introduction to the philosophy of cognitive science.
+Inductive logic programming: issues, results and the challenge of learning language in logic
+The AI business: commercial uses of artificial intelligence
+A robot laboratory for teaching artificial intelligence
+Solving weighted CSP by maintaining arc consistency
+Bond, Les Gasser, Distributed Artificial Intelligence
+Knowledge, skill and artificial intelligence
+Intelligence: Computational versus artificial
+Learning new principles from precedents and exercises
+The structure-mapping engine: Algorithm and examples
+Computational intelligence: an introduction
+Aaron's code: meta-art, artificial intelligence, and the work of Harold Cohen
+The Carneades model of argument and burden of proof
+Embracing causality in default reasoning
+A minimax algorithm better than alpha-beta?
+Representing stereo data with the delaunay triangulation
+Bond rating: a non-conservative application of neural networks
+An experiment in linguistic synthesis with a fuzzy logic controller
+Artificial intelligence for monitoring and supervisory control of process systems
+Principles of human—computer collaboration for knowledge discovery in science
+An artificial intelligence approach to machine translation
+Why not a sociology of machines? The case of sociology and artificial intelligence
+Tea quality prediction using a tin oxide-based electronic nose: an artificial intelligence approach
+Parallel processing for supercomputers and artificial intelligence
+SHOP: Simple hierarchical ordered planner
+Artificial intelligence and human reason: A teleological critique.
+Artificial intelligence
+The measurement of visual motion.
+Variable precision logic
+Analogical reasoning: Perspectives of artificial intelligence, cognitive science, and philosophy
+Artificial intelligence and molecular biology
+An affective mobile robot educator with a full-time job
+Artificial intelligence applications for business: proceedings of the NYU symposium, May, 1983
+Minimal belief and negation as failure
+Artificial intelligence applications in the intensive care unit
+Readings in artificial intelligence and software engineering
+Actors: A model of concurrent computation in distributed systems.
+A method for managing evidential reasoning in a hierarchical hypothesis space
+Optimal composition of real-time systems
+Floating conclusions and zombie paths: two deep difficulties in the “directly skeptical” approach to defeasible inheritance nets
+The complexity of constraint satisfaction revisited
+Planning for conjunctive goals
+A case study of LEGO Mindstorms'™ suitability for artificial intelligence and robotics courses at the college level
+Spatial representation and reasoning in artificial intelligence
+Belief networks revisited
+Fundamentals of the new artificial intelligence
+Tool condition monitoring using artificial intelligence methods
+The improbable machine: What the upheavals in artificial intelligence research reveal about how the mind really works.
+A linear constraint satisfaction approach to cost-based abduction
+Distributed Artificial Intelligence Meets Machine Learning Learning in Multi-Agent Environments: ECAI'96 Workshop LDAIS Budapest, Hungary, August 13 …
+Designing smart homes: the role of artificial intelligence
+EXPERT: A system for developing consultation models
+Artificial intelligence methods and systems for medical consultation
+An agenda-based framework for multi-issue negotiation
+Scientific discovery and simplicity of method
+Artificial intelligence, language, and the study of knowledge
+On the evaluation of argumentation formalisms
+Nonmonotonic reasoning in the framework of situation calculus
+Conflict-based search for optimal multi-agent pathfinding
+A comparison of structural CSP decomposition methods
+An introduction to neural computing
+Cognitive environment simulation: An artificial intelligence system for human performance assessment: Modeling human intention formation:(Technical report, May …
+Artificial intelligence in engineering
+Nonmonotonic logic and temporal projection
+Extending and implementing the stable model semantics
+Analogical representations of naive physics
+Artificial intelligence in business, science, and industry. Vol. II: applications
+Temporal logic: from ancient ideas to artificial intelligence
+Justification and defeat
+Recognition: A study in the philosophy of artificial intelligence
+Understanding artificial intelligence
+Approximating MAPs for belief networks is NP-hard and other theorems
+Artificial intelligence and big data
+Decision theory and artificial intelligence II: The hungry monkey
+Semantic linking through spaces for cyber-physical-socio intelligence: A methodology
+Readings in knowledge representation
+Reasoning about truth
+Asynchronous backtracking without adding links: a new member in the ABT family
+A concise introduction to multiagent systems and distributed artificial intelligence
+Intentions in communication
+The organization of expert systems, a tutorial
+Morgan Kaufmann Publishers
+Making compromises among antagonist constraints in a planner
+Flexible flow shop scheduling: optimum, heuristics and artificial intelligence solutions
+Automatic facial expression interpretation: Where human-computer interaction, artificial intelligence and cognitive science intersect
+A review of machining monitoring systems based on artificial intelligence process models
+Brain-actuated interaction
+SRI International
+Computer models of thought and language
+The fifth generation fallacy: Why Japan is betting its future on artificial intelligence
+Artificial intelligence search algorithms
+Writing space: The computer, hypertext, and the history of writing.
+An admissible and optimal algorithm for searching AND/OR graphs
+Artificial intelligence: principles and applications
+Definite clause grammars for language analysis—a survey of the formalism and a comparison with augmented transition networks
+Interestingness: controlling inferences
+Controlling cooperative problem solving in industrial multi-agent systems using joint intentions
+Robust bayes classifiers
+Contractor programming
+Artificial intelligence, heuristic frameworks and tabu search
+On the satisfiability of circumscription
+Composing cardinal direction relations
+On the emergence of social conventions: modeling, analysis, and simulations
+Artificial Intelligence and Education: Learning environments and tutoring systems
+Algorithms for propagating resource constraints in AI planning and scheduling: Existing approaches and new results
+AM: A case study in AI methodology
+Computer go
+Conjunctive and disjunctive combination of belief functions induced by nondistinct bodies of evidence
+Fuzzy set and possibility theory-based methods in artificial intelligence
+Monte-Carlo tree search and rapid action value estimation in computer Go
+ARCHON: A distributed artificial intelligence system for industrial applications
+Artificial neural networks: approximation and learning theory
+R1: A rule-based configurer of computer systems
+Intelligent machines: an introductory perspective of artificial intelligence and robotics
+Time complexity of iterative-deepening-A∗
+Artificial intelligence and human decision making
+Reasoning on UML class diagrams
+Subdimensional expansion for multirobot path planning
+The visual interpretation of surface contours
+Introductory digital image processing: a remote sensing perspective
+A man-machine theorem-proving system
+Automated space planning
+Visual surveillance in a dynamic and uncertain world
+Concept learning and heuristic classification in weak-theory domains
+RoboCup: Today and tomorrow—What we have learned
+An artificial intelligence framework for online transient stability assessment of power systems
+Weed and crop discrimination using image analysis and artificial intelligence methods
+Data mining and knowledge discovery: Making sense out of data
+The role of artificial intelligence technologies in the implementation of people-finder knowledge management systems
+Artificial intelligence methods in the environmental sciences
+Probabilistic Horn abduction and Bayesian networks
+Intellectual issues in the history of artificial intelligence
+A rational reconstruction of nonmonotonic truth maintenance systems
+The nature of expertise
+From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem
+The organization of the human cerebral cortex estimated by intrinsic functional connectivity
+Adaptive navigation system with artificial intelligence
+Use of artificial intelligence in the design of small peptide antibiotics effective against a broad spectrum of highly antibiotic-resistant superbugs
+Temporal representation and reasoning in artificial intelligence: Issues and approaches
+On the independence assumption underlying subjective Bayesian updating
+A review on integration of artificial intelligence into water quality modelling
+Experimental evaluation of preprocessing algorithms for constraint satisfaction problems
+Integration of weighted knowledge bases
+Artificial intelligence and the concept of mind
+Qualitative simulation: then and now
+Reflections on the knowledge level
+Belief revision
+Search methods for artificial intelligence
+Readings in artificial intelligence
+A comparison of Artificial Intelligence techniques for spectral classification in the diagnosis of human pathologies based upon optical biopsy
+An artificial intelligence approach to model management in decision support systems
+Intelligent bioinformatics: The application of artificial intelligence techniques to bioinformatics problems
+Distributed stochastic search and distributed breakout: properties, comparison and applications to constraint optimization problems in sensor networks
+Artificial intelligence and international politics
+Access path selection in a relational database management system
+An approach to default reasoning based on a first-order conditional logic: revised report
+Approximating operators and semantics for abstract dialectical frameworks
+Using empirical analysis to refine expert system knowledge bases
+A theoretical evaluation of selected backtracking algorithms
+The quest for artificial intelligence
+Multiagent control of self-reconfigurable robots
+Monitoring and control of anytime algorithms: A dynamic programming approach
+YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia
+On the justification of Dempster's rule of combination
+Mathematical logic in artificial intelligence
+Natural semantics in artificial intelligence
+Shape from regular patterns
+Laying the foundations for a world wide argument web
+Object-based visual attention for computer vision
+Artificial intelligence system
+Introduction to artificial intelligence
+A context sensitive line finder for recognition of polyhedra
+Characterising tractable constraints
+Trust in distributed artificial intelligence
+Artificial intelligence in power system operations
+Approaches to the study of intelligence
+A heuristic search algorithm with modifiable estimate
+Fundamental concepts of qualitative probabilistic networks
+Using meta-level inference for selective application of multiple rewrite rule sets in algebraic manipulation
+An algorithm to compute circumscription
+Artificial intelligence and natural resource management
+A versatile system for computer-controlled assembly
+Imagery and artificial intelligence
+From alchemy to artificial intelligence: Stereotypes of the scientist in Western literature
+Designing autonomous agents: Theory and practice from biology to engineering and back
+Artificial intelligence and expert systems for engineers
+Advances of flexible pressure sensors toward artificial intelligence and health care applications
+A roadmap of agent research and development
+Nonmonotonic causal theories
+Change in view: Principles of reasoning.
+Using artificial intelligence techniques to enhance the capabilities of model management systems
+Evaluating general purpose automated theorem proving systems
+Arc consistency for soft constraints
+Studying those who study us: An anthropologist in the world of artificial intelligence
+Automatic Program Debugging for Intelligent Tutoring Systems, Research Notes in Artificial Intelligence
+Generalizing the notion of schema in genetic algorithms
+Knowledge engineering: The applied side of artificial intelligence.
+Deliberation scheduling for problem solving in time-constrained environments
+Knowledge, action, and the frame problem
+Interpreting line drawings as three-dimensional surfaces
+Modelling student's problem solving
+Explanation-based generalisation= partial evaluation
+The dropout learning algorithm
+Towards a characterisation of the behaviour of stochastic local search algorithms for SAT
+A situated view of representation and control
+The computational complexity of abduction
+The heuristic search under conditions of error
+A paradigm for reasoning by analogy
+Object-oriented programming for artificial intelligence: a guide to tools and system design
+A comparison of minimax tree search algorithms
+Artificial intelligence techniques: an introduction to their use for modelling environmental systems
+The engineering of knowledge-based systems
+Intelligent internet systems
+Emotions in human and artificial intelligence
+Parallelism in Artificial Intelligence problem solving: A case study of Hearsay II
+Qualitative representation of positional information
+Machine learning in automated text categorization
+Teachable robots: Understanding human teaching behavior to build more effective robot learners
+Robot shaping: Developing autonomous agents through learning
+Artificial intelligence and operations research in flexible manufacturing systems
+Optimal social choice functions: A utilitarian view
+Readings in music and artificial intelligence
+Artificial intelligence and law: Stepping stones to a model of legal reasoning
+Research priorities for robust and beneficial artificial intelligence
+A unifying approach to temporal constraint reasoning
+Quantum aspects of semantic analysis and symbolic artificial intelligence
+Improving heuristic mini-max search by supervised learning
+Engineering knowledge: The construction of knowledge in artificial intelligence
+Interpretation of imperfect line data as a three-dimensional scene
+Artificial intelligence solutions to power system operating problems
+Downhole tools using artificial intelligence based control
+Downhole tools using artificial intelligence based control
+Convex hulls of finite sets of points in two and three dimensions
+Generalized subsumption and its applications to induction and redundancy
+Making preferences more active
+Adaptation in natural and artificial systems: an introductory analysis with applications to biology, control, and artificial intelligence
+Impact-echo signal interpretation using artificial intelligence
+Unsupervised stratification of cross-validation for accuracy estimation
+Ontologies
+Electron-transfer reactions in proteins: an artificial intelligence approach to electronic coupling
+Classifier systems and genetic algorithms
+Backjumping for quantified Boolean logic satisfiability
+An empirical study of phase transitions in binary constraint satisfaction problems
+Multi-criteria ABC analysis using artificial-intelligence-based classification techniques
+Tactical Language and Culture Training Systems: Using Artificial Intelligence to Teach Foreign Languages and Cultures.
+Artificial Intelligence technique for modelling and forecasting of solar radiation data: a review
+The pattern recognition basis of artificial intelligence
+Random constraint satisfaction: Easy generation of hard (satisfiable) instances
+Combining answer set programming with description logics for the semantic web
+An investigation of the causes of pathology in games
+Model-based diagnosis of hardware designs
+On the relation between default and autoepistemic logic
+The challenge of poker
+Learning adaptation knowledge to improve case-based reasoning
+An artificial intelligence modelling approach to simulating animal/habitat interactions
+Some speculation about artificial intelligence and legal reasoning
+Artificial intelligence in manufacturing planning and control
+Context in Artificial Intelligence: I. A survey of the literature
+Argument in artificial intelligence and law
+Advances in knowledge discovery and data mining
+ARIES (Artificial Intelligence for Ecosystem Services): A new tool for ecosystem services assessment, planning, and valuation
+On the doubt about margin explanation of boosting
+BOB: Improved winner determination in combinatorial auctions and generalizations
+Independence and Bayesian updating methods
+Principles of metareasoning
+Evaluation of artificial intelligence systems in medicine
+Undecidability of subsumption in NIKL
+Densities of ammonium and phosphonium based deep eutectic solvents: Prediction using artificial intelligence and group contribution techniques
+Some extensions of radial basis functions and their applications in artificial intelligence
+An empirical analysis of terminological representation systems
+Planning using a temporal world model
+Fair assignment of indivisible objects under ordinal preferences
+Cyberspace: first steps
+Computing ideal sceptical argumentation
+A co-word study of artificial intelligence
+Relational artificial intelligence system
+Genetic Programming II, Automatic Discovery of Reusable Subprograms
+Artificial intelligence prepares for 2001
+Extending the expressive power of semantic networks
+The mathematics of non-monotonic reasoning
+Thinking Machines: The Emergence of Artificial Intelligence
+Probability judgment in artificial intelligence
+Aspects of artificial intelligence
+Constructing roadmaps of semi-algebraic sets I: Completeness
+A selective sampling approach to active feature selection
+An artificial intelligence approach to VLSI design
+Characteristics of multiple viewpoints in abstract argumentation
+The effect of bounding the number of primitive propositions and the depth of nesting on the complexity of modal logic
+Application of fuzzy algorithms for control of simple dynamic plant
+Artificial intelligence software shell for plant operation simulation
+Games solved: Now and in the future
+Asymptotic properties of minimax trees and game-searching procedures
+Game tree searching by min/max approximation
+Computer assisted vehicle service featuring signature analysis and artificial intelligence
+The role of artificial intelligence in the integration of remotely sensed data with geographic information systems
+Learning to act using real-time dynamic programming
+Applications of artificial intelligence techniques for induction machine stator fault diagnostics
+Cognitive economy in artificial intelligence systems
+Applications of hybrid wavelet–Artificial Intelligence models in hydrology: A review
+Admissibility of AO∗ when heuristics overestimate
+Blocks world revisited
+Default reasoning and possibility theory
+Models for integrating artificial intelligence approaches
+Handbook of intelligence
+Machines that walk: the adaptive suspension vehicle
+Qualitative reasoning about physical systems
+Results on translating defaults to circumscription
+Interpretation as abduction
+Computer architectures for artificial intelligence processing
+Understanding complex dynamics by visual and symbolic reasoning
+The price of query rewriting in ontology-based data access
+Real-time obstacle avoidance for manipulators and mobile robots
+Models of incremental concept formation
+Topological parameters for time-space tradeoff
+The economic approach to artificial intelligence
+Discovering simple rules in complex data: A meta-learning algorithm and some surprising musical discoveries
+Apparatus, method and system of artificial intelligence for data searching applications
+Artificial intelligence a guide to intelligent systems
+Anytime deduction for probabilistic logic
+Algorithms for decision problems in argument systems under preferred semantics
+Computer proofs of limit theorems
+Consistency restoration and explanations in dynamic CSPs—application to configuration
+Management information systems
+Multilanguage hierarchical logics, or: how we can do without modal logics
+Handbook of temporal reasoning in artificial intelligence
+Artificial intelligence in predicting bladder cancer outcome: a comparison of neuro-fuzzy modeling and artificial neural networks
+Object identification: A Bayesian analysis with application to traffic surveillance
+Artificial intelligence and psychiatry.
+Social situatedness of natural and artificial intelligence: Vygotsky and beyond
+Handbook of data mining and knowledge discovery
+Applications of artificial intelligence for chemical inference. XVII. Approach to computer-assisted elucidation of molecular structure
+Conceptual clustering of structured objects: A goal-oriented approach
+Lazy propagation: a junction tree inference algorithm based on lazy evaluation
+A new basis for state-space learning systems and a successful implementation
+The geometry of view space of opaque objects bounded by smooth surfaces
+Pathology on game trees revisited, and an alternative to minimaxing
+Artificial intelligence, advanced technology, and learning and teaching algebra
+Neural network ensembles: evaluation of aggregation algorithms
+What evolutionary game theory tells us about multiagent learning
+Argument diagramming in logic, law and artificial intelligence
+The Perceptron algorithm versus Winnow: linear versus logarithmic mistake bounds when few input variables are relevant
+Eliminating the fixed predicates from a circumscription
+An active vision architecture based on iconic representations
+What is artificial intelligence? Psychometric AI as an answer
+Finding edges and lines in images
+Hybrid backtracking bounded by tree-decomposition of constraint networks
+Artificial intelligence models: composed systems as a solution
+Artificial intelligence framework for simulating clinical decision-making: A Markov decision process approach
+On principle-based evaluation of extension-based argumentation semantics
+A survey: algorithms simulating bee swarm intelligence
+Data complexity of query answering in description logics
+Improvement in specificity of ultrasonography for diagnosis of breast tumors by means of artificial intelligence
+Proof-number search
+Method and system for providing electronic discovery on computer databases and archives using artificial intelligence to recover legally relevant data
+SALT: A knowledge acquisition language for propose-and-revise systems
+XPLAIN: A system for creating and explaining expert consulting programs
+The distributed breakout algorithms
+Bounded-parameter Markov decision processes
+Cognitive models for integrating artificial intelligence approaches
+Automated discourse generation using discourse structure relations
+Making a mind versus modelling the brain: artificial intelligence back at a branchpoint
+Fusion and propagation with multiple observations in belief networks
+The development of a world class Othello program
+A theory of truth and semantic representation
+From here to human-level AI
+On the logic of causal explanation
+Abduction versus closure in causal theories
+Macro-operators: A weak method for learning
+An application of artificial intelligence for rainfall-runoff modeling
+Artificial intelligence based P&O MPPT method for photovoltaic systems
+The inconsistent use of measures of certainty in artificial intelligence research
+The well-designed child
+Studying Human Intelligence by Creating Artificial Intelligence: When considered as a physical symbol system, the human brain can be fruitfully studied by computer …
+Genetically breeding populations of computer programs to solve problems in artificial intelligence
+The Computer for the 21 st Century
+Deep sparse rectifier neural networks
+Artificial intelligence (teknik dan aplikasinya)
+An artificial intelligence-based constraint network system for concurrent engineering
+The distributed artificial intelligence melting pot
+Word sense disambiguation with pictures
+Geometric relationships between toleranced features
+Applications of artificial intelligence in grinding
+Decidability of SHIQ with complex role inclusion axioms
+The ethics of artificial intelligence
+Artificial intelligence and brain theory: Unities and diversities
+The" fungus eater approach" to emotion: a view from artificial intelligence
+Artificial intelligence in psychology: interdisciplinary essays
+When is temporal planning really temporal?
+Artificial Intelligence and Design: A Mechanical Engineering View.
+On strongest necessary and weakest sufficient conditions☆
+Multilevel counterfactuals for generalizations of relational concepts and productions
+Computers and thought: A practical introduction to artificial intelligence.
+Automation of legal reasoning: A study on artificial intelligence and law
+Planning English referring expressions
+Neural Network Analysis of Serial Cardiac Enzyme Data A Clinical Application of Artificial Machine Intelligence
+VLSI for artificial intelligence
+Mechanizing temporal knowledge
+On forward checking for non-binary constraint satisfaction
+Boolean connection algebras: a new approach to the Region-Connection Calculus
+Artificial intelligence identification of process parameters and adaptive control system for deep-drawing process
+Language identification in the limit
+Lexical Ambiguity Resolution: Perspective from Psycholinguistics, Neuropsychology and Artificial Intelligence
+Real-time highway traffic condition assessment framework using vehicle–infrastructure integration (VII) with artificial intelligence (AI)
+On evaluating artificial intelligence systems for medical diagnosis

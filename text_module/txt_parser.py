@@ -1,8 +1,10 @@
+import pickle
+
 import numpy as np
 
 from keras.utils import to_categorical
 
-class __TextObject():
+class _TextObject():
     def __init__(self):
         '''
         Initialize a TextObject for storing from all the parsed txt files:
@@ -21,25 +23,30 @@ class __TextObject():
         self.char_int = {}
         self.int_char = {}
 
-    def get_normalized(self):
-        X = self.X / len(self.characters)
-        y = to_categorical(self.y)
-        return X, y
+    def _save_text_object(self, txt_obj_name):
+        with open('loadings\\text_objects\\{}.pkl'.format(txt_obj_name), 'wb') as output:
+            pickle.dump(self, output, pickle.HIGHEST_PROTOCOL)
 
 class TextParser():
-    def __init__(self, text_path, names, sequence_len):
+    def __init__(self, names, sequence_len):
         '''
         Initialize a TextParser that will store the parsed text in a TextObject:
 
         Args:
             - text_path: is a string specifying where the txt files are located
             - names: is an iterable specifying the names of txt files to parse
-            - sequence_len: is an integer specifying the length
+            - sequence_len: is an integer specifying the length of the seed used for training the RNN
+
+              Example sequence_len=5:
+              'Lorem ipsum suas propriae ne name'
+              [l, o, r, e, m] ---> [' ']
+              [o, r, e, m,  ] ---> ['i']
+              [r, e, m,  , i] ---> ['p']
+                        ...
         '''
-        self.text_path = text_path
         self.names = names
         self.sequence_len = sequence_len
-        self.text_object = __TextObject()
+        self.text_object = _TextObject()
 
     @staticmethod
     def get_characters(sentences):
@@ -71,7 +78,6 @@ class TextParser():
             - char_int: is a dictionary having as keys the characters and as value their relative code
             - int_char: is the reverse of char_int
         '''
-        normalize_factor = len(characters)
         char_int = {character : integer for integer, character in enumerate(characters, 0)}
         int_char = {integer : character for character, integer in char_int.items()}
         return char_int, int_char
@@ -101,14 +107,21 @@ class TextParser():
 
         return X, y
 
-    def parse_text(self):
+    def parse_text(self, text_path, txt_obj_name, save=True):
         '''
         Method for parsing the text and updating the TextObject
+
+        Arguments:
+            - save:
+            - txt_obj_name:
+
+        Returns:
+            - text_object:
         '''
         sentences = []
         for topic in self.names:
 
-            in_text =  open('{}{}.txt'.format(self.text_path, topic), encoding = 'utf-8', mode = 'r')
+            in_text =  open('{}{}.txt'.format(text_path, topic), encoding = 'utf-8', mode = 'r')
 
             for sentence in in_text:
 
@@ -119,11 +132,15 @@ class TextParser():
         for sentence in sentences:
 
                 X, y = self.get_sequences(list(sentence), self.sequence_len, self.text_object.char_int)
+                if len(X) == 0:
+                    continue
                 self.text_object.starting_seeds.append(X[0])
                 self.text_object.X.extend(X)
                 self.text_object.y.extend(y)
 
-        self.text_object.X = np.array(self.text_object.X)
+        self.text_object.X = np.array(self.text_object.X) / len(self.text_object.char_int)
         self.text_object.X = np.reshape(self.text_object.X, (len(self.text_object.X), self.sequence_len, 1))
-        self.text_object.y = np.array(self.text_object.y)
+        self.text_object.y = to_categorical(np.array(self.text_object.y))
+        if save:
+            self.text_object._save_text_object(txt_obj_name)
         return self.text_object

@@ -3,9 +3,6 @@ from copy import deepcopy
 import random
 import numpy as np
 
-from txt_parser import *
-from model_creator import *
-
 class GeneralBot():
     def __init__(self, brain):
         '''
@@ -39,7 +36,7 @@ class GeneralBot():
         # take the exponentiated result
         exp_preds = np.exp(predictions)
         p_preds = exp_preds / np.sum(exp_preds)
-        probas = np.random.multinomial(1, p_preds)
+        probas = np.random.multinomial(1, p_preds, 1)
         return np.argmax(probas)
 
     @staticmethod
@@ -57,7 +54,7 @@ class GeneralBot():
         index = np.random.randint(len(starting_seeds))
         return starting_seeds[index]
 
-    def bot_thinking(self, total_titles, temperature):
+    def bot_thinking(self, total_titles, temperature, min_len=0):
         '''
         Method for generating titles with a specific temperature and storing them in titles attribute
 
@@ -68,29 +65,34 @@ class GeneralBot():
         Returns:
             - None
         '''
+        self.titles = []
         counter_titles = 0
         starting_seeds = self.text_object.starting_seeds
         # we keep generating titles untill we have a sufficient number of 'good ones'
         while counter_titles != total_titles:
 
+            len_break = False
             predicted_character = None
             seed = deepcopy(self.random_seed_sampling(starting_seeds))
             title = [self.text_object.int_char[character] for character in seed]
             # we keep generating titles untill an EOS is generated
             while predicted_character != '\n':
 
-                X = np.reshape(seed, (1, len(seed), 1))
+                X = np.array(seed) / len(self.text_object.int_char)
+                X = np.reshape(X, (1, len(X), 1))
                 predicted_character = self.model.predict(X, verbose=0)
                 predicted_character = self.temperated_prediction(predicted_character, temperature)
                 seed.append(predicted_character)
                 title.append(self.text_object.int_char[predicted_character])
+                predicted_character = self.text_object.int_char[predicted_character]
                 seed = seed[1:len(seed)]
                 # stop generating if the title is longer than 100 characters (it needs to fit in a tweet)
                 if len(title) > 100:
+                    len_break = True
                     break
 
             # if the generated title is too short, discard it and generate a new one without updating the count
-            if len(title) < 15:
+            if len(title) < min_len or len_break:
                 continue
 
             self.titles.append(''.join(title))
@@ -98,6 +100,13 @@ class GeneralBot():
 
     def bot_proposing(self):
         '''
+        Method for proposing a series of generated titles and asking to select one
+
+        Arguments:
+            - None
+
+        Returns:
+            - selected: is an integer specifying the index of the selected title
         '''
         for index, title in enumerate(self.titles):
 
@@ -108,7 +117,13 @@ class GeneralBot():
 
     def bot_speaking(self):
         '''
-        Method for for printing the genrated paper titles
+        Method for for printing the generated paper titles
+
+        Arguments:
+            - None
+
+        Returns:
+            - None
         '''
         for paper in self.titles:
 

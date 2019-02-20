@@ -26,7 +26,7 @@ class TwitterPoster(__PosterUtilities):
         auth = tpy.OAuthHandler(credentials['consumer_key']
                                 , credentials['consumer_secret']
                                 )
-        self.auth = auth.set_access_toke(credentials['access_key']
+        self.auth = auth.set_access_token(credentials['access_key']
                                          , credentials['access_secret']
                                          )
 

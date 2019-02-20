@@ -1,0 +1,930 @@
+Population biology of plants.
+Adaptation in natural and artificial systems: an introductory analysis with applications to biology, control, and artificial intelligence
+Bioconductor: open software development for computational biology and bioinformatics
+Gene Ontology: tool for the unification of biology
+Brock biology of microorganisms
+Electron transfers in chemistry and biology
+Oxidants, oxidative stress and the biology of ageing
+Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering
+EMBOSS: the European molecular biology open software suite
+Circular statistics in biology.
+Free radicals in biology and medicine
+The biology of VEGF and its receptors
+Biochemistry and molecular cell biology of diabetic complications
+The Oceans: Their physics, chemistry, and general biology
+Gold nanoparticles: assembly, supramolecular chemistry, quantum-size-related properties, and applications toward biology, catalysis, and nanotechnology
+Pineal melatonin: cell biology of its synthesis and of its physiological interactions
+Systems biology: a brief overview
+Molecular cell biology
+Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence
+Randomization, bootstrap and Monte Carlo methods in biology
+Dynamic light scattering: with applications to chemistry, biology, and physics
+Principles of conservation biology
+Molecular cell biology
+Short protocols in molecular biology
+Biochemistry & molecular biology of plants
+Not in our genes: Biology, ideology, and human nature
+A primer of population biology
+Substituent constants for correlation analysis in chemistry and biology
+Network biology: understanding the cell's functional organization
+The comparative method in evolutionary biology
+Energy flow in biology: biological organization as a problem in thermal physics
+Cell biology and molecular basis of denitrification.
+Biology of ticks
+Biology of amphibians
+Biology and knowledge: An essay on the relations between organic regulations and cognitive processes
+Nothing in biology makes sense except in the light of evolution
+Algorithms on strings, trees and sequences: computer science and computational biology
+Elements of physical biology
+Ecological developmental biology: integrating epigenetics, medicine, and evolution
+The biology of human starvation.(2 vols).
+The weak hydrogen bond: in structural chemistry and biology
+Free radicals in biology and medicine
+Philosophy of biology
+Central dogma of molecular biology
+Tetracycline antibiotics: mode of action, applications, molecular biology, and epidemiology of bacterial resistance
+Rho GTPases in cell biology
+Morphometric tools for landmark data: geometry and biology
+From molecular to modular cell biology
+The organism: A holistic approach to biology derived from pathological data in man.
+Essentials of conservation biology
+Ethylene in plant biology
+Gene Ontology: tool for the unification of biology
+A general model for the origin of allometric scaling laws in biology
+The colloidal domain: where physics, chemistry, biology, and technology meet
+The biology of oxygen radicals
+Diatoms: biology and morphology of the genera
+Biology of disease: free radicals and tissue injury.
+Exploring QSAR.:. Fundamentals and applications in chemistry and biology
+Conservation biology in theory and practice
+Prostaglandins and leukotrienes: advances in eicosanoid biology
+Writing biology: Texts in the social construction of scientific knowledge
+The biology of vascular endothelial growth factor
+Biology of aquatic vascular plants
+The systems biology markup language (SBML): a medium for representation and exchange of biochemical network models
+Handbook of freshwater fishery biology: Volume 3.
+Handbook of biochemistry and molecular biology. Lipids, carbohydrates, steroids-3
+The psycho-biology of language.
+A primer of conservation biology
+Apolipoprotein E: cholesterol transport protein with expanding role in cell biology
+The molecular biology of memory storage: a dialogue between genes and synapses
+Biochemical systems analysis. A study of function and design in molecular biology
+The biology of Aedes albopictus.
+Molecular biology of the gene.
+Molecular biology of the gene.
+Elements of mathematical biology
+The biology of epithelial cell populations
+Biology of natural killer cells
+Mathematical biophysics: physico-mathematical foundations of biology
+Biology of moderately halophilic aerobic bacteria
+Designing materials for biology and medicine
+A decade of molecular biology of retinoic acid receptors.
+Biology and ecology of earthworms
+NAD (P) H oxidase: role in cardiovascular biology and disease
+Compartmental analysis in biology and medicine.
+Biology, immunology, and cariogenicity of Streptococcus mutans.
+Ecological stoichiometry: the biology of elements from molecules to the biosphere
+Bayesian inference of phylogeny and its impact on evolutionary biology
+Cyclooxygenase in biology and disease
+The chemical biology of fishes. With a key to the chemical literature.
+The chemical basis of radiation biology
+Island biology
+An unsolved problem of biology
+The biology of moral systems
+Population biology of infectious diseases: Part I
+DAMBE: software package for data analysis in molecular biology and evolution
+Basic methods in molecular biology
+Computational systems biology
+The molecular biology of axon guidance
+Techniques of analysis of variance in experimental marine biology and ecology
+What the philosophy of biology is: essays dedicated to David Hull
+Mathematical biology. II spatial models and biomedical applications {Interdisciplinary Applied Mathematics V. 18}
+Ethology, the biology of behavior
+… , heart failure and transplantation committee; quality of care and outcomes research and functional genomics and translational biology interdisciplinary working groups …
+Life in moving fluids: the physical biology of flow
+Classical electrostatics in biology and chemistry
+Progress in invasion biology: predicting invaders
+Molecular cell biology
+Random walks in biology
+Oxygen free radicals and iron in relation to biology and medicine: some problems and concepts
+Adaptation in natural and artificial systems: an introductory analysis with applications to biology, control, and artificial intelligence
+The anemonefishes: their classification and biology
+NOX enzymes and the biology of reactive oxygen
+Guide to yeast genetics and molecular and cell Biology: Part C
+Phylogenetic patterns and the evolutionary process. Method and theory in comparative biology
+Cyclooxygenases: structural, cellular, and molecular biology
+Cation-π interactions in chemistry and biology: a new view of benzene, Phe, Tyr, and Trp
+Practical human biology
+Cell and molecular biology: concepts and experiments
+Cell biology of extracellular matrix
+The DNA-damage response in human biology and disease
+The biology of platelet-derived growth factor
+An introduction to systems biology: design principles of biological circuits
+Surfactant systems: their chemistry, pharmacy and biology
+Hydrogels in biology and medicine: from molecular principles to bionanotechnology
+The strategy of model building in population biology
+The biology of fracture healing in long bones
+Rho GTPases: biochemistry and biology
+The biology of chemokines and their receptors
+Statistical methods in biology
+Human Biology, A Guide to Field Methods.
+Mathematical models in biology
+Ecology and field biology
+The population biology of invasive species
+Soft lithography in biology and biochemistry
+Bone marrow stromal stem cells: nature, biology, and potential applications
+Flavonoid biosynthesis. A colorful model for genetics, biochemistry, cell biology, and biotechnology
+The implications of angiogenesis for the biology and therapy of cancer metastasis
+Insect-plant biology
+The theory of open systems in physics and biology
+The biology of human natural killer-cell subsets
+Noble metals on the nanoscale: optical and photothermal properties and some applications in imaging, sensing, biology, and medicine
+The biology of cancer: metabolic reprogramming fuels cell growth and proliferation
+Hidden Markov models in computational biology: Applications to protein modeling
+The biology of the honey bee
+Seabed pockmarks and seepages: impact on geology, biology, and the marine environment
+Biology data book
+Progress and challenges in translating the biology of atherosclerosis
+Psychosis as a state of aberrant salience: a framework linking biology, phenomenology, and pharmacology in schizophrenia
+Developmental biology of ascidians
+Lichen biology
+Biology of interleukin 1.
+Bioinformatics and computational biology solutions using R and Bioconductor
+Mind in life: Biology, phenomenology, and the sciences of mind
+Endothelial progenitor cells: characterization and role in vascular biology
+The chlamydomonas sourcebook
+Cyclooxygenase isozymes: the biology of prostaglandin synthesis and inhibition
+Caveolae: from cell biology to animal physiology
+Macrolide antibiotics: chemistry, biology, and practice
+Physiology and molecular biology of phenylpropanoid metabolism
+Statistics in biology. Vol. 2.
+The evolutionary biology of the threespine stickleback
+Biology of incretins: GLP-1 and GIP
+Biopython: freely available Python tools for computational molecular biology and bioinformatics
+Covalently functionalized nanotubes as nanometre-sized probes in chemistry and biology
+Creating new fluorescent probes for cell biology
+Quantitative conservation biology
+Applications of nanoparticles in biology and medicine
+Structural and functional aspects of metal sites in biology
+The biology of the Mollusca
+Molecular biology of prion diseases
+Biology of plants
+The concept of allostasis in biology and biomedicine
+The biology of cancer
+Metal ions in biological systems: volume 15: zinc and its role in biology and nutrition
+Science and gender: A critique of biology and its theories on women
+of Book: Foundations of systems biology
+phytools: an R package for phylogenetic comparative biology (and other things)
+The biology of cachectin/TNF--a primary mediator of the host response
+Directions in conservation biology
+Kernel methods in computational biology
+Modern electrochemistry 2B: electrodics in chemistry, engineering, biology and environmental science
+Introduction to plant population biology
+Translating cell biology into therapeutic advances in Alzheimer's disease
+Review of the biology of quercetin and related bioflavonoids
+The molecular biology of cytochrome P450s.
+Biology of spiders
+Spider mites: their biology, natural enemies and control
+Morphometrics in evolutionary biology: the geometry of size and shape change, with examples from fishes
+Molecular biology of the androgen receptor
+Antinuclear antibodies: diagnostic markers for autoimmune diseases and probes for cell biology
+Astrocytes: biology and pathology
+Basic orthopaedic biomechanics & mechano-biology
+Mesenchymal stem cells: biology and potential clinical uses
+Evolutionary biology and human social behavior: An anthropological perspective
+Freshwater fishery biology
+Cause and effect in biology
+The biology of an equatorial herpetofauna in Amazonian Ecuador
+Nuclear receptor coregulators: cellular and molecular biology
+The molecular biology of apoptosis
+Chemistry and biology of the immunophilins and their immunosuppressive ligands
+Clustal W and Clustal X version 2.0
+Practical statistics for field biology
+The statistics and biology of the species-area relationship
+The biology of parasitic flowering plants. University of California Press, Berkeley.
+Biology, identification and control of root-knot nematodes
+Molecular biology of dopamine receptors
+The chemistry and biology of left-handed Z-DNA
+The galvanization of biology: a growing appreciation for the roles of zinc
+Hepatitis B virus biology
+The biology of the Penaeidae.
+Applying the principles of stem-cell biology to cancer
+The biology of population growth
+Foundations for engineering biology
+Cation-π interactions in structural biology
+Reproductive biology of the mare-basic and applied aspects.
+Pattern formation. A primer in developmental biology
+The biology of mosquitoes, Volume 3 Transmission of viruses and interactions with bacteria
+The new genomics: global views of biology
+The biology of incretin hormones
+Chemistry, biology, and medicine of the glycopeptide antibiotics
+Leech biology and behaviour
+Pathogenesis of dengue: challenges to molecular biology
+Developmental cell biology: The cell biology of neurogenesis
+Molecular biomimetics: nanotechnology through biology
+Phylogeny, ecology, and behavior: a research program in comparative biology
+Considering evolutionary processes in conservation biology
+Impact of protein kinase PKR in cell biology: from antiviral to antiproliferative action
+Biology of multifunctional cytokines: IL 6 and related molecules (IL 1 and TNF).
+The Biology and Clinical Relevance of the PTEN Tumor Suppressor Pathway
+The Physiology of Insect Reproduction: International Series of Monographs in Pure and Applied Biology: Zoology
+Essential cell biology
+Chemical biology of nitric oxide: insights into regulatory, cytotoxic, and cytoprotective mechanisms of nitric oxide
+Toward a new philosophy of biology: Observations of an evolutionist
+Some recent advances in the chemistry and biology of transforming growth factor-beta.
+Recent advances in the molecular biology of dopamine receptors
+The cell biology of macrophage activation
+The biology of mutualism: ecology and evolution
+Molecular biology of human proteins with special reference to plasma proteins. Vol. 1. Nature and metabolism of extracellular proteins.
+Collagens: molecular biology, diseases, and potentials for therapy
+Parasitic weeds of the world: biology and control.
+Malignant astrocytic glioma: genetics, biology, and paths to treatment
+Mathematical models in population biology and epidemiology
+Status of epidermal growth factor receptor antagonists in the biology and treatment of cancer
+The molecular biology and functions of the granulocyte-macrophage colony-stimulating factors
+Raman spectroscopy in biology: principles and applications
+Spatial autocorrelation in biology: 1. Methodology
+ANEW APPROACH TO DECODING LIFE: Systems Biology
+The biology of NKT cells
+The biology of the Amphibia
+The relationship of depression to cardiovascular disease: epidemiology, biology, and treatment
+Reactive species and antioxidants. Redox biology is a fundamental theme of aerobic life
+Microscale technologies for tissue engineering and biology
+Introduction to computational biology: maps, sequences and genomes
+Statistical methods in agriculture and experimental biology
+Next-generation sequencing transforms today's biology
+CD34: structure, biology, and clinical utility [see comments]
+Sigma receptors: biology and function.
+Myogenic satellite cells: physiology to molecular biology
+Systems biology and new technologies enable predictive and preventative medicine
+Gastrointestinal stromal tumors: recent advances in understanding of their biology
+Fungal decomposition of wood. Its biology and ecology.
+The molecular and cellular biology of wound repair
+Biology and water pollution control.
+What is conservation biology?
+Molecular biology of learning: modulation of transmitter release
+The molecular biology of chronic myeloid leukemia
+Critical factors in the biology of human cancer metastasis: twenty-eighth GHA Clowes memorial award lecture
+The biology of senescence.
+Electroporation and electrofusion in cell biology
+Evolution of animal mitochondrial DNA: relevance for population biology and systematics
+Systems biology: metabonomics
+Interleukin-6 in biology and medicine
+Fisheries biology, assessment and management
+A coding-independent function of gene and pseudogene mRNAs regulates tumour biology
+Physics and applications of microfluidics in biology
+Biochemistry, cellular and molecular biology, and physiological roles of the iodothyronine selenodeiodinases
+Reconciling the chemistry and biology of reactive oxygen species
+Molecular biology and pathogenicity of mycoplasmas
+Neuroscience, molecular biology, and the childhood roots of health disparities: building a new framework for health promotion and disease prevention
+Molecular biology of the LysR family of transcriptional regulators
+Recent developments in the cell biology of basic fibroblast growth factor.
+Trichoderma and Gliocladium: biology, ecology, and potential for biocontrol
+Hematopoiesis: an evolving paradigm for stem cell biology
+The strategy of the genes. A discussion of some aspects of theoretical biology. With an appendix by H. Kacser.
+Thrips, their biology, ecology and economic importance.
+The biology of lichens.
+The biology of twinning in man.
+The soluble interleukin-2 receptor: biology, function, and clinical application
+Evolutionary biology of parasites
+Gold nanoparticles for biology and medicine
+Coumarins. Biology, applications and mode of action
+Biology, ecology, and management of the diamondback moth
+Designing autonomous agents: Theory and practice from biology to engineering and back
+Biology of disease
+The molecular cell biology of interferon-gamma and its receptor
+Biochemistry and molecular biology of gelatinase B or matrix metalloproteinase-9 (MMP-9)
+The biology of erbB-2/nue/HER-2 and its role in cancer
+Stochastic sensors inspired by biology
+Evolutionary robotics: The biology, intelligence, and technology of self-organizing machines
+Biology and epidemiology of bacterial wilt caused by Pseudomonas solanacearum
+Deep-sea biology: a natural history of organisms at the deep-sea floor
+The cell biology of β-amyloid precursor protein and presenilin in Alzheimer's disease
+Fluorine in medicinal chemistry and chemical biology
+The biology of chromatin remodeling complexes
+Molecular and cellular biology of cholinesterases
+Trace fossils: biology, taxonomy and applications
+Imms' General Textbook of Entomology: Volume 2: Classification and Biology
+Free radicals in biology: oxidative stress and the effects of ionizing radiation
+A Scientist's Vision of Art: A Review of Margaret Livingstone's Vision and Art: The Biology of Seeing.
+The structural biology of expression and function of tissue factor.
+The anomaly of silicon in plant biology
+Biology of cholinesterases
+Molecular biology of amyotrophic lateral sclerosis: insights from genetics
+Synthetic biology: new engineering rules for an emerging discipline
+Biological invasions and ecosystem processes: towards an integration of population biology and ecosystem studies
+Photonic structures in biology
+Plant hormones: physiology, biochemistry and molecular biology
+Size and shape in biology: elastic criteria impose limits on biological proportions, and consequently on metabolic rates
+Context, cortex, and dopamine: a connectionist approach to behavior and biology in schizophrenia.
+Wolbachia: master manipulators of invertebrate biology
+Efficient genetic markers for population biology
+[Pharmacology and toxicology. For students of medicine, veterinary medicine, pharmacy, chemistry, biology as well as for physicians, veterinarians and …
+The biology of a marine copepod: Calanus finmarchicus (Gunnerus)
+Lipid rafts: at a crossroad between cell biology and physics
+A mitochondrial protein compendium elucidates complex I disease biology
+… Surgery/Society for Vascular Surgery, Society for Cardiovascular Angiography and Interventions, Society for Vascular Medicine and Biology, Society of Interventional …
+Herpetology: an introductory biology of amphibians and reptiles
+Repair of oxidative damage to DNA: enzymology and biology
+Fluorescence assay in biology and medicine
+Mismatch repair in replication fidelity, genetic recombination, and cancer biology
+Regulation of matrix biology by matrix metalloproteinases
+Natively unfolded proteins: a point where biology waits for physics
+Biology of brackish water
+Campbell biology
+The cell and molecular biology of fracture healing
+Pectin: cell biology and prospects for functional analysis
+The molecular biology of head and neck cancer
+The endocrinology and developmental biology of the prostate
+Biology of intertidal animals
+Biology of animal lectins
+Macrophage biology in development, homeostasis and disease
+BIOLOGY OF WOLBACHIA
+Reproductive biology and embryology of the crocodilians
+Essays in the History of Embryology and Biology
+Endogenous opioids: biology and function
+Biology and biochemistry of glucosinolates
+Niche conservatism: integrating evolution, ecology, and conservation biology
+The biology and evolution of language
+Biology of insect eggs. Volume I, Volume II, Volume III.
+Fat and beyond: the diverse biology of PPARγ
+On the use of surrogate species in conservation biology
+The forgotten requirement for age validation in fisheries biology
+Evolutionary biology of aging
+Biology and the future of psychoanalysis: a new intellectual framework for psychiatry revisited
+Gold nanoparticles in biology: beyond toxicity to cellular imaging
+Isozymes in plant biology
+Molecular biology of steroid hormone synthesis
+Harkness and Wagner's biology and medicine of rabbits and rodents
+Applications of nanoparticles in biology
+Biology of gastrointestinal stromal tumors
+Fundamentals of orchid biology.
+Cell biology of atherosclerosis
+Why God won't go away: Brain science and the biology of belief
+Diversity and evolutionary biology of tropical flowers
+Biology of oligodendrocyte and myelin in the mammalian central nervous system
+Biology as ideology: The doctrine of DNA
+Tetrazolium dyes as tools in cell biology: new insights into their cellular reduction
+The biology of bone graft repair.
+The use and abuse of biology: An anthropological critique of sociobiology
+The genetics of bacteria and their viruses. Studies in basic genetics and molecular biology.
+Molecular and cellular biology of intermediate filaments
+Fusarium mycotoxins: chemistry, genetics, and biology.
+Out of control: The new biology of machines, social systems, and the economic world
+The molecular biology of leukocyte chemoattractant receptors
+Biology of cognition
+Regulatory mechanisms in stem cell biology
+Development of human protein reference database as an initial platform for approaching systems biology in humans
+Biology of the syndecans: a family of transmembrane heparan sulfate proteoglycans
+Biology of dairy cows during the transition period: The final frontier?
+The diversity of fishes: biology, evolution, and ecology
+Heat shock protein 70 kDa: molecular biology, biochemistry, and physiology
+Defining the role of hypoxia-inducible factor 1 in cancer biology and therapeutics
+Cytokines and endothelial cell biology
+Biology of prostate-specific antigen
+Biology and biochemistry of proteinases in tumor invasion
+Dorothy M. Fragaszy, Elisabetta Visalberghi, Linda M. Fedigan (eds). The complete capuchin: the biology of the genus Cebus
+Brain tumors: their biology and pathology
+Copper biochemistry and molecular biology
+Lectures on nonlinear-differential-equation models in biology
+The biology of the Coleoptera
+Translating stem and progenitor cell biology to the clinic: barriers and opportunities
+The Human Genome Project: lessons from large-scale biology
+guide to the study of fresh-water biology
+Review of epidermal growth factor receptor biology
+Genetic studies of body mass index yield new insights for obesity biology
+Evolution of the internal fixation of long bone fractures: the scientific basis of biological internal fixation: choosing a new balance between stability and biology
+Molecular biology of GABAA receptors.
+The TINS/TiPS Lecture the molecular biology of mammalian glutamate receptor channels
+Cause and correlation in biology: a user's guide to path analysis, structural equations and causal inference with R
+The FGF family: biology, pathophysiology and therapy
+Biology and wildlife of the Mediterranean region
+The molecular biology of the hepatitis B viruses
+Molecular dynamics simulations in biology
+Lanthanide ion probes of structure in biology. Laser-induced luminescence decay constants provide a direct measure of the number of metal-coordinated water …
+The biology of calanoid copepods
+Agrobacterium-mediated plant transformation: the biology behind the “gene-jockeying” tool
+Biology of the laboratory mouse
+Biology of language: The epistemology of reality
+Pollen: biology biochemistry management
+Biology of dragonflies
+Mesenchymal Stem Cells Derived from Dental Tissues vs. Those from Other Sources: Their Biology and Role in Regenerative Medicine
+Biology of cartilage cells
+Cell biology
+The art of changing the brain: Enriching teaching by exploring the biology of learning
+Tumour biology: senescence in premalignant tumours
+The biology of chronic myeloid leukemia
+G‐quartets 40 years later: from 5′‐GMP to molecular biology and supramolecular chemistry
+The cell biology of transforming growth factor β
+Biology of the sticklebacks
+The genus Alternaria: biology, epidemiology, and pathogenicity.
+The lives of a cell: Notes of a biology watcher
+The biology of spiders.
+General biology
+Hopes for the future: restoration ecology and conservation biology
+Arterial Biology for the Investigation of the Treatment Effects of Reducing Cholesterol (ARBITER) 2: a double-blind, placebo-controlled study of extended-release …
+Tobacco BY-2 cell line as the “HeLa” cell in the cell biology of higher plants
+Molecular Pharmacology V3: The Model of Action of Biology Active Compounds
+Melanoma biology and new targeted therapy
+The theory of rate processes in biology and medicine
+The history of biology.
+Pancreatic cancer biology and genetics
+The biology and evolution of Australian lizards
+Biology of the Sea of the USSR
+Angiosperm phylogeny inferred from multiple genes as a tool for comparative biology
+Cell biology of the glomerular podocyte
+Vascular epiphytes: general biology and related biota
+Apoptosis: the biochemistry and molecular biology of programmed cell death
+Biology of Giardia lamblia
+Recent progress in the biology and physiology of sirtuins
+Water as an active constituent in cell biology
+Malignant glioma: genetics and biology of a grave matter
+Biochemistry and structural biology of transcription factor IID (TFIID)
+Lycopene: chemistry, biology, and implications for human health and disease
+The merging of community ecology and phylogenetic biology
+Fibroblast biology in three-dimensional collagen matrices
+Fundamentals of Radiobiology: International Series of Monographs in Pure and Applied Biology: Modern Trends in Physiological Sciences
+The biology of mental defect
+Fertility, biology, and behavior: An analysis of the proximate determinants
+The medusa and the snail: More notes of a biology watcher
+Molecular biology of microbial ureases.
+Embryonic stem cell differentiation: emergence of a new era in biology and medicine
+Root exudation and rhizosphere biology
+The second wave of synthetic biology: from modules to systems
+Feature point tracking and trajectory analysis for video imaging in cell biology
+Molecular biology of the hepatitis C viruses: implications for diagnosis, development and control of viral disease
+Understanding'global'systems biology: metabonomics and the continuum of metabolism
+Lifelines: Biology, freedom, determinism
+Tensegrity I. Cell structure and hierarchical systems biology
+Fc RECEPTOR BIOLOGY
+The psychology and biology of emotion.
+Carbon nanotubes in biology and medicine: In vitro and in vivo detection, imaging and drug delivery
+beta‐1, 4‐D‐xylan‐degrading enzyme systems: biochemistry, molecular biology and applications
+Inflammation in atherosclerosis: from vascular biology to biomarker discovery and risk prediction
+… 1992. Recommendations of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology on the Nomenclature and …
+The biology of mycorrhiza.
+The role of growth factors in the repair of bone: biology and clinical applications
+Vascular permeability factor (VPF, VEGF) in tumor biology
+Biology & quantum mechanics
+Developmental biology of the pancreas
+The predominance of quarter‐power scaling in biology
+The Chromatography of Steroids: International Series of Monographs on Pure and Applied Biology: Biochemistry
+Ozone depletion: ultraviolet radiation and phytoplankton biology in Antarctic waters
+Plant biochemistry and molecular biology
+Synthetic fluorescent sensors for studying the cell biology of metals
+The biology of heat shock proteins and molecular chaperones
+Scaling in biology
+Molecular biology of mammalian glucose transporters
+Biology of mangroves and mangrove ecosystems
+Tumor heterogeneity and the biology of cancer invasion and metastasis
+Cell biology of protein misfolding: the examples of Alzheimer's and Parkinson's diseases
+Bacterial biocatalysts: molecular biology, three-dimensional structures, and biotechnological applications of lipases
+Reaction-diffusion equations and their applications to biology.
+Cell biology of antigen processing in vitro and in vivo
+Genetics and biology of vitamin D receptor polymorphisms
+Bacterial silver resistance: molecular biology and uses and misuses of silver compounds
+Developing the science of reintroduction biology
+How complexity pervades biology
+Maximum entropy production principle in physics, chemistry and biology
+The lectins: properties, functions, and applications in biology and medicine
+The axiomatic method in biology
+Marine biology: function, biodiversity, ecology
+Molecular biology of fruit maturation and ripening
+Contemporary evolution meets conservation biology
+The biology of the clupeoid fishes
+Remyelination in the CNS: from biology to therapy
+Structural biology of the Bcl-2 family of proteins
+Chemistry and biology of the enediyne anticancer antibiotics
+The biology of life span: a quantitative approach.
+The biology of hair follicles
+Evolutionary developmental biology
+The biology of nitrogen oxides in the airways.
+Introduction to computational molecular biology
+Radical-free biology of oxidative stress
+Cu-free click cycloaddition reactions in chemical biology
+Ovarian surface epithelium: biology, endocrinology, and pathology
+Biology of the p21-activated kinases
+Biology and clinical relevance of human natural killer cells
+Toward an understanding of NKT cell biology: progress and paradoxes
+Mammalian reproductive biology
+The biology of PECAM-1.
+Metalloproteinases in biology and pathology of the nervous system
+Laboratory techniques in biochemistry and molecular biology. Volume 1.
+Scale-free networks in cell biology
+Stress (heat shock) proteins: molecular chaperones in cardiovascular biology and disease
+Lewis A. Conner Memorial Lecture. Mechanisms leading to myocardial infarction: insights from studies of vascular biology.
+The molecular biology of leaf senescence
+Datamonkey 2010: a suite of phylogenetic analysis tools for evolutionary biology
+Stochastic modelling for systems biology
+The cell biology of the blood-brain barrier
+The biochemistry and cell biology of antigen processing and presentation
+Recent advances in the structural biology of chondroitin sulfate and dermatan sulfate
+Resynthesizing evolutionary and developmental biology
+Cystic fibrosis: molecular biology and therapeutic implications
+Theoretical biology
+Structural biology of Rad50 ATPase: ATP-driven conformational control in DNA double-strand break repair and the ABC-ATPase superfamily
+The biology of cancer stem cells
+Navigating chemical space for biology and medicine
+Interleukin-8 and human cancer biology
+This is biology: the science of the living world
+The retinoids: biology, chemistry, and medicine
+Insulin: The Structure in the Crystal and its Reflection in Chemistry and Biology by
+The biology of vines
+Plant terpenoid synthases: molecular biology and phylogenetic analysis
+Pervasive roles of microRNAs in cardiovascular biology
+Biology of hematopoietic stem cells and progenitors: implications for clinical application
+Synthetic biology
+The sequence alignment/map format and SAMtools
+DAVID Bioinformatics Resources: expanded annotation database and novel algorithms to better extract biology from large gene lists
+Biology of the springtails:(Insecta: Collembola)
+Temperature biology of animals
+Life: The Science of Biology: Volume III: Plants and Animals
+The genome sequence of taurine cattle: a window to ruminant biology and evolution
+Chronic myeloid leukemia—advances in biology and new approaches to treatment
+ZINC: a free tool to discover chemistry for biology
+The biology of vascular endothelial growth factors
+Medaka (killifish): biology and strains
+Biology and the mechanics of the wave-swept environment
+Some examples of statistical methods of research in agriculture and applied biology
+Prion protein biology
+The physical biology of plant cell walls
+Systems biology
+The contribution of population and community biology to conservation science
+Terahertz technology in biology and medicine
+Mesenchymal stromal cells: biology of adult mesenchymal stem cells: regulation of niche, self-renewal and differentiation
+Cell biology of the amyloid beta-protein precursor and the mechanism of Alzheimer's disease
+The biology of temporary waters
+Biochemistry and biology of mammalian DNA methyltransferases
+Functional dissection of protein complexes involved in yeast chromosome biology using a genetic interaction map
+Helicobacter pylori persistence: biology and disease
+The biology of ovarian cancer: new opportunities for translation
+Monoclonal antibodies to nucleic acid-containing cellular constituents: probes for molecular biology and autoimmune disease
+Statistics in biology. Statistical methods for research in the natural sciences.
+Lectures on biostatistics: an introduction to statistics with applications in biology and medicine
+The chemistry of aluminum as related to biology and medicine.
+Insects and arachnids of tropical stored products: their biology and identification (a training manual). 2
+Risk assessment in conservation biology
+Ecology of Protozoa: The biology of free-living phagotropic protists
+History, heterogeneity, developmental biology, and functions of quiescent hepatic stellate cells
+The biology of the cell cycle
+Reactions of non-heme iron (II) centers with dioxygen in biology and chemistry
+Comparative biology of calcium signaling during fertilization and egg activation in animals
+The impact of plant flavonoids on mammalian biology: implications for immunity, inflammation and cancer
+The Biochemistry, Biology, and Role of Interleukin 2 in the Induction of Cytotoxic T Cell and Antibody‐Forming B Cell Responses
+The biology of cancer invasion and metastasis
+From structure to disease: the evolving tale of aquaporin biology
+Going deeper than microscopy: the optical imaging frontier in biology
+Regression and model-building in conservation biology, biogeography and ecology: the distinction between–and reconciliation of–'predictive'and 'explanatory'models
+The Arabidopsis Information Resource (TAIR): a model organism database providing a centralized, curated gateway to Arabidopsis biology, research materials and …
+Chemical space and biology
+Mitochondrial biology and oxidative stress in Parkinson disease pathogenesis
+The natural history of tsetse flies. An account of the biology of the genus Glossina (Diptera).
+Interleukin-1 receptor antagonist: role in biology
+Milkweed butterflies, their cladistics and biology, being an account of the natural history of the Danainae, a subfamily of the Lepidoptera, Nymphalidae.
+Practical pollination biology.
+Oxygen in stem cell biology: a critical component of the stem cell niche
+New concepts in the biology and biochemistry of ascorbic acid
+The phenomenon of life: Toward a philosophical biology
+Biology of the grapevine
+Sources and sinks in population biology
+A methodology for performing global uncertainty and sensitivity analysis in systems biology
+The biology of leptin: a review.
+Biology and biochemistry of the chemokines: a family of chemotactic and inflammatory cytokines.
+The psycho-biology of language: An introduction to dynamic philology
+Analytical biology
+Directions in reintroduction biology
+Cancer nanotechnology: the impact of passive and active targeting in the era of modern cancer biology
+The expanded biology of serotonin
+Biology of Borrelia species.
+The molecular biology and nomenclature of the activating transcription factor/cAMP responsive element binding family of transcription factors: activating …
+Perspectives series: cell adhesion in vascular biology. Role of PSGL-1 binding to selectins in leukocyte recruitment.
+Steinernematid and heterorhabditid nematodes: a handbook of biology and techniques
+Long‐Range Electron Transfer in Biology
+The biology of hematopoietic stem cells
+Towards a theoretical biology
+Catechol-O-methyltransferase (COMT): biochemistry, molecular biology, pharmacology, and clinical efficacy of the new selective COMT inhibitors
+The spectrum of latent tuberculosis: rethinking the biology and intervention strategies
+Emotions and life: Perspectives from psychology, biology, and evolution.
+Fluctuating asymmetry as an indicator of stress: implications for conservation biology
+The biology of diatoms
+Molecular population structure and the biogeographic history of a regional fauna: a case history with lessons for conservation biology
+Articular cartilage and changes in arthritis: cell biology of osteoarthritis
+The multiple sequence alignment problem in biology
+Biology of progressive, castration-resistant prostate cancer: directed therapies targeting the androgen-receptor signaling axis
+The cell biology of osteoclast function
+Migratory movements, depth preferences, and thermal biology of Atlantic bluefin tuna
+An ER-mitochondria tethering complex revealed by a synthetic biology screen
+Normal and abnormal biology of the beta-amyloid precursor protein
+The biology of ultimate concern
+Holland, Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control and Artificial Intelligence
+Total internal reflection fluorescence microscopy in cell biology
+Interleukin 15: biology and relevance to human disease
+Insights into RNA biology from an atlas of mammalian mRNA-binding proteins
+The hemopoietic colony-stimulating factors: from biology to clinical applications
+Synthetic biology: Engineering Escherichia coli to see light
+The biology and control of phlebotomine sand flies
+Genetics and biology of pancreatic ductal adenocarcinoma
+Charge transfer in physics, chemistry and biology: physical mechanisms of elementary processes and an introduction to the theory
+Head first: The biology of hope and the healing power of the human spirit
+Synthetic biology: applications come of age
+Conservation biology and carnivore conservation in the Rocky Mountains
+Structure and biology of proteoglycans
+The structural biology of palms.
+Gelatinase B functions as regulator and effector in leukocyte biology
+Boron in plant biology
+Mammoths, mastodonts, and elephants: biology, behavior and the fossil record
+Chemistry and biology of multicomponent reactions
+Multiple hormone interactions in the developmental biology of the mammary gland.
+The biology of mangroves and seagrasses
+Coarse-grained normal mode analysis in structural biology
+An analysis of water, natural water, waste water, sea water: chemistry, bacteriology, biology
+Biology and molecular biology of starch synthesis and its regulation
+Paleobotany: the biology and evolution of fossil plants
+Ovarian cancer: epidemiology, biology, and prognostic factors
+Thematic review series: adipocyte biology. The perilipin family of structural lipid droplet proteins: stabilization of lipid droplets and control of lipolysis
+Chemistry and biology of reactive oxygen species in signaling or stress responses
+Scanning tunneling microscopy and atomic force microscopy: application to biology and technology
+Cell biology: targeted transfection by femtosecond laser
+Systems Biology Toolbox for MATLAB: a computational platform for research in systems biology
+The biology of millipedes.
+Plant biology: floral quartets
+The human keratins: biology and pathology
+Protease‐activated receptors in hemostasis, thrombosis and vascular biology
+Bright ideas for chemical biology
+Biology of the endothelium.
+Metabolite profiling: from diagnostics to systems biology
+Biology of the RANTES/SIS cytokine family
+Nucleic acids in chemistry and biology
+Cell biology: join the crowd
+Reactive nitrogen species in the chemical biology of inflammation
+Modern theories of development: An introduction to theoretical biology
+Environmental biology of agaves and cacti
+Yeast cells provide insight into alpha-synuclein biology and pathobiology
+Ageing. The biology of senescence.
+Molecular biology of osmoregulation
+Niche conservatism as an emerging principle in ecology and conservation biology
+Structures of Toxoplasma gondiitachyzoites, bradyzoites, and sporozoites and biology and development of tissue cysts
+The use of the avidin‐biotin complex as a tool in molecular biology
+Biology, chance, and history and the structure of tropical rain foest tree communities
+Molecular biology of bacterial viruses.
+Gut feelings: the emerging biology of gut–brain communication
+Molecular biology of mutagens and carcinogens
+Developmental cell biology: Regulatory networks in embryo-derived pluripotent stem cells
+Forensic DNA typing: biology, technology, and genetics of STR markers
+The molecular biology of coronaviruses
+The biology of the ringed seal (Phoca hispida Schreber) in the eastern Canadian Arctic
+Structural biology of allergens
+The emergence of lncRNAs in cancer biology
+Bird-song: the biology of vocal communication and expression in birds.
+Mammalian circadian biology: elucidating genome-wide levels of temporal organization
+… Affects the Differentiation of Multiple Hematopoietic Lineages In Vivo: Presented in part at the Keystone Symposium “Cellular and Molecular Biology of Dendritic Cells …
+Embryonic stem cells: prospects for developmental biology and cell therapy
+The biology of the autistic syndromes
+Wetland plants: biology and ecology
+George Lyman Duff Memorial Lecture. Atherosclerosis: a problem of the biology of arterial wall cells and their interactions with blood components.
+A systems biology approach for pathway level analysis
+The common biology of cancer and ageing
+Mathematics in population biology
+Sex and death: An introduction to philosophy of biology
+Coherent anti-Stokes Raman scattering microscopy: chemical imaging for biology and medicine
+Nanotechnology: convergence with modern biology and medicine
+The biology of streams and rivers
+The behavioural biology of aggression
+Binary switches and modification cassettes in histone biology and beyond
+Models in biology: mathematics, statistics and computing.
+Insects and flowers: the biology of a partnership
+The systems biology graphical notation
+Predictive accuracy of population viability analysis in conservation biology
+Iron biology in immune function, muscle metabolism and neuronal functioning
+Women, Feminism and Biology the Feminist Challenge
+Biochemistry and molecular biology of the human CYP2C subfamily.
+The physics and biology of animal reflectors
+Introduction to insect biology and diversity.
+Fatty-acid synthase and human cancer: new perspectives on its role in tumor biology
+Biology of the arthropod cuticle
+Positive health: connecting well-being with biology.
+The Biology of Belief 10th Anniversary Edition: Unleashing the Power of Consciousness, Matter & Miracles
+The carrier potential of liposomes in biology and medicine
+Biology of freshwater pollution
+Biology and the child.
+Self-injurious behavior: a review of the behavior and biology of self-mutilation
+Waging war on modern chronic diseases: primary prevention through exercise biology
+Genes in conflict: the biology of selfish genetic elements
+Out of our heads: Why you are not your brain, and other lessons from the biology of consciousness
+The evolution of molecular biology into systems biology
+Folic acid: nutritional biochemistry, molecular biology, and role in disease processes
+Podocyte biology and response to injury
+The intriguing biology of the tumour necrosis factor/tumour necrosis factor receptor superfamily: players, rules and the games
+The role of biology in the formation, stabilization and degradation of soil structure
+Active oxygen species and antioxidants in seed biology
+Systems biology: its practice and challenges
+Race as biology is fiction, racism as a social problem is real: Anthropological and historical perspectives on the social construction of race.
+The cell biology of lysosomal storage disorders
+Organic selenium compounds: their chemistry and biology
+Biology: concepts & connections
+Functionalized fullerenes in water. The first 10 years of their chemistry, biology, and nanoscience
+Structural biology of HIV1
+Biology of RANK, RANKL, and osteoprotegerin
+Systems biology approaches identify ATF3 as a negative regulator of Toll-like receptor 4
+Progress and prospects in evolutionary biology: the Drosophila model
+The biology of seamounts
+Evolution, selection and cognition: From “learning” to parameter setting in biology and in the study of language
+Biology of HER2 and its importance in breast cancer
+Biology of cachexia
+The Principles of Biology, Volume 1 (of 2)
+The biology of Stentor
+Brain and psyche: The biology of the unconscious
+The biology and enzymology of eukaryotic protein acylation
+Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans
+The influence of bio-behavioural factors on tumour biology: pathways and mechanisms
+Random walk models in biology
+The kinetic basis of molecular biology
+The biology and clinical uses of blood stem cells
+The biology of dinoflagellates
+Genetics of rheumatoid arthritis contributes to biology and drug discovery
+Biology of fruit flies
+The ubiquitin–26S proteasome system at the nexus of plant biology
+Pleistocene geology and biology, with especial reference to the British Isles
+Systems biology in drug discovery
+AACR centennial series: the biology of cancer metastasis: historical perspective
+Whitefly biology
+The biochemistry and molecular biology of lipid accumulation in oleaginous microorganisms
+A biology of numbers and difference
+Endothelial function: from vascular biology to clinical applications
+Structure and biology of cartilage and bone matrix noncollagenous macromolecules.
+Antarctic fish biology: evolution in a unique environment
+Nucleic Acids Research annual Database Issue and the NAR online Molecular Biology Database Collection in 2009
+VEGF signalling: integration and multi-tasking in endothelial cell biology
+The cell biology of synaptic plasticity: AMPA receptor trafficking
+Human Embryology and Developmental Biology E-Book: with STUDENT CONSULT Online Access
+Structural biology: proton-powered turbine of a plant motor
+The structural biology of the developing dental enamel matrix
+The biology of Zymomonas.
+A paradigm for restenosis based on cell biology: clues for the development of new preventive therapies
+Animal mitochondrial DNA as a genetic marker in population and evolutionary biology
+Early animal evolution: emerging views from comparative biology and geology
+Biology of Trypanosoma cruzi
+The biology of symbiosis.
+Biology of freshwater pollution
+Molecular biology of mammalian plasma membrane amino acid transporters
+Biology of bone transplantation.
+Lysophospholipid receptors: signaling and biology
+Taxonomy, biology, and clinical aspects of Fusarium species.
+Cell biology of endothelial cells
+The amphibian decline crisis: a watershed for conservation biology?
+The biology of heterostyly
+Restoration ecology and conservation biology
+Population biology of multihost pathogens
+Q's next: the diverse functions of glutamine in metabolism, cell biology and cancer
+Melanocyte biology and skin pigmentation
+Systems biology, proteomics, and the future of health care: toward predictive, preventative, and personalized medicine
+Cardiovascular biology of the asymmetric dimethylarginine: dimethylarginine dimethylaminohydrolase pathway
+ATF4 is a substrate of RSK2 and an essential regulator of osteoblast biology: implication for Coffin-Lowry syndrome
+Biotechnology of microbial xylanases: enzymology, molecular biology, and application
+[8] SRS: Information retrieval system for molecular biology data banks
+Spirulina platensis arthrospira: physiology, cell-biology and biotechnology
+biology of estuaries and coastal waters
+Molecular biology of the renin-angiotensin system.
+Highlights and prospects of potyvirus molecular biology
+… mass spectrometry using desorption electrospray ionization (DESI): instrumentation, mechanisms and applications in forensics, chemistry, and biology
+Optimizing sampling efficiency of stereological studies in biology: or 'Do more less well!'
+Interleukin‐6 biology is coordinated by membrane‐bound and soluble receptors: role in inflammation and cancer
+Oxalic acid in biology and medicine
+Biology of HIF-1α
+Altered peptide ligand–induced partial T cell activation: molecular mechanisms and role in T cell biology
+Diversity-oriented synthesis: exploring the intersections between chemistry and biology
+The interplay between Src and integrins in normal and tumor biology
+Diseases and plant population biology
+The avian egg: chemistry and biology.
+Biology of mammalian L1 retrotransposons
+Sewall Wright and evolutionary biology
+Cell biology of heme
+… their Implications in Pathophysiologic Processes José M. Matés and Francisca Sánchez-Jiménez Department of Molecular Biology and Biochemistry, Faculty …
+The cowbirds: a study in the biology of social parasitism
+Interferon-γ: biology and role in pathogenesis
+Baculovirus diversity and molecular biology
+The molecular biology of the CCAAT-binding factor NF-Y
+Relationship of depression to diabetes types 1 and 2: epidemiology, biology, and treatment
+Molecular biology and biochemistry of the natriuretic peptide system. I: Natriuretic peptides.
+… between β1-integrin and epidermal growth factor receptor in three-dimensional basement membrane breast cultures: a different perspective in epithelial biology
+The follicle-stimulating hormone receptor: biochemistry, molecular biology, physiology, and pathophysiology
+Delimiting species: a Renaissance issue in systematic biology
+Effects of subject-matter knowledge in the teaching of biology and physics
+Mesenchymal stem cells: biology, pathophysiology, translational findings, and therapeutic implications for cardiac disease
+Hyphomycetes. Taxonomy and Biology.
+Developmental cycles and biology of pathogenic trypanosomes
+Molecular biology of neuroblastoma
+The impact of infection and disease on animal populations: implications for conservation biology
+Biology of DNA restriction.
+Folk biology and the anthropology of science: Cognitive universals and cultural particulars
+DAMBE5: a comprehensive software package for data analysis in molecular biology and evolution
+Cellular biology and biochemical mechanism of bone resorption. A review of recent developments on the formation, activation, and mode of action of osteoclasts.
+Computational studies of gene regulatory networks: in numero molecular biology
+Chemistry and biology of taxol
+Biochemical pathways: an atlas of biochemistry and molecular biology
+Depression in patients with cancer: diagnosis, biology, and treatment
+Biology and action of colony‐stimulating factor‐1
+The biology of myco‐heterotrophic ('saprophytic') plants
+World Ichneumonoidae 2004: Taxonomy, Biology, Morphology and Distribution: Taxapad 2005: Scientific Names for Information Management. Band....
+Release of the angiogenic cytokine vascular endothelial growth factor (VEGF) from platelets: significance for VEGF measurements and cancer biology
+Biology, risk stratification, and therapy of pediatric acute leukemias: an update
+The uses of statistical power in conservation biology: the vaquita and northern spotted owl
+Physical biology of the cell
+Evolution of the neocortex: a perspective from developmental biology
+Perspectives series: cell adhesion in vascular biology. Smooth muscle migration in atherosclerosis and restenosis.
+Chemistry and biology of eukaryotic iron metabolism
+The nature of systems biology
+Pathogenesis of ovarian cancer. Lessons from morphology and molecular biology and their clinical implications
+Mechanical loading history and skeletal biology
+Parasitology and vector biology
+Biology of root-infecting fungi
+Postconditioning and protection from reperfusion injury: where do we stand? Position paper from the Working Group of Cellular Biology of the Heart of the European …
+Cell biology: autophagy and cancer
+Social intelligence and the biology of leadership
+Biochemistry and molecular biology of monooxygenases: current perspectives on forms, functions, and regulation of cytochrome P450 in aquatic species
+Gene trees and organismal histories: a phylogenetic approach to population biology
+The biology of cell locomotion within three-dimensional extracellular matrix
+Cell biology and biochemistry of endochondral bone development
+ADF/cofilin: a functional node in cell biology
+Autopoiesis, structural coupling and cognition: a history of these and other notions in the biology of cognition
+Un menage a quatre: the molecular biology of chromosome segregation in meiosis
+New developments in mast cell biology
+How much information on population biology is needed to manage introduced species?
+NO, nitrosonium ions, nitroxide ions, nitrosothiols and iron-nitrosyls in biology: a chemist's perspective
+Terrestrial plant biology of the sub-Antarctic and Antarctic.
+The multicolored Asian lady beetle, Harmonia axyridis: a review of its biology, uses in biological control, and non-target impacts
+Newer aspects of the chemistry and biology of bacterial lipopolysaccharides with special reference to the lipid A component
+On spermiogenesis, morphology of the spermatozoon, and biology of fertilization among invertebrates
+Biology of aging: observations and principles
+Molecular biology of flaviviruses
+Metabolomics in systems biology
+ALKALOID BIOSYNTHESIS IN PLANTS: Biochemistry, Cell Biology, Molecular Regulation, and Metabolic Engineering Applications
+Population biology of antigen presentation by MHC class I molecules
+Ultrastructure and the biology of plant cells
+On the Trail of a Cereal Killer: Exploring the Biology of Magnaporthe grisea
+The cell biology of the plasminogen system.
+The physiology, genetics and molecular biology of plant aluminum resistance and toxicity
+The mouse in biomedical research: normative biology, husbandry, and models
+The complexities of skeletal biology
+Biology of intervertebral disc aging and degeneration: involvement of the extracellular matrix
+Developmental biology of T cells in T cell-receptor transgenic mice
+Species of mind: The philosophy and biology of cognitive ethology
+Introduction to protein architecture: the structural biology of proteins
+Misconceptions about the concept of natural selection by medical biology students
+Principles of bone biology
+Chemistry and biology of the tetrahydroisoquinoline antitumor antibiotics
+Advances in single-molecule fluorescence methods for molecular biology
+A new biology for a new century
+Water pollution biology
+The biology of decapod crustacean larvae
+Trabecular bone density and loading history: regulation of connective tissue biology by mechanical energy
+Transcript length bias in RNA-seq data confounds systems biology
+Nucleoside transporters: molecular biology and implications for therapeutic development
+Resveratrol: from grapevines to mammalian biology
+Molecular biology of the lignin-degrading basidiomycete Phanerochaete chrysosporium.
+Peroxisome biogenesis disorders: genetics and cell biology
+The mystical mind: Probing the biology of religious experience
+Biology and ecology of fishes in southern African estuaries
+The biology of eucalypts.
+The biology of the 17–1A antigen (Ep-CAM)
+Primary hyperaldosteronism in essential hypertensives: prevalence, biochemical profile, and molecular biology
+… world (Insecta: Homoptera: Coccoidea: Pseudococcidae and Putoidae) with data on geographical distribution, host plants, biology and economic importance.
+Lysyl oxidase: properties, regulation and multiple functions in biology
+Algebraic statistics for computational biology
+The structural biology of type II fatty acid biosynthesis
+Biology of freshwater Chironomidae
+Intermolecular forces in biology
+Quantum dot-based resonance energy transfer and its growing application in biology
+Biology of vascular endothelial growth factors
+Ultraviolet laser‐induced fluorescence of colonic tissue: basic biology and diagnostic potential
+Dictionary of microbiology and molecular biology.
+Conceptual issues in evolutionary biology
+The biology and evolution of music: A comparative perspective
+The biology of influenza viruses
+Microtus population biology: demographic changes in fluctuating populations of M. ochrogaster and M. pennsylvanicus in southern Indiana
+Invasion biology
+The biology of the Ets1 proto-oncogene
+Insect Conservation Biology (Conservation Biology, No 2)
+… into Practice: A seven-step framework for developing regional plans to conserve biological diversity, based upon principles of conservation biology and ecology, is …
+Primate conservation biology
+The biology and future prospects of antivirulence therapies
+Bone cell biology: the regulation of development, structure, and function in the skeleton
+Functional biology of plant phosphate uptake at root and mycorrhiza interfaces
+The Biology Workbench—a seamless database and analysis environment for the biologist
+Systems biology and combination therapy in the quest for clinical efficacy
+Dynamical systems in population biology
+Dinuclear iron‐and manganese‐oxo sites in biology
+The biology of limpets: physical factors, energy flow, and ecological interactions
+Food habits, energetics, and the population biology of mammals
+Chronic myelogenous leukemia: biology and therapy
+Trichoderma: a review of biology and systematics of the genus
+Tissue engineering: a new paradigm for periodontal regeneration based on molecular and cell biology
+Ontogeny and Phylogeny of Hormone Receptors. Monographs in Developmental Biology, vol. 15
+Citrus fruit: biology, technology and evaluation
+Nitrogen dioxide and carbonate radical anion: two emerging radicals in biology
+The biology and chemistry of fertilization
+Information theory & molecular biology
+Posttraumatic stress disorder: psychology, biology, and the manichaean warfare between false dichotomies.
+EcoCyc: a comprehensive database of Escherichia coli biology
+The cell biology of thrombospondin-1
+Phospholipase D: molecular and cell biology of a novel gene family
