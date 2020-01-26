@@ -5,11 +5,11 @@
   <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/HAL9000.svg/1024px-HAL9000.svg.png">
 </p>
 
-# Generating Academic-Sound Papers Titles 
+## Generating Academic-Sound Papers Titles 
 
 A simple bot for generating and posting paper titles based on original ones obtained from Google Scholar.
 
-## Scrape and Parse
+### Scrape and Parse
 Scrape some topics 
 ```python
 from modules.text.scraper import ScholarScraper
@@ -47,7 +47,7 @@ text_object = parser.parse_text(
     txt_obj_name='bandura_einstein'
 )
 ```
-## Create and Train Bot Brain
+### Create and Train Bot Brain
 ```python
 from modules.bot.brain_creator import BrainCreator
 
@@ -73,7 +73,7 @@ brain.train_model(
 )
 brain.save_model('bandura_einstein')
 ```
-## Assemble and Query Bot
+### Assemble and Query Bot
 ```python
 from modules.bot.brain_creator import AssembledBrain
 from modules.bot.bot_creator import GeneralBot
@@ -94,10 +94,10 @@ while not finished:
     finished, selected_title = bot.proposing()
 ```
 
-## Twitter Interface
+### Twitter Interface
 ...
 
-## Available Data
+### Available Data
 Authors
 ```
 * Albert Bandura
@@ -129,10 +129,10 @@ Topics
 * Zoology
 ```
 
-## Examples
+### Examples
 ...
 
-## Roadmap
+### Roadmap
 1. Implement the interface with Twitter through [Tweepy](https://www.tweepy.org/).
 2. Create a Twitter account, deploy the bot and let it operates in a semi-automated fashion.
 3. Expand the scraper functionalities integrating [arXiv API](https://arxiv.org/help/api/user-manual).
