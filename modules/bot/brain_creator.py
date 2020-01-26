@@ -1,7 +1,9 @@
 import pickle
 
-from keras.models import Model, load_model
-from keras.layers import Input, Dense, Activation
+import numpy as np
+
+from tensorflow.keras.models import Model, load_model
+from tensorflow.keras.layers import Input, Dense, Activation, Embedding
 
 from ..utilities.model_utils import _AbstractModel
 
@@ -21,11 +23,13 @@ class AssembledBrain:
 
 class BrainCreator(_AbstractModel):
     def __init__(self, X, y):
+        self.X_n_unique = len(np.unique(X))
         self.X_shape, self.y_shape = X.shape, y.shape
         self.model = None
 
     def create_recurrent_model(self, recurrent_layers, fc_layers,
-                               dropout_rate, optimizer, batch_size=256):
+                               dropout_rate, optimizer, batch_size=256,
+                               embedded=150):
         '''
         Method for creating the recurrent model (LSTM cells)
 
@@ -38,10 +42,17 @@ class BrainCreator(_AbstractModel):
         Returns:
             - None
         '''
-        model_input = Input(shape=(None, self.X_shape[2]))
+        if embedded is not None:
+            model_input = Input(shape=(None,))
+            recurrent_input = Embedding(
+                input_dim=self.X_n_unique + 1,
+                output_dimension=embedded
+            )
+        else:
+            model_input = Input(shape=(None, self.X_shape[2]))
+            recurrent_input = model_input
         recurrent_block = self.create_recurrent_block(
-            input_tensor=model_input,
-            CUDA=True,
+            input_tensor=recurrent_input,
             layers=recurrent_layers,
             temporal=False
         )

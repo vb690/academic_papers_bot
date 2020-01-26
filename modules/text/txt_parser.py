@@ -1,8 +1,10 @@
+import re
+
 import pickle
 
 import numpy as np
 
-from keras.utils import to_categorical
+from tensorflow.keras.utils import to_categorical
 
 
 class _TextObject():
@@ -22,7 +24,7 @@ class _TextObject():
             - char_int: a dictionary for converting the character to integer
             - int_char: a dictionary for converting the integer to character
         '''
-        self.characters = []
+        self.units = []
         self.X = []
         self.y = []
         self.starting_seeds = []
@@ -30,13 +32,19 @@ class _TextObject():
         self.inte_unit = {}
 
     def __getstate__(self):
+        '''
+        Magic method for avoiding save unnecessarily big TextObjects
+        '''
         state = dict(self.__dict__)
-        del state['characters']
+        del state['units']
         del state['X']
         del state['y']
         return state
 
     def _save_text_object(self, txt_obj_name):
+        '''
+        Protected method for saving the TextObject
+        '''
         with open('loadings\\text_objects\\{}.pkl'.format(txt_obj_name),
                   'wb'
                   ) as output:
@@ -44,7 +52,7 @@ class _TextObject():
 
 
 class TextParser():
-    def __init__(self, names, sequence_len):
+    def __init__(self, topics, sequence_len):
         '''
         Initialize a TextParser that will store the parsed text
         in a TextObject:
@@ -62,7 +70,7 @@ class TextParser():
               [r, e, m,  , i] ---> ['p']
                         ...
         '''
-        self.names = names
+        self.topics = topics
         self.sequence_len = sequence_len
         self.text_object = _TextObject()
 
@@ -85,7 +93,7 @@ class TextParser():
             if char:
                 units.extend(list(sentence))
             else:
-                units.extend(sentence.split())
+                units.extend(re.split(r'(\s+)', sentence))
 
         return sorted(list(set(units)))
 
@@ -104,8 +112,8 @@ class TextParser():
             - int_char: is the reverse of char_int
         '''
         unit_int = {unit: inte for inte, unit in enumerate(units, 0)}
-        int_char = {inte: unit for unit, inte in unit_int.items()}
-        return unit_int, int_char
+        int_unit = {inte: unit for unit, inte in unit_int.items()}
+        return unit_int, int_unit
 
     @staticmethod
     def get_sequences(sentence, sequence_len, unit_inte):
@@ -135,7 +143,7 @@ class TextParser():
 
         return X, y
 
-    def parse_text(self, text_path, txt_obj_name, normalize=True, save=True):
+    def parse_text(self, text_paths, txt_obj_name, normalize=False, save=True):
         '''
         Method for parsing the text and updating the TextObject
 
@@ -147,18 +155,20 @@ class TextParser():
             - text_object:
         '''
         sentences = []
-        for topic in self.names:
+        for text_path, list_topics in zip(text_paths, self.topics):
 
-            in_text = open('{}{}.txt'.format(text_path, topic),
-                           encoding='utf-8',
-                           mode='r'
-                           )
+            for topic in list_topics:
 
-            for sentence in in_text:
+                in_text = open('{}{}.txt'.format(text_path, topic),
+                               encoding='utf-8',
+                               mode='r'
+                               )
 
-                sentences.append(sentence)
+                for sentence in in_text:
 
-        self.text_object.characters = self.get_units(sentences)
+                    sentences.append(sentence)
+
+        self.text_object.units = self.get_units(sentences)
         self.text_object.unit_inte, self.text_object.inte_unit = \
             self.create_unit_inte_codes(self.text_object.characters)
         for sentence in sentences:
@@ -177,10 +187,15 @@ class TextParser():
         if normalize:
             self.text_object.X = \
                 np.array(self.text_object.X) / len(self.text_object.unit_inte)
-        self.text_object.X = np.reshape(self.text_object.X,
-                                        (len(self.text_object.X),
-                                         self.sequence_len, 1)
-                                        )
+            self.text_object.X = np.reshape(self.text_object.X,
+                                            (len(self.text_object.X),
+                                             self.sequence_len, 1)
+                                            )
+        else:
+            self.text_object.X = np.reshape(np.array(self.text_object.X),
+                                            (len(self.text_object.X),
+                                             self.sequence_len)
+                                            )
         self.text_object.y = to_categorical(np.array(self.text_object.y))
 
         setattr(self.text_object, 'X_shape', self.text_object.X.shape)

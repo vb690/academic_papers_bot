@@ -57,7 +57,6 @@ class GeneralBot():
         Returns:
             - A string sampled at random from starting_seed
         '''
-
         index = np.random.randint(len(starting_seeds))
         return starting_seeds[index]
 
@@ -86,7 +85,7 @@ class GeneralBot():
             predicted_unit = None
             seed = deepcopy(self.random_seed_sampling(starting_seeds))
             title = [
-                self.text_object.inte_unit[character] for character in seed
+                self.text_object.inte_unit[unit] for unit in seed
             ]
             # we keep generating titles untill an EOS is generated
             while predicted_unit != '\n':

@@ -1,9 +1,8 @@
-from keras.layers import LSTM, CuDNNLSTM, Dense
-from keras.layers import Activation, Dropout, BatchNormalization
+from tensorflow.keras.layers import LSTM, Dense
+from tensorflow.keras.layers import Activation, Dropout, BatchNormalization
 
-from keras.models import model_from_json
-from keras.callbacks import ModelCheckpoint
-from keras_contrib.callbacks.cyclical_learning_rate import CyclicLR
+from tesnorflow.keras.models import model_from_json
+from tensorflow.keras.callbacks import ModelCheckpoint
 
 
 class _AbstractModel:
@@ -39,13 +38,12 @@ class _AbstractModel:
 
         return fc
 
-    def create_recurrent_block(self, input_tensor, CUDA=True, **kwargs):
+    def create_recurrent_block(self, input_tensor, **kwargs):
         '''
         Function for creating a block of fully connected layers
 
         Arguments:
             - input_tensor:
-            - CUDA:
             - **kwargs:
 
         Returns:
@@ -53,25 +51,21 @@ class _AbstractModel:
         '''
         if len(kwargs['layers']) == 0:
             return input_tensor
-        if CUDA:
-            lstm = CuDNNLSTM
-        else:
-            lstm = LSTM
         return_sequences = len(kwargs['layers']) > 1
         for layer, units in enumerate(kwargs['layers']):
 
             if layer == 0:
-                recurrent = lstm(
+                recurrent = LSTM(
                     units,
                     return_sequences=return_sequences
                 )(input_tensor)
             elif layer == len(kwargs['layers']) - 1:
-                recurrent = lstm(
+                recurrent = LSTM(
                     units,
                     return_sequences=kwargs['temporal']
                 )(recurrent)
             else:
-                recurrent = lstm(
+                recurrent = LSTM(
                     units,
                     return_sequences=return_sequences
                 )(recurrent)
@@ -105,15 +99,11 @@ class _AbstractModel:
             save_best_only=True,
             mode='min',
         )
-        learning_rate_sched = CyclicLR(
-            mode='triangular2',
-            step_size=(X.shape[0] // batch_size) * 2
-        )
         self.model.fit(
             X,
             y,
             verbose=verbose,
-            callbacks=[checkpoint, learning_rate_sched],
+            callbacks=[checkpoint],
             batch_size=batch_size,
             epochs=epochs,
             **kwargs
