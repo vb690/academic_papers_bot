@@ -94,7 +94,7 @@ while not finished:
     finished, selected_title = bot.proposing()
 ```
 
-### Twitter Interface
+### Streamlit App
 ...
 
 ### Available Data
@@ -133,6 +133,5 @@ Topics
 ...
 
 ### Roadmap
-1. Implement the interface with Twitter through [Tweepy](https://www.tweepy.org/).
-2. Create a Twitter account, deploy the bot and let it operates in a semi-automated fashion.
+1. Implement a streamlit app.
 3. Expand the scraper functionalities integrating [arXiv API](https://arxiv.org/help/api/user-manual).
