@@ -1,7 +1,7 @@
-# ScholHAL 9000
-
 <p align="center">
-  <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/HAL9000.svg/1024px-HAL9000.svg.png">
+  <img width="400" height="100" src="https://github.com/vb690/academic_papers_bot/blob/master/images/font.png">
+<p align="center">
+  <img width="200" height="200" src="https://github.com/vb690/academic_papers_bot/blob/master/images/hal.png">
 <p align="center">
   <i>"Good afternoon, gentlemen.   <br /> 
    I am a ScholHAL 9000 computer"
