@@ -1,8 +1,10 @@
 # ScholHAL 9000
-*Good afternoon, gentlemen. I am a ScholHAL 9000 computer*
 
 <p align="center">
   <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/HAL9000.svg/1024px-HAL9000.svg.png">
+<p align="center">
+  <i>"Good afternoon, gentlemen.   <br /> 
+   I am a ScholHAL 9000 computer"
 </p>
 
 ## Generating Academic-Sound Papers Titles 
