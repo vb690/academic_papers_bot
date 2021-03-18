@@ -109,6 +109,8 @@ Authors
 * Kent Berridge
 * Michael Gazzaniga
 * Richard Davidson
+* Stephen Hawking
+* Charles Robert Darwin
 ```
 Topics
 ```
