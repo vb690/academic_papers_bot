@@ -4,7 +4,7 @@
   <img width="200" height="200" src="https://github.com/vb690/academic_papers_bot/blob/master/images/hal.png">
 <p align="center">
   <i>"Good afternoon, gentlemen.   <br /> 
-   I am a ScholHAL 9000 computer"<i>
+   I am a ScholHAL 9000 computer" </i>
 </p>
 
 ## Generating Academic-Sound Papers Titles 
