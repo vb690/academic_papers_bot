@@ -9,9 +9,8 @@ from ..utilities.model_utils import _AbstractModel
 
 
 class AssembledBrain:
-    '''
-    Class assemblying a brain object from saved model and TextObject
-    '''
+    """Class assemblying a brain object from saved model and TextObject
+    """
     def __init__(self, theme):
         with open(
             'loadings\\text_objects\\{}.pkl'.format(theme), 'rb'
@@ -30,8 +29,7 @@ class BrainCreator(_AbstractModel):
     def create_recurrent_model(self, recurrent_layers, fc_layers,
                                dropout_rate, optimizer, batch_size=256,
                                embedded=150):
-        '''
-        Method for creating the recurrent model (LSTM cells)
+        """Method for creating the recurrent model (LSTM cells)
 
         Arguments:
             - hidden_units: is an iterable of integers storing the number of
@@ -41,13 +39,13 @@ class BrainCreator(_AbstractModel):
 
         Returns:
             - None
-        '''
+        """
         if embedded is not None:
             model_input = Input(shape=(None,))
             recurrent_input = Embedding(
-                input_dim=self.X_n_unique + 1,
-                output_dimension=embedded
-            )
+                input_dim=self.X_n_unique + 2,
+                output_dim=embedded
+            )(model_input)
         else:
             model_input = Input(shape=(None, self.X_shape[2]))
             recurrent_input = model_input

@@ -3,25 +3,23 @@ from copy import deepcopy
 import numpy as np
 
 
-class GeneralBot():
+class GeneralBot:
     def __init__(self, brain):
-        '''
-        Instatiate a GeneralBot object which will use the trained RNN stored
+        """Instatiate a GeneralBot object which will use the trained RNN stored
         in the ModelCreator for producing new paper titles
 
         Arguments:
             - titles: in an iterable storing the generated titles
             - brain: is a ModelCreator object storing a trained RNN and
                      a TextObject
-        '''
+        """
         self.titles = []
         self.model = brain.model
         self.text_object = brain.text_object
 
     @staticmethod
     def temperated_prediction(predictions, temperature=1.0):
-        '''
-        Static method for sampling a prediction from temperated output of the
+        """Static method for sampling a prediction from temperated output of the
         softmax function
         Higher temperature = more variability, more randomness, more errors
         Lower temperature  = less variability, more repetition, less errors
@@ -34,7 +32,7 @@ class GeneralBot():
 
         Returns:
             - The argmax of the temperated softmax output
-        '''
+        """
         predictions = np.asarray(predictions[0]).astype('float64')
         # take the log of the probabilities
         predictions = np.log(predictions) / temperature
@@ -46,8 +44,7 @@ class GeneralBot():
 
     @staticmethod
     def random_seed_sampling(starting_seeds):
-        '''
-        Static method for sampling at random starting seed from all the
+        """Static method for sampling at random starting seed from all the
         possible ones
 
         Arguments:
@@ -56,13 +53,12 @@ class GeneralBot():
 
         Returns:
             - A string sampled at random from starting_seed
-        '''
+        """
         index = np.random.randint(len(starting_seeds))
         return starting_seeds[index]
 
     def thinking(self, total_titles, temperature, min_len=0):
-        '''
-        Method for generating titles with a specific temperature and storing
+        """Method for generating titles with a specific temperature and storing
         them in titles attribute
 
         Args:
@@ -73,7 +69,7 @@ class GeneralBot():
 
         Returns:
             - None
-        '''
+        """
         self.titles = []
         counter_titles = 0
         starting_seeds = self.text_object.starting_seeds
@@ -117,8 +113,7 @@ class GeneralBot():
             counter_titles += 1
 
     def proposing(self):
-        '''
-        Method for proposing a series of generated titles and asking to select
+        """Method for proposing a series of generated titles and asking to select
         one
 
         Arguments:
@@ -127,7 +122,7 @@ class GeneralBot():
         Returns:
             - selected: is an integer specifying the index of the selected
               title
-        '''
+        """
         for index, title in enumerate(self.titles):
 
             print('[{}] {} \n'.format(index, title))
@@ -140,15 +135,14 @@ class GeneralBot():
             return True, self.titles[int(selected_title)]
 
     def speaking(self):
-        '''
-        Method for for printing the generated paper titles
+        """Method for for printing the generated paper titles
 
         Arguments:
             - None
 
         Returns:
             - None
-        '''
+        """
         for paper in self.titles:
 
             print('Hey! This seems cool, check it out!')

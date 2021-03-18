@@ -7,10 +7,9 @@ import numpy as np
 from tensorflow.keras.utils import to_categorical
 
 
-class _TextObject():
+class _TextObject:
     def __init__(self):
-        '''
-        Initialize a TextObject for storing from all the parsed txt files:
+        """Initialize a TextObject for storing from all the parsed txt files:
 
             - characters: an iterable of all the unique characters in the
               parsed files
@@ -23,7 +22,7 @@ class _TextObject():
               generating new text
             - char_int: a dictionary for converting the character to integer
             - int_char: a dictionary for converting the integer to character
-        '''
+        """
         self.units = []
         self.X = []
         self.y = []
@@ -32,9 +31,8 @@ class _TextObject():
         self.inte_unit = {}
 
     def __getstate__(self):
-        '''
-        Magic method for avoiding save unnecessarily big TextObjects
-        '''
+        """Magic method for avoiding save unnecessarily big TextObjects
+        """
         state = dict(self.__dict__)
         del state['units']
         del state['X']
@@ -42,19 +40,18 @@ class _TextObject():
         return state
 
     def _save_text_object(self, txt_obj_name):
-        '''
-        Protected method for saving the TextObject
-        '''
+        """Protected method for saving the TextObject
+        """
         with open('loadings\\text_objects\\{}.pkl'.format(txt_obj_name),
                   'wb'
                   ) as output:
             pickle.dump(self, output, pickle.HIGHEST_PROTOCOL)
+        return None
 
 
-class TextParser():
+class TextParser:
     def __init__(self, topics, sequence_len):
-        '''
-        Initialize a TextParser that will store the parsed text
+        """Initialize a TextParser that will store the parsed text
         in a TextObject:
 
         Args:
@@ -69,14 +66,14 @@ class TextParser():
               [o, r, e, m,  ] ---> ['i']
               [r, e, m,  , i] ---> ['p']
                         ...
-        '''
+        """
         self.topics = topics
         self.sequence_len = sequence_len
         self.text_object = _TextObject()
 
     @staticmethod
     def get_units(sentences, char=True):
-        '''
+        """
         Method for extracting  a list of unique units (characters or words)
         from a list of sentences
 
@@ -86,7 +83,7 @@ class TextParser():
 
         Returns:
             - a sorted list of unique characters present in sentences
-        '''
+        """
         units = []
         for sentence in sentences:
 
@@ -99,7 +96,7 @@ class TextParser():
 
     @staticmethod
     def create_unit_inte_codes(units):
-        '''
+        """
         Method for creating a char_int and int_char dictionaries
 
         Args:
@@ -110,14 +107,14 @@ class TextParser():
             - char_int: is a dictionary having as keys the characters and as
               value their relative code
             - int_char: is the reverse of char_int
-        '''
+        """
         unit_int = {unit: inte for inte, unit in enumerate(units, 0)}
         int_unit = {inte: unit for unit, inte in unit_int.items()}
         return unit_int, int_unit
 
     @staticmethod
     def get_sequences(sentence, sequence_len, unit_inte):
-        '''
+        """
         Method for dividing a sentence in training characters (X) of length
         sequence_len and target character (y)
 
@@ -129,7 +126,7 @@ class TextParser():
         Returns:
             - X: is an iterable
             - y: is an iterable
-        '''
+        """
         X = []
         y = []
         for index in range(len(sentence) - sequence_len):
@@ -144,8 +141,7 @@ class TextParser():
         return X, y
 
     def parse_text(self, text_paths, txt_obj_name, normalize=False, save=True):
-        '''
-        Method for parsing the text and updating the TextObject
+        """Method for parsing the text and updating the TextObject
 
         Arguments:
             - save:
@@ -153,7 +149,7 @@ class TextParser():
 
         Returns:
             - text_object:
-        '''
+        """
         sentences = []
         for text_path, list_topics in zip(text_paths, self.topics):
 
@@ -169,8 +165,7 @@ class TextParser():
                     sentences.append(sentence)
 
         self.text_object.units = self.get_units(sentences)
-        self.text_object.unit_inte, self.text_object.inte_unit = \
-            self.create_unit_inte_codes(self.text_object.characters)
+        self.text_object.unit_inte, self.text_object.inte_unit = self.create_unit_inte_codes(self.text_object.units)
         for sentence in sentences:
 
             X, y = self.get_sequences(

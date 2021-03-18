@@ -1,10 +1,9 @@
-import scholarly as sc
+from scholarly import scholarly as sc
 
 
-class ScholarScraper():
+class ScholarScraper:
     def __init__(self, hard_limit=2000):
-        '''
-        Initialize a scraper object.
+        """Initialize a scraper object.
 
         Arguments:
             - results_path: a string specifying the path where to save file
@@ -12,12 +11,11 @@ class ScholarScraper():
             - hard_limit: an integer specifying the maximum ammount of titles
               to scrape, Google Scholar however poses a limit of 900 hits
               every =~ 24h
-        '''
+        """
         self.hard_limit = hard_limit
 
     def scrape_topic(self, topic, min_len=0, max_len=9999):
-        '''
-        Method for scraping scientific papers' titles from Google Scholar on
+        """Method for scraping scientific papers' titles from Google Scholar on
         a specific topic
 
         Arguments:
@@ -28,7 +26,7 @@ class ScholarScraper():
 
         Returns:
             - None
-        '''
+        """
         search = sc.search_keyword(topic)
         keyword = next(search).fill()
         with open(
@@ -48,8 +46,7 @@ class ScholarScraper():
                     break
 
     def scrape_author(self, author_name, min_len=0, max_len=9999):
-        '''
-        Method for scraping scientific papers' titles from Google Scholar
+        """Method for scraping scientific papers' titles from Google Scholar
         from a specific author
 
         Arguments:
@@ -59,20 +56,22 @@ class ScholarScraper():
 
         Returns:
             - None
-        '''
+        """
         search = sc.search_author(author_name)
-        author = next(search).fill()
+        author = next(search)
+        sc.fill(author, sections=['publications'])
+        print(author.keys())
         with open(
             'loadings\\authors_papers\\{}.txt'.format(author_name),
-            'a',
+            'w',
             encoding='utf-8'
         ) as file:
-            for counter, pubblication in enumerate(author.publications):
+            for counter, pubblication in enumerate(author['publications']):
 
-                if len(pubblication.bib['title']) < min_len \
-                 or len(pubblication.bib['title']) > max_len:
+                if len(pubblication['bib']['title']) < min_len \
+                 or len(pubblication['bib']['title']) > max_len:
                     continue
-                file.write(pubblication.bib['title'])
+                file.write(pubblication['bib']['title'])
                 file.write('\n')
                 counter += 1
                 if counter > self.hard_limit:
@@ -81,12 +80,7 @@ class ScholarScraper():
 
 if __name__ == '__main__':
     scraper = ScholarScraper()
-    # test scraping a topic
-    for topic in ['phisics']:
-
-        scraper.scrape_topic(topic=topic)
-
     # test scraping authors
-    for author in ['Albert Bandura', 'Albert Einstein']:
+    for author in ['Stephen Hawking', 'Carl Sagan',  'Charles Robert Darwin']:
 
         scraper.scrape_author(author_name=author)
