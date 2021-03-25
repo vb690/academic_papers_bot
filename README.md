@@ -104,8 +104,6 @@ Authors
 ```
 * Albert Bandura
 * Albert Einstein
-* Alex Wade
-* Anders Drachen
 * Burrhus Frederic Skinner
 * Jaak Panksepp
 * Kent Berridge
