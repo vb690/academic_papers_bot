@@ -140,7 +140,8 @@ class TextParser:
 
         return X, y
 
-    def parse_text(self, text_paths, txt_obj_name, normalize=False, save=True):
+    def parse_text(self, text_paths, txt_obj_name, normalize=False, save=True,
+                   char=True):
         """Method for parsing the text and updating the TextObject
 
         Arguments:
@@ -164,7 +165,7 @@ class TextParser:
 
                     sentences.append(sentence)
 
-        self.text_object.units = self.get_units(sentences)
+        self.text_object.units = self.get_units(sentences, char=char)
         self.text_object.unit_inte, self.text_object.inte_unit = self.create_unit_inte_codes(self.text_object.units)
         for sentence in sentences:
 

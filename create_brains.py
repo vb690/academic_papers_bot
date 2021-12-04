@@ -2,19 +2,27 @@ from modules.bot.brain_creator import BrainCreator
 from modules.text.txt_parser import TextParser
 
 brains = {
-    'Albert Einstein': ['Albert Einstein'],
-    'Jaak Panksepp': ['Jaak Panksepp'],
+    'Einstein Panksepp Bandura Gazzaniga Sagan Berridge Skinner': [
+        'Albert Einstein',
+        'Jaak Panksepp',
+        'Albert Bandura',
+        'Michael Gazzaniga',
+        'Carl Sagan',
+        'Kent Berridge',
+        'Burrhus Frederic Skinner'
+    ]
 }
 
 for brain_name, brain_papers in brains.items():
 
     parser = TextParser(
         topics=[brain_papers],
-        sequence_len=12
+        sequence_len=10
     )
     text_object = parser.parse_text(
         ['loadings\\authors_papers\\'],
-        brain_name
+        brain_name,
+        char=True
     )
 
     # CREATE AND TRAIN
@@ -24,9 +32,9 @@ for brain_name, brain_papers in brains.items():
         )
 
     brain.create_recurrent_model(
-        recurrent_layers=[250],
-        fc_layers=[150, 75, 25],
-        dropout_rate=0.0,
+        recurrent_layers=[150],
+        fc_layers=[75, 25],
+        dropout_rate=0.1,
         optimizer='adam',
         batch_size=256
     )

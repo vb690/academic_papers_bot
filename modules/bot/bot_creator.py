@@ -129,7 +129,7 @@ class GeneralBot:
 
         print('[-1] New Titles Batch \n')
         selected_title = input('Select title: ')
-        if selected_title == -1:
+        if selected_title == '-1':
             return False, None
         else:
             return True, self.titles[int(selected_title)]

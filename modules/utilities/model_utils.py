@@ -1,5 +1,5 @@
 from tensorflow.keras.layers import LSTM, Dense
-from tensorflow.keras.layers import Activation, Dropout, BatchNormalization
+from tensorflow.keras.layers import Activation, Dropout
 
 from tensorflow.keras.models import model_from_json
 from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping
@@ -27,12 +27,10 @@ class _AbstractModel:
             if layer == 0:
                 fc = Dense(units)(input_tensor)
                 fc = Activation(kwargs['activation'])(fc)
-                fc = BatchNormalization()(fc)
                 fc = Dropout(kwargs['dropout_rate'])(fc)
             else:
                 fc = Dense(units)(input_tensor)
                 fc = Activation(kwargs['activation'])(fc)
-                fc = BatchNormalization()(fc)
                 fc = Dropout(kwargs['dropout_rate'])(fc)
 
         return fc

@@ -3,13 +3,16 @@ from modules.bot.bot_creator import GeneralBot
 
 # GENERATE TITLES
 finished = False
-brain = AssembledBrain('Jaak Panksepp')
+brain = AssembledBrain(
+    'Einstein Panksepp Bandura Gazzaniga Sagan Berridge Skinner'
+)
 bot = GeneralBot(brain=brain)
 while not finished:
 
     bot.thinking(
         total_titles=10,
-        temperature=0.6,
-        min_len=0
+        temperature=1,
+        min_len=20
     )
     finished, selected_title = bot.proposing()
+    print(finished)
